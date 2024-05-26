@@ -1,0 +1,1691 @@
+,user_id,submitted_assignments,blocked_income,income,country,age,country_name,languages,english_spoken,country_by_ip
+2,007091bf49b06d0bf02e9fb9279f2eb9,4,0.0,0.38,PK,33,Pakistan,"['EN', 'UR']",True,PK
+3,0073bb653e12c1a2a5295ad168fdf175,27,0.0,3.08,KE,25,Kenya,"['SW', 'EN', 'TR']",True,KE
+4,00898a085f697505517486fe4eed5d08,1,0.0,0.09,US,41,United States,['EN'],True,US
+5,0093003258d3ec8b8af7e6e03f489ca5,8,0.0,0.74,SA,34,Saudi Arabia,"['AR', 'EN']",False,SA
+6,00bb9fd1be172bc01d82f19c95f51902,4,0.0,0.38,IN,22,India,"['DE', 'EN', 'FR']",True,IN
+7,00bd0e92a4d99b02e7707036a74e51f3,1,0.0,0.09,IN,22,India,"['EN', 'HI']",True,IN
+8,00cc0a567a2c8506d00f38ab60a8e01e,1,0.0,0.09,KE,20,Kenya,['EN'],True,KE
+11,011034cbda0b7399c8ea4d377c075fec,4,0.0,0.38,KE,26,Kenya,['EN'],True,KE
+12,014ff47ac68f9794baae2b47a5f35299,1,0.0,0.09,EG,19,Egypt,"['AR', 'EN', 'IT', 'KK']",False,EG
+13,016c24fe5ee7256c6a981ef0a8cef93f,4,0.0,0.38,PK,39,Pakistan,"['PT', 'EN']",True,PK
+15,0184e046e5f855226274281c696781e7,1,0.0,0.09,IN,18,India,['EN'],True,IN
+16,018f7e33962a005e80a3360464f495ef,2,0.0,0.2,KE,20,Kenya,['EN'],True,KE
+18,01a9ac6e686c938f5aece6e71d5d8b80,4,0.0,0.38,KE,28,Kenya,"['SW', 'EN']",True,KE
+21,02019ec22e8a68fa6b059989a8fbbaaf,7,0.0,0.84,IN,33,India,['EN'],True,IN
+23,020469837b66e6988f975ba9d1f72f1e,1,0.0,0.09,PK,19,Pakistan,"['UR', 'EN']",True,PK
+24,02277733fb948e6d1c496714461453e3,2,0.0,0.18,PK,34,Pakistan,"['EN', 'FR', 'UR']",True,PK
+25,02855f472902003a2f0a9bf528f4bf57,1,0.0,0.09,BR,27,Brazil,"['EN', 'PT']",False,PT
+27,02c2be284c6b5f2db3302f5dd0c75110,46,0.0,4.74,EG,33,Egypt,"['KK', 'AR', 'EL', 'RU', 'EN', 'TR']",False,EG
+29,02d5eb6feb6321dfd3b0ee566a6cc18d,1,0.0,0.1,CO,34,Colombia,"['ES', 'EN']",False,CO
+31,02ee3eb85389627d70814941d8fe0a6d,1,0.0,0.09,EG,26,Egypt,"['RU', 'FR', 'AR', 'EN', 'TR']",False,EG
+32,030408b5760809590323f399ae805aa0,3,0.0,0.29,PK,26,Pakistan,"['EN', 'ES', 'FR', 'ID', 'IT', 'RU']",True,PK
+33,030dbe2f2070b4cab8e828862de819d6,1,0.0,0.09,ZA,18,South Africa,"['EN', 'SN']",True,ZA
+34,03238e9e669b45f0598ed8459920f398,7,0.0,0.7,YE,30,Yemen,"['JA', 'ES', 'AR', 'EN', 'RU']",False,YE
+38,035c66f9ee3dc4028f05102b5dfea911,8,0.0,0.76,KE,30,Kenya,"['EN', 'TR', 'DE', 'RU', 'AR']",True,KE
+40,0363af39ad7c7a5f4efb9547de435e20,1,0.0,0.09,PK,25,Pakistan,['EN'],True,PK
+42,03b1eaf966ee31af87b9375b50067a9c,2,0.0,0.18,US,38,United States,['EN'],True,US
+44,03e4f1a5e7bd33f3967031330181f85a,1,0.0,0.1,NG,21,Nigeria,['EN'],True,NG
+47,045b46f3a1508e9dc35d68cf5df01b63,1,0.0,0.09,ZA,29,South Africa,"['EN', 'TN']",True,ZA
+51,05166507bab9b6b5954d03232e9fa828,1,0.0,0.12,PH,31,Philippines,"['TL', 'EN']",True,PH
+56,055da556ab9c0b50321756ebf961cdea,1,0.0,0.09,NG,22,Nigeria,['EN'],True,NG
+60,05a8539dd59f4256e94775c743ede458,1,0.0,0.1,IN,21,India,"['EN', 'ML']",True,IN
+62,05cce22f5506c0177965c535a68d5672,18,0.0,2.16,US,25,United States,"['EN', 'DE', 'FR']",True,CA
+63,05d458c8ae5364d2fa78477f642e7c7a,1,0.0,0.09,TN,56,Tunisia,"['FR', 'AR', 'EN']",False,TN
+67,05fca20d554250251d19682558ee2a2d,5,0.0,0.54,EG,25,Egypt,"['AR', 'EN', 'TR']",False,EG
+68,063ed9778fdcb918c11130eef93774f3,2,0.0,0.24,IN,21,India,['EN'],True,IN
+70,0664ec501ff5984b7961fbe3c77872b8,19,0.0,2.23,EG,23,Egypt,"['AR', 'EN', 'RU']",False,EG
+73,067ce17e4c1080729efcbbb47ef09c14,2,0.0,0.18,MA,19,Morocco,"['EN', 'AR', 'FR']",False,MA
+74,068147b4f64548d7524c6fa7f1c21c5a,1,0.0,0.09,US,34,United States,['EN'],True,US
+75,06bca664e7a50c305cc9fca7215cb60e,2,0.0,0.19,ET,58,Ethiopia,"['AM', 'EN', 'OM']",False,ET
+79,07261e30223409b503d9b392ecd4cfec,4,0.0,0.38,EG,21,Egypt,"['FR', 'EN', 'AR', 'RU', 'TR', 'DE']",False,EG
+80,072ff78314916814fbd9039584bac935,4,0.0,0.42,UG,25,Uganda,"['EN', 'LG']",True,UG
+81,073434e697eddc2af2af4e4493b00169,1,0.0,0.09,IN,44,India,['EN'],True,IN
+84,07599b40d1e52faeab550dc83dd35e02,1,0.0,0.09,GB,27,United Kingdom,['EN'],True,GB
+86,07b77e26b284538d4cec892d8ca9ae1a,2,0.0,0.19,EG,27,Egypt,"['AR', 'EN']",False,EG
+91,081b4d1fba7aded65613f7a1e199c467,8,0.0,0.74,TR,58,Turkey,"['EN', 'ES', 'PT', 'PT-BR', 'TR']",False,TR
+92,082b98b0e1ae1e014e25953b85e12715,7,0.0,0.84,NG,31,Nigeria,['EN'],True,NG
+94,08b381a0fa5f6835ec122426032b3243,2,0.0,0.18,PK,29,Pakistan,"['ID', 'DE', 'EN', 'ZH-HANS', 'FR', 'PT']",True,PK
+95,08d7db98e7b782b9b03bc12c080b1a1b,2,0.0,0.2,PK,33,Pakistan,"['EN', 'HI', 'PA', 'UR']",True,PK
+96,08f9d121eb88f3901823f9ea48676f65,11,0.0,1.1,GH,39,Ghana,['EN'],True,GH
+97,093d9ed1ba4eb8fa0342830772b3294c,1,0.0,0.09,EG,27,Egypt,"['AR', 'EN']",False,EG
+99,09537fe0c31a3f7cba968a9363230eb2,2,0.0,0.18,KE,20,Kenya,"['SW', 'EN']",True,KE
+106,09e7f8661d870664ab38ebc3db9351e3,21,0.0,2.1,NG,27,Nigeria,"['AR', 'EN', 'JA', 'RU']",True,NG
+107,0a032082f6ec8662d406afec47c41965,6,0.0,0.61,NG,20,Nigeria,['EN'],True,NG
+109,0a4bd0f2c244ab02e9dcaff2a92ec127,2,0.0,0.22,PH,29,Philippines,"['EN', 'TL']",True,PH
+110,0a81fd2736908f1a12d3ef3ebf93efab,2,0.0,0.19,PK,36,Pakistan,"['FR', 'EN', 'AR', 'ES', 'JA', 'DE']",True,PK
+111,0a976b9bbd37db8a005468036c7fd04d,11,0.0,1.22,NG,51,Nigeria,"['AR', 'EN', 'RU']",True,NG
+112,0a9807490fe78f007fc3c152030834b5,4,0.0,0.43,NG,21,Nigeria,"['AR', 'EN', 'HA']",True,NG
+113,0a9dea824d0de388f095efb70840b4ad,4,0.1,0.42,BR,39,Brazil,"['EN', 'PT']",False,BR
+114,0a9fb2679ae5bb753e455d094db8823f,4,0.0,0.38,PK,24,Pakistan,"['RU', 'EN', 'AR', 'DE', 'IT', 'FR']",True,PK
+116,0b133c1b329427404e36e1dd69654684,1,0.0,0.09,NG,18,Nigeria,"['YO', 'EN']",True,NG
+117,0b5aab66d064e890c18f1018d6d73057,6,0.0,0.6,EG,50,Egypt,"['AR', 'EN']",False,EG
+118,0b66d46111cdb3a39557b24d2a00947e,1,0.0,0.09,BR,42,Brazil,"['DE', 'ES', 'FR', 'PT', 'EN', 'JA']",False,BR
+119,0b6aa70f07c1ab01763dbb51e3339bb8,4,0.0,0.38,RU,24,Russia,"['JA', 'RU', 'DE', 'EN', 'SV', 'FR']",False,PK
+122,0bd123aeb236697b9a43715b35fc22cb,2,0.0,0.2,PK,38,Pakistan,"['EN', 'UR']",True,PK
+123,0bf5ead7511f8ec832639ede729e0540,4,0.0,0.39,RU,27,Russia,"['EN', 'RU']",False,UA
+125,0c15cd4cd9f5b6316c392a69846af0c9,4,0.0,0.49,IN,22,India,"['EN', 'ML']",True,IN
+126,0c3b513f18b434e466c4fe4d7b8f98b0,1,0.0,0.09,NG,19,Nigeria,"['EN', 'FR']",True,NG
+129,0c8b044d4a776ed3940f85d7b96e09fd,2,0.0,0.19,RU,30,Russia,"['EN', 'AR', 'JA', 'RU', 'TR', 'DE']",False,PK
+130,0cc3c7e4a756ab5ea1a5dc033d8c2b68,1,0.0,0.09,ET,33,Ethiopia,['EN'],False,ET
+131,0ccc4679727f8176e97cd718ecd7b81c,1,0.0,0.1,KE,26,Kenya,"['EN', 'KI', 'SW']",True,KE
+132,0ccce63dd236e42599fd293817a5afa1,1,0.0,0.1,KE,28,Kenya,"['EN', 'SW']",True,KE
+138,0d51fb28b113fd702fa7cf106a28d974,4,0.15,0.28,PK,38,Pakistan,"['DE', 'AR', 'RU', 'PT', 'EN', 'IT']",True,PK
+140,0d982610d3996896d2d17ee1450c440b,3,0.0,0.29,US,46,United States,['EN'],True,US
+142,0dc4283a9c401d3a4610bba6156672c5,1,0.0,0.1,US,53,United States,['EN'],True,US
+145,0e44547506c168e3516a20e249b904f1,1,0.0,0.09,PK,24,Pakistan,['EN'],True,PK
+146,0e6443d8b395125a980be00ebf301fe2,35,0.0,3.68,VN,23,Vietnam,"['DE', 'EN', 'ES', 'FR', 'JA', 'RU']",False,VN
+147,0e67fed4058fa519b8c05c2a4a8415e7,2,0.0,0.18,ET,22,Ethiopia,"['AM', 'EN']",False,ET
+148,0e69c90363f39fd54175d1ab4ba750f5,6,0.0,0.73,EG,24,Egypt,"['AR', 'EN']",False,EG
+151,0ea7bc479c9605b16d5237493f1d0c17,1,0.0,0.09,NP,49,Nepal,['EN'],False,NP
+153,0ed0d0903f130f3547cf9329a0fef69d,6,0.0,0.58,PH,34,Philippines,['EN'],True,PH
+155,0ee576f2be8b40aaa295edf254e2ffe6,1,0.0,0.09,ZA,33,South Africa,['EN'],True,ZA
+156,0f1220a918beeebc56a03cf98daf2b6f,4,0.0,0.39,EG,24,Egypt,"['AR', 'RU', 'EN', 'KK']",False,EG
+160,0f4a5964440eaba26ecd603f447a7488,1,0.0,0.09,IN,19,India,['EN'],True,IN
+161,0f887551b5e477b76ef6f1deb29eaaa0,1,0.0,0.09,KE,28,Kenya,['EN'],True,KE
+165,0fd07f181f4882af3638ba6cea48c519,4,0.0,0.48,KE,30,Kenya,['EN'],True,KE
+172,1054125575134e952f7eb9c1361db4cb,4,0.0,0.38,KE,33,Kenya,"['FR', 'SW', 'EN']",True,KE
+173,10551b2b2804ebf310dfd665dc9a563a,4,0.0,0.38,KE,24,Kenya,['EN'],True,KE
+178,10cadc5e1ee36ed11d44f7acb7dfe1fd,30,0.0,3.08,UA,36,Ukraine,"['DE', 'EN', 'ES', 'RU', 'UK']",False,UA
+181,111b328820656ff89f132ae7119f3beb,4,0.0,0.38,EG,23,Egypt,"['AR', 'EN', 'RU']",False,EG
+182,11370774f424b3f49ba6d8c00d164527,1,0.0,0.09,IN,20,India,['EN'],True,IN
+183,11421700b5655637551c8929ccf8e43a,11,0.0,1.1,EG,30,Egypt,"['AR', 'EN']",False,EG
+184,115bef105da3086e498e7c0faae46152,8,0.0,0.78,PK,21,Pakistan,"['EN', 'RU', 'ES', 'PT', 'AR', 'JA']",True,PK
+186,11b50d3925f1f46443cd9e9a8939f20f,2,0.0,0.19,US,43,United States,"['EN', 'ES']",True,KE
+188,11d732a4015e3131df6143d65f303189,1,0.0,0.09,IN,21,India,"['HI', 'EN']",True,IN
+189,11e9ae165d7f51765ebfb9e180d157f5,1,0.0,0.09,PK,23,Pakistan,['EN'],True,PK
+190,11fee6779ca8f81aa7a6994516546fd2,2,0.0,0.25,ZA,26,South Africa,['EN'],True,ZA
+192,12106c17c82d4d55ca2e150bedafa75a,4,0.0,0.39,TR,35,Turkey,"['EN', 'TR']",False,TR
+194,122511218f3ecf87a720cb260fba6db0,4,0.0,0.38,VN,41,Vietnam,"['DE', 'EN', 'VI']",False,VN
+195,124eea5eff1fe7e815711cad89819c58,10,0.0,0.92,PK,20,Pakistan,"['DE', 'IT', 'AR', 'PT', 'ES', 'EN']",True,PK
+197,12a3a6c18ca648b6ef8fa8a92b6c4946,2,0.0,0.25,NG,26,Nigeria,['EN'],True,NG
+198,12fa1b99c7c458128af2c6a1a86199a2,1,0.0,0.09,IN,27,India,"['EN', 'ES', 'JA']",True,IN
+200,131150416a9d26ce8d0cff89c7be1487,1,0.0,0.09,NG,25,Nigeria,['EN'],True,NG
+201,13260b3265cc9f32186d512c7eacdaf2,4,0.0,0.38,PK,45,Pakistan,"['EN', 'RU', 'KK', 'AR', 'JA', 'DE']",True,AE
+202,132fc227716c7802d3a19891616534dd,4,0.0,0.38,PH,19,Philippines,"['EN', 'TL']",True,PH
+203,133faa135d7630b4c6dd8047d305d5f5,4,0.0,0.39,BW,30,Botswana,['EN'],True,BW
+204,1357ed47d996003c39a623550f4f25e9,2,0.0,0.21,ID,25,Indonesia,"['EN', 'ID']",False,ID
+208,13d0d8a1abc9e200ee1f161b2ad0192f,9,0.0,0.83,PH,39,Philippines,['EN'],True,PH
+215,1451882f90d6d6b1b57fc987adb56375,1,0.0,0.12,TR,21,Turkey,"['AR', 'EN', 'RU', 'TR']",False,TR
+217,146d76c46564f04c7f5f421c0252ac0f,1,0.0,0.1,PK,20,Pakistan,"['RU', 'PT', 'DE', 'ES', 'AR', 'EN']",True,PK
+218,1485df514f21e0e964764cf6991f400a,1,0.0,0.12,UZ,20,Uzbekistan,"['RU', 'UZ', 'EN']",False,UZ
+219,148e8d1b65424f881f5a5d4af5d7399d,4,0.0,0.38,NG,31,Nigeria,['EN'],True,NG
+224,155751b9fa13388cad714ffaeb4e2984,1,0.0,0.09,BD,31,Bangladesh,['EN'],True,BD
+225,1578b249550169df7d1901340dfb790a,4,0.0,0.38,KE,25,Kenya,"['EN', 'ES', 'RU']",True,KE
+226,157ed5fdc3321b6a64b57db7aa440168,4,0.0,0.48,NG,24,Nigeria,['EN'],True,NG
+227,15bbaad0a376db0de316f51b777b82d2,19,0.0,2.02,TR,25,Turkey,"['AR', 'EN', 'ES', 'FR', 'JA', 'TR']",False,TR
+228,15c4a89d9ba43d68f11bd4809a3fd053,2,0.0,0.15,TR,24,Turkey,"['EN', 'TR']",False,TR
+229,15ceccc6084ef52f536a9c5126e3d401,1,0.0,0.1,US,46,United States,"['DE', 'AR', 'EN', 'ES', 'FR', 'RU']",True,PK
+231,15ef1a3fdcd9da209fbe7779a6423962,1,0.0,0.09,KE,27,Kenya,"['DE', 'HE', 'EN', 'TR', 'EL']",True,KE
+232,161d4fcf0115a0fddfc2af871b821dfa,11,0.0,1.18,BF,26,Burkina Faso,"['EN', 'FR']",False,BF
+234,167bbd036ac5fe3493cdeaf6d4f69a7a,1,0.0,0.09,PH,34,Philippines,"['EN', 'TL']",True,PH
+235,16992746e529b2764218e4090414414f,1,0.0,0.09,KE,23,Kenya,"['SW', 'EN']",True,KE
+238,16fc16bb926c1a9e9f1aca229fcff98f,1,0.0,0.09,NP,24,Nepal,"['EN', 'NE']",False,NP
+239,171915f1aa1c1227ed7cd080361617ff,6,0.0,0.7,MK,32,North Macedonia,['EN'],False,MK
+240,174e1afa0876b25b65dad411ebecf9c5,8,0.0,0.91,PK,20,Pakistan,"['EN', 'FA', 'UR']",True,PK
+241,179239ecbbc4ffa3728c6abd9d28643c,2,0.0,0.18,NG,38,Nigeria,"['EN', 'FR']",True,NG
+242,17971ed4f5ab2e1911a6739e8120921e,1,0.0,0.1,NG,18,Nigeria,['EN'],True,NG
+243,179f8d3ee281963d05a741d2d79caadd,8,0.0,0.74,TR,18,Turkey,"['FR', 'ES', 'JA', 'AR', 'EN', 'DE']",False,TR
+244,17aa0e48c011a549e0b3e4e2f35b3bfc,11,0.0,1.12,EG,31,Egypt,"['KK', 'RU', 'EN', 'AR']",False,EG
+246,17ad03278e162efff3aa43b85844c55a,17,0.0,2.04,MG,27,Madagascar,"['EN', 'FR', 'MG', 'TR']",False,MG
+247,17bb81fe6ef72751a923f9629ad62eb7,4,0.0,0.38,KE,24,Kenya,"['EN', 'ES', 'DE', 'FR']",True,KE
+250,1826e44f687eda9316ca03466cc0e0b6,1,0.0,0.09,NG,18,Nigeria,"['IG', 'EN']",True,NG
+251,184f7142868b431137e0ab7b0275b6d5,4,0.0,0.51,KE,30,Kenya,['EN'],True,KE
+252,185649a321777aee3228a9daf7715635,4,0.0,0.51,ET,25,Ethiopia,['EN'],False,ET
+253,1864dd2497b6c537372b804a5b5baa57,22,0.0,0.24,PK,53,Pakistan,"['JA', 'IT', 'ES', 'DE', 'EN', 'AR']",True,PK
+255,18b8ebc92e0af1d2a963b51c7aa8b663,1,0.0,0.09,NP,20,Nepal,['EN'],False,NP
+256,18ba98d7d16bc2cf145325fa6c1bf25d,8,0.0,0.74,MY,29,Malaysia,"['EN', 'ID', 'ZH-HANS']",True,MY
+257,18db1ede7244fe25729b8630a2ba1940,5,0.0,0.53,EG,24,Egypt,"['AR', 'EN', 'IT', 'KK', 'RU', 'TR']",False,EG
+258,18dbacc27f025f21e6b3c4a598389d67,1,0.0,0.09,IN,19,India,"['EN', 'TA']",True,IN
+259,18f5b015e21df9519b559882a1822e6a,2,0.0,0.18,KE,24,Kenya,"['EN', 'SW']",True,KE
+260,190219cc859aafb194bfbab55746ee9b,4,0.0,0.38,PL,22,Poland,"['SV', 'EN']",False,PL
+261,1958789bf51b158cb7c4d7b98fe3d3ea,4,0.0,0.38,DZ,31,Algeria,"['AR', 'DE', 'EN', 'ES', 'FR', 'TR']",False,DZ
+262,19693f26e3c3a13e1d90699b3ced25e5,8,0.0,0.74,EG,36,Egypt,"['AR', 'DE', 'EN', 'FR']",False,EG
+264,197ea5b352259436b9d772cbe413a6d3,6,0.0,0.6,EG,46,Egypt,"['EN', 'TR', 'AR', 'KK', 'RU']",False,EG
+268,19e96504cf920e86b987d54b42168c3a,6,0.0,0.61,PH,22,Philippines,"['EN', 'TL']",True,PH
+269,19fb5a2aecc3de3afbb209e6497b0d70,1,0.0,0.1,KE,34,Kenya,['EN'],True,KE
+270,1a0307bbbad2413979a8aa86cc6dd398,1,0.0,0.09,KE,21,Kenya,['EN'],True,KE
+271,1a294e6c38939737f759942a70252b47,1,0.0,0.09,PK,20,Pakistan,['EN'],True,PK
+272,1a3d38b4f25e22b00a6d3ad9725bb779,2,0.0,0.18,EG,32,Egypt,"['AR', 'EN', 'KK', 'RU', 'TR']",False,EG
+273,1a4cc32097fc386999e89c5cfb1c7cbc,1,0.0,0.09,IN,22,India,"['EN', 'HI']",True,IN
+274,1a7ea88b3886ba29527633ce1a364ce3,28,0.0,2.78,ET,25,Ethiopia,['EN'],False,ET
+275,1a7f0842f7a851a3d2a0dd44a73e9926,4,0.0,0.38,KE,32,Kenya,"['EN', 'KI', 'SW']",True,KE
+276,1a8d3eb8ff9f179f84c5e007e78fd534,1,0.0,0.1,NG,23,Nigeria,['EN'],True,NG
+278,1aa9b0a4ba49b604161b9d91fba3d351,8,0.0,0.74,EG,20,Egypt,"['AR', 'EN']",False,EG
+279,1ab740d726be144a811439c45fc94036,2,0.0,0.2,PH,44,Philippines,['EN'],True,PH
+280,1ae0692c5b52590ab65fcb21f92cdaa2,1,0.0,0.1,US,34,United States,['EN'],True,US
+281,1b0b9042872e2ca96d90d33839ae2ab1,1,0.0,0.09,IN,23,India,['EN'],True,IN
+283,1b19f715a5defaaa0aef1f2bf91d98ed,2,0.0,0.18,PK,64,Pakistan,"['RU', 'AR', 'PT', 'DE', 'EN']",True,PK
+284,1b52c8e6f52ed4fba25b1ef958099d60,6,0.0,0.4,NG,28,Nigeria,['EN'],True,US
+286,1b601324ae0d673953de52c0701579f0,2,0.0,0.19,EG,20,Egypt,"['RU', 'EN', 'AR']",False,EG
+287,1b6fd0939aaee9eeb3e8cb727e8c6644,6,0.0,0.56,RU,26,Russia,"['EN', 'RU']",False,RU
+288,1b7b461dbe187dd5a908490124e9f149,1,0.0,0.1,NG,27,Nigeria,['EN'],True,NG
+292,1bcfb86c78c715e0a5f2debe3f68b905,1,0.0,0.09,IN,22,India,['EN'],True,IN
+293,1be6fdc42fd31a5c6a88af217c7aed25,1,0.0,0.1,NG,21,Nigeria,"['EN', 'YO']",True,NG
+297,1c3aee79d79c21a476877e9df8c5744e,29,0.0,3.48,AR,33,Argentina,"['EN', 'ES', 'PT', 'PT-BR']",False,AR
+298,1c53782b6f62388233c6a59eecf904d6,1,0.0,0.09,PK,19,Pakistan,['EN'],True,PK
+299,1c57534f65495e4e7dc264f768717147,4,0.0,0.4,KE,34,Kenya,['EN'],True,KE
+300,1cd8dd3d5fa37fad523b551865c91a12,8,0.0,0.74,VE,52,Venezuela,"['EN', 'ES']",False,VE
+303,1cf794af1ad320b6546da174a5fd961e,2,0.0,0.18,EG,50,Egypt,"['AR', 'EN']",False,EG
+304,1d0ab148f057e1d032278b5302136ad7,4,0.0,0.39,IN,24,India,"['EN', 'HI']",True,IN
+306,1d4b65dc7afdbbf38a077e4f495adb40,15,0.0,1.54,EG,22,Egypt,"['EN', 'RU', 'AR', 'FR', 'ES', 'PT']",False,EG
+309,1d858c96478d6c47a1232db6fefcbdd7,2,0.0,0.18,KE,28,Kenya,"['AR', 'EN', 'FR', 'RU', 'SV', 'TR']",True,KE
+311,1da796eecb491ce781668d0f4a279281,2,0.0,0.2,TT,38,Trinidad and Tobago,['EN'],True,TT
+313,1dce3460cc6a7d82c834aa080e7142ef,2,0.0,0.18,KE,30,Kenya,['EN'],True,KE
+315,1e128848daea66cf996eba05cae494e3,1,0.0,0.09,EG,21,Egypt,"['AR', 'EN']",False,EG
+316,1e4cff94ff501a97111f60725bcf4f98,1,0.0,0.09,PK,22,Pakistan,['EN'],True,PK
+318,1e6cbc6dbee06fb6987bf6e606c95366,1,0.0,0.09,US,20,United States,['EN'],True,US
+320,1ea9a46216fffa17439b0cf5828c0e4f,1,0.0,0.12,TR,57,Turkey,"['AR', 'EN', 'TR']",False,TR
+321,1ec24ffa5c39f90b923a60c24f75d870,4,0.0,0.39,JP,59,Japan,"['EN', 'RU', 'ES', 'AR', 'DE', 'FR']",False,PK
+322,1ee58b8996ab4e2331cf2f11be311427,1,0.0,0.1,NG,39,Nigeria,['EN'],True,NG
+323,1eea1c567c06eea884f385617aaa64d5,6,0.0,0.56,EG,35,Egypt,"['DE', 'EN', 'FR', 'KK', 'AR', 'RU']",False,EG
+327,1f034628146e9868200b6286fc17840f,29,0.0,3.0,EG,49,Egypt,"['AR', 'EN', 'RU']",False,EG
+328,1f41c5f6ffdae99187f5fd32f75be2c7,4,0.0,0.38,GH,25,Ghana,['EN'],True,GH
+331,1f91d82e1da59ab3bcec29a984ea220b,4,0.0,0.38,PK,33,Pakistan,['EN'],True,PK
+332,1feda7246a8919d54a10c07f612c365f,4,0.0,0.38,GH,19,Ghana,"['FR', 'EN']",True,GH
+334,201be26673202a50b3e3332e604b1f6b,4,0.0,0.42,GB,21,United Kingdom,['EN'],True,NG
+335,2022e99b8bdba30646f583a4c0f617af,2,0.0,0.19,KE,20,Kenya,"['EN', 'SW']",True,KE
+336,203042fef94466c0e061b1da26344d91,29,0.0,3.32,PH,29,Philippines,"['EN', 'ES', 'TL']",True,PH
+339,205bcb805c4693ca2c441d8067e23ad5,20,0.0,2.14,ID,30,Indonesia,"['EN', 'ID']",False,ID
+340,205d666400db906e052d568a6250c9a7,6,0.0,0.6,EG,38,Egypt,"['EN', 'AR', 'RU', 'PL', 'DE', 'IT']",False,EG
+341,2065bba29239a2acd98abdf7fa22e442,1,0.0,0.09,GH,20,Ghana,"['TW', 'EN']",True,GH
+342,206719cba97d737c1b95585e567ee8b3,3,0.0,0.36,IN,21,India,['EN'],True,IN
+344,207b1f84107beb7af28722dc0b34a7d0,5,0.0,0.53,ET,22,Ethiopia,"['AM', 'EN']",False,ET
+346,20b8781a41a6fa1afdc14fab9a11dd2b,1,0.0,0.1,RU,25,Russia,"['EN', 'RU']",False,RU
+347,20c8688e689a6923144e7d1d2bd1b198,4,0.0,0.38,KE,35,Kenya,"['PT', 'EN', 'ES', 'RU']",True,KE
+350,2144d9e02656153dc378061cfabf224f,1,0.0,0.09,PK,20,Pakistan,"['EN', 'UR']",True,PK
+353,2166676100c1855336748eb0bccd9742,1,0.0,0.09,IN,19,India,['EN'],True,IN
+354,219431122d79ca4757d13f3c5b5b96f0,4,0.0,0.38,EG,36,Egypt,"['RU', 'AR', 'FR', 'EN']",False,EG
+355,21ada94f3ee7baac8a30f4c50e7c24a6,4,0.0,0.38,PK,24,Pakistan,"['IT', 'DE', 'ES', 'AR', 'EN', 'PT']",True,PK
+356,2216127e5583052a90829aff9b159495,9,0.0,0.83,KZ,39,Kazakhstan,"['EN', 'KK', 'RU', 'TR']",False,KZ
+357,2216a140ae67ff3a61dd6649bfb7bcf8,1,0.0,0.09,KE,36,Kenya,['EN'],True,KE
+358,221d92407b5099e8fe0d4aac03675504,6,0.0,0.56,ZA,19,South Africa,"['EN', 'TN', 'TS', 'XH', 'ZU']",True,ZA
+359,223325144ec35c74996fc95cc3758393,1,0.0,0.09,PK,58,Pakistan,"['AR', 'DE', 'EN', 'JA', 'PT', 'RU']",True,PK
+360,2235674dbf641bbd8bf202b1068bc964,1,0.0,0.1,IE,28,Ireland,['EN'],True,IE
+364,22603e030bff5230e45b14389ae457c4,1,0.0,0.09,ET,43,Ethiopia,['EN'],False,ET
+365,226bf281ee3be93c0f79ff94ae0c847e,30,0.0,3.04,PK,25,Pakistan,"['AR', 'EN', 'PT', 'RU', 'JA', 'DE']",True,AE
+366,227ef6097212d6c53add65e77bf86be2,1,0.0,0.1,MA,20,Morocco,"['EN', 'FR', 'AR']",False,MA
+367,22807003b9e29e37ab4bdfe5360256d8,17,0.0,2.04,PK,24,Pakistan,"['EN', 'RU']",True,PK
+369,22a355dfd25cec373fa6b6d0fb655439,10,0.0,0.92,MG,37,Madagascar,"['FR', 'MG', 'EN', 'AR']",False,MG
+370,22a4caa7165c88514c698f465b0ab8c4,1,0.0,0.09,BD,35,Bangladesh,['EN'],True,BD
+371,22ac7d647913a4fa0f599dbb4a8d59f2,1,0.0,0.09,IN,23,India,"['EN', 'HI']",True,IN
+373,22c9d2cc8f7964db92078b9e9e056b67,1,0.0,0.09,IT,28,Italy,"['IT', 'EN']",False,IT
+377,23320bc3516ba3ca9db2f09ec8514ab3,1,0.0,0.09,NG,26,Nigeria,['EN'],True,NG
+379,235ebc779286591c4652a61add49639b,1,0.0,0.09,KE,28,Kenya,['EN'],True,KE
+380,2381c460c64e4c68f8402d40f04847a5,1,0.0,0.09,PK,29,Pakistan,"['UR', 'EN']",True,PK
+382,23b8b8b14e4ef4eaaa5dc9fcb0f2a4bd,3,0.0,0.36,EG,25,Egypt,"['AR', 'EN']",False,EG
+389,243f7fd89c87f357b98b0ec66753e583,6,0.0,0.58,TR,67,Turkey,"['TR', 'DE', 'EN', 'FR', 'ES', 'RU']",False,TR
+390,245263a8b7faee46c644434a2c41f01b,1,0.0,0.09,PK,20,Pakistan,"['EN', 'UR']",True,PK
+391,245ec3e1fc6d3c25de87d864d1249546,4,0.0,0.38,CO,35,Colombia,"['EN', 'ES']",False,CO
+392,24c548192760b67e2a9347b68a0e328b,2,0.0,0.18,IN,36,India,['EN'],True,IN
+393,24c6e0db780291d1a09fc4b2b7dd81e3,2,0.0,0.19,EG,20,Egypt,"['AR', 'FR', 'EN']",False,EG
+394,24dee2cf787db797d716d2a9e64c081d,4,0.0,0.38,EG,20,Egypt,"['AR', 'EN']",False,EG
+395,24febf26092132062a8f05cbf8c069b8,4,0.0,0.38,TR,34,Turkey,"['AZ', 'EN', 'TR']",False,TR
+397,250a025a94fcecb97c3490a934ca3a5c,4,0.0,0.38,NG,29,Nigeria,"['JA', 'DE', 'EN', 'FR']",True,NG
+398,250aafc09acd7b20522559ebc52cbc92,2,0.0,0.24,NG,18,Nigeria,['EN'],True,NG
+399,250accd40119a1752889696648cfafc1,1,0.0,0.09,ID,22,Indonesia,"['ID', 'EN']",False,ID
+400,252897544cc1a00350c4053f29c18fe7,1,0.0,0.1,PK,21,Pakistan,['EN'],True,PK
+401,25636a48e1c4cbfa033540e83c85ba24,1,0.0,0.09,KE,25,Kenya,['EN'],True,KE
+403,25825c2c5f5a2b4f20272fdce1398c70,1,0.0,0.1,PL,30,Poland,"['PL', 'EN']",False,PL
+404,2586d73b52900ecb9f6ddb3cd2a18be7,33,0.0,3.8,KE,31,Kenya,"['EN', 'SW']",True,KE
+405,259c863d63f00775488c58506db3e7a2,1,0.0,0.12,NG,20,Nigeria,"['EN', 'YO']",True,NG
+408,25dabcf2889203448215c0c5ec4ba0e1,4,0.0,0.39,TR,22,Turkey,"['AR', 'EN', 'TR']",False,TR
+410,25e53698bcf2d085f99135f99398e22f,4,0.0,0.43,LK,49,Sri Lanka,['EN'],True,LK
+411,25f57438b885d67e39cf9e52ebebf428,12,0.0,1.27,IN,56,India,"['EN', 'HI']",True,IN
+412,260d97827b207de4d5d472fcdde743b5,2,0.0,0.18,EG,24,Egypt,"['EN', 'AR', 'RU']",False,EG
+414,261db508171e40e2b7c6dc8fb71dd5fb,4,0.0,0.38,PK,26,Pakistan,"['AR', 'UR', 'PA', 'HI', 'EN', 'FA']",True,PK
+419,266bd82882e0a43cc63a3dc8a3a4f12d,1,0.0,0.1,MG,39,Madagascar,"['PT', 'ZH-HANS', 'EN', 'ID', 'FR', 'RU']",False,MG
+421,26895d4b809db8d154016dfea9ee51cd,4,0.0,0.38,EG,24,Egypt,"['IT', 'ES', 'DE', 'EN', 'FR', 'AR']",False,EG
+423,269cf00bca935fdd1a52a12a64c0d88d,4,0.0,0.3,ZA,41,South Africa,['EN'],True,ZA
+425,26c43057dc7d60c7bb6fcbdbdee2209c,2,0.0,0.24,PK,22,Pakistan,['EN'],True,PK
+426,270695dfcff011a925e343646c1ab76e,1,0.0,0.09,ET,31,Ethiopia,['EN'],False,US
+429,272afe1ae8299f01feeca346303e8078,1,0.0,0.09,EG,22,Egypt,"['AR', 'EN', 'KK']",False,EG
+431,274fb2efff19d077b254cf45f9064e95,2,0.0,0.18,SA,23,Saudi Arabia,['EN'],False,SA
+432,275d522b3ca0b598d71e254488d06fb3,1,0.0,0.09,IN,18,India,['EN'],True,IN
+435,27992780ac2c05bd93583438fcb78182,17,0.0,2.02,BR,45,Brazil,"['EN', 'ES', 'FR', 'IT', 'PT-BR']",False,BR
+436,27c153cdfe6a47014625d44943f205f9,4,0.0,0.38,ID,30,Indonesia,"['EN', 'ID', 'JV']",False,ID
+437,27c1e8e4b0ae6f5e1c04b9bd8382a06d,4,0.0,0.37,NG,32,Nigeria,"['HA', 'EN', 'YO']",True,NG
+441,280a55316716dcce17d21bbbd9cc21b2,34,0.0,3.56,TR,47,Turkey,"['AR', 'DE', 'EN', 'ES', 'RU', 'TR']",False,TR
+442,282c066863921bed4a38f9f7eedaffb5,23,0.0,2.23,ET,21,Ethiopia,"['EN', 'AR']",False,ET
+447,28e2791f37409136290e5dfc95367036,26,0.0,2.84,KE,30,Kenya,"['EN', 'SW']",True,KE
+449,28eb93456a2be8fa8cf976bdc545aac0,1,0.0,0.09,NG,28,Nigeria,"['EN', 'IG']",True,NG
+452,293211989f16908f4b35d6cc56a0124e,1,0.0,0.09,KE,29,Kenya,['EN'],True,KE
+456,295c04e606e25a566c25b5a48d6372db,2,0.0,0.18,US,29,United States,['EN'],True,US
+457,296998e305beff82c8ea2fc1a09ad89f,4,0.0,0.38,PK,30,Pakistan,['EN'],True,PK
+459,29a64d1d097ba0f1bed1e93a1d9dda07,1,0.0,0.1,KE,22,Kenya,['EN'],True,KE
+460,29d28df3046dcab6ae2b550018fcae04,7,0.0,0.7,IN,35,India,['EN'],True,IN
+463,2a163058a06a9a439691b90689af9ada,1,0.0,0.09,LK,27,Sri Lanka,['EN'],True,LK
+464,2a286928773aa57330d935da1150537a,4,0.0,0.38,PK,34,Pakistan,"['PS', 'EN', 'UR']",True,PK
+465,2a50c8e45f7c29cdbb745a9249f8feaa,1,0.0,0.09,US,19,United States,"['AR', 'DE', 'EN', 'FR', 'PT', 'RU']",True,US
+467,2a604d76b7c9695ce9ad21344bacec63,5,0.0,0.38,EG,33,Egypt,"['AR', 'EN', 'RU']",False,EG
+473,2b008289cdbad81f8199ec396a85a28b,1,0.0,0.09,GB,39,United Kingdom,"['EN', 'PT']",True,GB
+474,2b084b80d850fc8163b0cbf918c7fe7d,1,0.0,0.1,KE,40,Kenya,"['EN', 'SW']",True,KE
+475,2b33e8f8bc8814fd552b488bf6d6f934,1,0.0,0.09,NG,29,Nigeria,['EN'],True,NG
+477,2b8033e5ea839e144cbc6ee76a34e718,1,0.0,0.09,ES,23,Spain,"['EN', 'ES', 'FR']",False,FR
+478,2b97303bb6dc587988016e130c71bbb5,15,0.0,1.58,AM,57,Armenia,"['EN', 'HY', 'RU']",False,AM
+479,2bb4afa866c9ecb476d0e0a48134a308,4,0.0,0.38,KE,22,Kenya,['EN'],True,KE
+481,2be4a8d2fc3fcb7131eea889db07947b,1,0.0,0.09,US,18,United States,['EN'],True,US
+486,2c3106caa6ef3b9ddadc1b93b176e80e,1,0.0,0.12,NP,24,Nepal,"['EN', 'HI', 'NE']",False,NP
+490,2c90616868889e90e238219ef76dc4a2,3,0.0,0.28,PK,27,Pakistan,"['EN', 'RU', 'AR', 'IT', 'DE', 'JA']",True,PK
+491,2c98e5f2f2dbde8219d11616a75740c5,1,0.0,0.09,PK,28,Pakistan,"['JA', 'RU', 'EN', 'DE', 'PT', 'AR']",True,PK
+499,2d5616a8a44686566751e8f5976fa3ef,23,0.0,2.38,TR,34,Turkey,"['AR', 'EN', 'TR']",False,TR
+500,2d66296b133a15816d3c9b6b70f76c9a,9,0.0,0.83,VE,24,Venezuela,"['DE', 'EN', 'ES', 'FR', 'PT', 'RU']",False,VE
+501,2d92e4705fdff2506b64b7cc4427a4bb,1,0.0,0.09,PH,28,Philippines,['EN'],True,PH
+502,2d9e33b24b153f529293e821fda12546,1,0.0,0.09,LK,58,Sri Lanka,['EN'],True,LK
+503,2daabda5a384bfa47ad64755d68234ef,4,0.0,0.38,PK,20,Pakistan,"['DE', 'EN', 'PT', 'ES', 'RU', 'AR']",True,PK
+504,2dba4e665d370674b9455eb29ea8b86e,1,0.0,0.09,EG,21,Egypt,"['AR', 'EN']",False,EG
+506,2dd4b8cb3f334da98f15c9dce50edca0,1,0.0,0.09,IN,18,India,['EN'],True,IN
+507,2de093bc7fcb272acbcb2e9f736c30b4,6,0.0,0.56,PK,27,Pakistan,"['EN', 'UR']",True,PK
+510,2e0a091cc8c0b1e37f8afa2144ac4256,1,0.0,0.09,PK,33,Pakistan,['EN'],True,PK
+511,2e0e490c2792a2ea96b64c23eba554f9,5,0.0,0.55,EG,26,Egypt,"['AR', 'EN', 'ES', 'FR', 'KW', 'RU']",False,EG
+513,2e99321f90480cfca5aa0d2670ff1f92,4,0.0,0.39,PK,24,Pakistan,"['EN', 'FR', 'RU', 'AR', 'DE', 'IT']",True,PK
+515,2ec2cec308f0a924ee6c27c30aab2406,6,0.0,0.56,EG,18,Egypt,"['AR', 'EN', 'KK']",False,EG
+516,2ee6507277bf935dfa639acf49ed32f2,4,0.0,0.38,PK,23,Pakistan,"['EN', 'RU', 'ES', 'DE', 'IT', 'FR']",True,PK
+520,2f39224423500ca2fcb6b65c95845188,1,0.0,0.09,ZA,18,South Africa,['EN'],True,ZA
+522,2f8117137f0949968ca39db621f219a5,4,0.0,0.38,NG,26,Nigeria,"['EN', 'YO']",True,NG
+524,2fa6f824753f2b2ca939c69eafa2a4b7,2,0.0,0.19,AF,21,Afghanistan,"['AR', 'EN', 'KK']",False,EG
+525,2fba7a0fc954e0d7124507801799e75b,6,0.0,0.58,KE,31,Kenya,"['EN', 'KI', 'SW']",True,KE
+526,2fcaec436c6407bc5c645888db5820c4,1,0.0,0.09,ID,51,Indonesia,"['EN', 'ID']",False,ID
+527,2fe28a476e843d13c0847eb0ba25508b,3,0.0,0.36,EG,21,Egypt,"['AR', 'EN']",False,EG
+528,2fe3c88bf9d6b632f40c5759bc2c44a2,1,0.0,0.1,PH,23,Philippines,['EN'],True,PH
+530,300fcd2fdc74d9b8d01e5f59452d2c44,10,0.0,1.04,NG,31,Nigeria,['EN'],True,NG
+532,30a48cf21b4d24393a7faa1ff6a42dd2,10,0.0,1.09,KE,28,Kenya,"['EN', 'IT', 'ES', 'DE', 'JA']",True,KE
+534,30c44b731aa22c16d022dc27515a82f3,4,0.0,0.4,KE,21,Kenya,['EN'],True,KE
+535,30d6f38c62fb6861d3a946ac8226bb29,2,0.0,0.18,ET,25,Ethiopia,['EN'],False,ET
+536,30f3eb143a1dfb7a127c74fda8e2cb55,7,0.0,0.65,EG,31,Egypt,"['AR', 'EN', 'RU']",False,EG
+540,313f49dca254faaeeae21b1f0afd218e,16,0.0,1.69,IN,34,India,"['KN', 'EN']",True,IN
+541,315b35ff2f4eff3d7e36f8ab5b385cd5,1,0.0,0.09,BD,25,Bangladesh,['EN'],True,BD
+543,315df324929d803cbfdf792d2f12d702,13,0.0,1.34,EG,31,Egypt,"['AR', 'EN', 'ES', 'IT', 'RU']",False,EG
+544,3171c3b6857534ec67230946b9745acb,1,0.0,0.1,KE,29,Kenya,"['EN', 'SW']",True,KE
+545,31817a3b8aad68c6e45543350958ebaa,4,0.0,0.48,NG,28,Nigeria,['EN'],True,NG
+546,319fde2326da718a959773af8a1d2c54,4,0.0,0.38,BD,46,Bangladesh,"['IT', 'KK', 'HI', 'EN', 'AR', 'PL']",True,CA
+548,31c6c35c2e3af0f003323ae1103661e9,1,0.0,0.09,MY,51,Malaysia,"['EN', 'MS']",True,MY
+549,31d281ea12dbadbff65dc7c0312c7955,4,0.0,0.3,PK,50,Pakistan,"['EN', 'ES', 'AR']",True,PK
+555,32399b273110c14a4fbc9f8b4ee1fbf2,4,0.0,0.38,KE,23,Kenya,"['EN', 'SW']",True,KE
+556,324d803e0f14351746a2d476d09d7dd9,1,0.0,0.09,PH,36,Philippines,['EN'],True,PH
+557,3268292cf4bbf02d209ebc95af151479,11,0.0,1.1,EG,23,Egypt,"['DE', 'RU', 'AR', 'FR', 'EN', 'ES']",False,EG
+558,3292a3badb111c3971030f6d62fa727c,4,0.0,0.38,PK,19,Pakistan,"['EN', 'UR']",True,PK
+560,32a62787c0e51a6ffccde6c96b26529b,4,0.0,0.38,NG,40,Nigeria,"['LA', 'IG', 'HA', 'EN', 'YO']",True,NG
+562,32ebcaa78369efc187fd1d6cf5d12749,4,0.0,0.38,NG,26,Nigeria,"['FR', 'ES', 'EN']",True,NG
+564,334e01b4f3cf065c01f8ae00629f2754,1,0.0,0.12,KZ,30,Kazakhstan,"['EN', 'KK', 'KO', 'RU']",False,KZ
+565,3387eb1f82c761d5692873b96dd1864a,4,0.0,0.38,NG,27,Nigeria,"['EN', 'PT', 'FR']",True,NG
+566,339bd0d884a9e5266ed06dca0fd4f176,4,0.0,0.38,EG,42,Egypt,"['AR', 'ES', 'DE', 'EN', 'RU', 'SV']",False,EG
+567,33d55af5b865fa2d979701871326e9e3,1,0.0,0.09,GB,22,United Kingdom,['EN'],True,GB
+569,33f471a89e8d026c7b7d85ff47e03da8,2,0.0,0.25,PK,23,Pakistan,"['EN', 'UR']",True,PK
+570,343b0a1ca4c8a8ae611aab6daba37c0e,2,0.0,0.19,UZ,18,Uzbekistan,"['EN', 'RU', 'UZ']",False,UZ
+571,343e3e278b4bed21d176891bfa0371e8,6,0.0,0.58,NG,38,Nigeria,"['NL', 'FR', 'IT', 'EN', 'RU']",True,NG
+573,346e084fae82f8c95bc3766503c5e13c,1,0.0,0.1,EG,21,Egypt,"['EN', 'AR']",False,EG
+579,34ef2488f166fe5ef4eeb914cd9c5068,1,0.0,0.1,MA,21,Morocco,"['TR', 'EN', 'FR', 'RU', 'AR', 'ES']",False,MA
+580,34fd2408e9fa82895da862e0a970c0c3,1,0.0,0.1,PK,38,Pakistan,"['EN', 'UR']",True,PK
+581,351f4ec99fdcfb41d81f0334c1692791,1,0.0,0.09,PK,18,Pakistan,['EN'],True,PK
+582,35212185b3ebd00f273389c1cc74fdfb,2,0.0,0.25,UG,24,Uganda,"['EN', 'LG']",True,UG
+585,353391e2eebf15908ef708ab869dec62,9,0.0,0.88,IN,34,India,"['BN', 'EN', 'HI']",True,IN
+587,3540ddfaad8e86fc809762536f7ac5d0,7,0.0,0.72,NI,24,Nicaragua,"['EN', 'ES']",False,NI
+591,35b4b275b61d55baa6cf01cb8d4f4f9e,4,0.0,0.38,PH,39,Philippines,"['FR', 'DE', 'ZH-HANS', 'RU', 'EN', 'TL']",True,PH
+593,35d6d71fc2c5b286ced4c09922076897,1,0.0,0.09,NG,26,Nigeria,['EN'],True,NG
+594,35f0a83680c736692ff517bdfb0508fa,2,0.0,0.19,PK,18,Pakistan,['EN'],True,PK
+596,3617c01bdefadf4dc2b2ef6f1927e122,1,0.0,0.09,PK,25,Pakistan,"['DE', 'AR', 'FR', 'ID', 'EN', 'IT']",True,US
+598,363802491fe9a206128fd3fd0c77adc1,4,0.0,0.38,NP,21,Nepal,"['EN', 'NE']",False,NP
+599,3638f6fb26e1784a7324fd2fa9254e19,1,0.0,0.09,PK,24,Pakistan,['EN'],True,PK
+601,3672325860ae75944f09d263a60a036e,4,0.0,0.38,PK,22,Pakistan,"['JA', 'AR', 'EN', 'RU']",True,PK
+604,3690c85f4b8df0e9fdb9f0bc4f4b2f94,2,0.0,0.2,CM,27,Cameroon,['EN'],True,CM
+605,36931f043ca9b088b7c329c002dd628a,1,0.0,0.09,PS,27,Palestinian Territory,"['EN', 'AR']",False,TR
+606,36c26835f30610bda5f03f0658b59353,2,0.0,0.24,NG,20,Nigeria,"['FR', 'EN']",True,NG
+608,37111d0c69152e431bdcf8f6285ce764,6,0.0,0.56,EG,27,Egypt,"['AR', 'DE', 'EN', 'FR', 'RU', 'TR']",False,EG
+609,371df5c0197fac3e7c6485f39d6d564c,5,0.0,0.58,NG,33,Nigeria,"['EN', 'YO']",True,NG
+612,37b725ecd97c3777ec00d875f1e6760a,26,0.0,3.12,EG,72,Egypt,"['AR', 'EN', 'KK']",False,EG
+614,37b8fe010938982c31e7f6f77806f3bf,2,0.0,0.18,PK,18,Pakistan,['EN'],True,PK
+615,37b95b69cc5567f57703f76088235958,4,0.0,0.39,KE,24,Kenya,"['SW', 'EN', 'RU']",True,KE
+616,37e50bcfdd4202c091d2b082f09b5935,6,0.0,0.56,ZA,37,South Africa,"['ZU', 'XH', 'EN']",True,ZA
+618,380fa2d0e6bd1cb69c8fe31380fc1203,1,0.0,0.09,PK,18,Pakistan,"['EN', 'UR']",True,PK
+619,3830837738a6a4200077176b233dfcf3,1,0.0,0.12,ET,23,Ethiopia,['EN'],False,ET
+620,384527c6e2034fd7ebf8c5e8f15af730,1,0.0,0.09,PK,24,Pakistan,"['UR', 'EN']",True,PK
+622,38572f09132beab87637a83e9b2ba5cd,4,0.0,0.38,IN,29,India,"['DE', 'EN', 'JA']",True,IN
+623,3858d26b282a13597ae11ed6b7722244,1,0.0,0.1,NG,19,Nigeria,['EN'],True,NG
+624,3868b0745d83d0fbf166591cb2b651ee,4,0.0,0.38,FR,29,France,"['AR', 'DE', 'EN', 'ID', 'JA', 'RU']",False,PK
+625,386e4f501f44f7f5d014e01756d36f67,1,0.0,0.09,IN,18,India,['EN'],True,IN
+626,38772078a09ceb8507b7c98bab529099,4,0.15,0.29,PH,20,Philippines,"['EN', 'TL']",True,PH
+628,38c6fb79f2308e0373aac0a692aab795,1,0.0,0.09,NG,29,Nigeria,['EN'],True,NG
+629,3914eaae1e80d4be91d3d000b5d0b40e,1,0.0,0.1,PH,41,Philippines,['EN'],True,PH
+630,391ae9cfa95f38dc6943ad9bf9f74837,28,0.0,2.84,BR,45,Brazil,"['EN', 'ES', 'PT', 'PT-BR']",False,BR
+631,394c702a354dcef5400086a8e61fa1cd,4,0.0,0.38,PK,20,Pakistan,"['EN', 'UR']",True,PK
+632,394ed189a022f49c474a26b9dc87831d,1,0.0,0.09,US,32,United States,['EN'],True,US
+634,395eb053a541d4989932b725b9a369cc,6,0.0,0.58,CO,44,Colombia,"['ES', 'ZH-HANS', 'EN']",False,CO
+636,3976bd04b94563cf34360912e1c4469e,9,0.0,0.89,UZ,50,Uzbekistan,"['EN', 'KK', 'RU', 'TR', 'UK', 'UZ']",False,UZ
+638,39e02e751960ef3d1d5c1637aecffffd,1,0.0,0.09,IN,22,India,"['EN', 'TE']",True,IN
+639,3a1767da1823ea930f0c168fc02b7bdd,1,0.0,0.1,US,29,United States,"['EN', 'ES']",True,US
+640,3a257dcad54e1a1a3baadee564105471,1,0.0,0.09,US,28,United States,['EN'],True,US
+641,3a352bcf9550ced870ba6cf2dc32b8ff,1,0.0,0.09,MA,37,Morocco,"['AR', 'EN']",False,MA
+646,3a5e990fe193e7498d3bc13b7a8b1077,3,0.0,0.34,IN,37,India,"['EN', 'HI', 'PA']",True,IN
+647,3a65cde2fe52f27a7bdf0dc6037605f8,8,0.0,0.74,PH,32,Philippines,"['EN', 'ES', 'JA']",True,US
+648,3a8b52143c82dbf3ec500a6577d29708,6,0.0,0.56,EG,31,Egypt,"['RU', 'EN', 'AR']",False,EG
+649,3a8c8104cbec5bfbc7dc253f671ca8c0,1,0.0,0.09,MW,18,Malawi,['EN'],True,MW
+654,3ad1505e8d28849a3bcc0f428484adcb,15,0.0,1.58,TN,34,Tunisia,"['AR', 'EN', 'ES', 'FR']",False,TN
+658,3b3bdf4cf0813fb9c6972ec04598db98,4,0.0,0.38,TR,46,Turkey,"['EN', 'KU', 'TR']",False,TR
+659,3b62ba7cd6eead750c9ab9cb54e47e38,2,0.0,0.25,PH,26,Philippines,['EN'],True,PH
+661,3b8064e6a3699d73de9766e772225c74,1,0.0,0.1,PH,19,Philippines,['EN'],True,PH
+662,3b81a55b2dbd24159f09bd8fe75f8408,2,0.0,0.18,DZ,25,Algeria,"['AR', 'EN', 'FR']",False,DZ
+664,3bca0c8a56ec725abc914fcb448ba67b,4,0.0,0.3,NG,44,Nigeria,"['EN', 'FR', 'IG']",True,NG
+665,3bd52c2cf8620e35588d66bf5cc004fa,1,0.0,0.09,GH,31,Ghana,['EN'],True,GH
+667,3c0f0a0f40eeefeaf49f9bcccc3ab230,4,0.0,0.38,KE,25,Kenya,"['SW', 'EN']",True,KE
+668,3c16491f6215e17986c4741f6b98965f,20,0.0,2.18,VN,31,Vietnam,"['EN', 'VI']",False,VN
+671,3c932a07c348546d09850d041da243a7,4,0.0,0.38,KE,19,Kenya,"['EN', 'SW']",True,KE
+673,3ce64553497c2457e52abea5dbb2ac97,2,0.0,0.22,NG,32,Nigeria,['EN'],True,NG
+674,3cf120534bb4f6ff2e2b6d58e0898faf,17,0.0,1.9,BR,26,Brazil,"['EN', 'ES', 'PT', 'PT-BR']",False,BR
+675,3d0682a44f681658242cebef8924ef5e,1,0.0,0.09,PH,25,Philippines,"['EN', 'TL']",True,SA
+680,3d81c804199972c4e6ea4d9af3470e9e,1,0.0,0.09,UG,32,Uganda,"['LG', 'EN']",True,UG
+682,3dd19dfb750280b15f640fc5d0072f68,6,0.0,0.66,NG,29,Nigeria,"['EN', 'YO']",True,NG
+683,3de5649b4316ac3f9fd826cb7ad137c8,4,0.0,0.38,NG,28,Nigeria,['EN'],True,NG
+685,3e08f762d2dabc59c0c4ca3f41702f6c,1,0.0,0.09,KZ,18,Kazakhstan,"['EN', 'RU']",False,KZ
+686,3e0eb4203176201f15279a606a1ff764,4,0.0,0.38,PK,31,Pakistan,"['EN', 'UR']",True,PK
+692,3e4dd5ebb3198a4a9f281320a94cde5e,1,0.0,0.1,NG,23,Nigeria,['EN'],True,NG
+693,3e5b8c0082d6bbd3ab71da9e3b21b59b,7,0.0,0.84,KE,26,Kenya,"['EN', 'KI', 'SW']",True,KE
+694,3e5bdc552325c0af0a2868ec43841f1d,1,0.0,0.1,ZA,29,South Africa,['EN'],True,ZA
+696,3e75eb845003b0438a7bf407fc92056d,26,0.0,2.9,IN,23,India,"['EN', 'HI', 'ML']",True,IN
+699,3ed563639347e8f6ffeaafb41beb8f7a,1,0.0,0.09,PK,22,Pakistan,['EN'],True,PK
+700,3eddc5b2295b18fc134805f1c413ec1c,4,0.0,0.38,KE,26,Kenya,"['EN', 'FR', 'SW']",True,KE
+701,3ee150dfc5a4a30301327a3598433321,4,0.0,0.38,NG,35,Nigeria,"['EN', 'RU', 'FR']",True,NG
+702,3eea81545b7bfbbc1aac884520dff72d,5,0.0,0.48,KE,44,Kenya,['EN'],True,KE
+705,3f49855a80023fa4055898f5ec9f50da,55,0.0,5.72,EG,28,Egypt,"['IT', 'PL', 'EN', 'KK', 'AR', 'RU']",False,EG
+706,3f5ff4f63b01ebd63a5b33eb7c022672,1,0.0,0.09,NG,35,Nigeria,['EN'],True,NG
+707,3f8023b37c9f1b20c7f661ee9cccebc1,4,0.0,0.39,TR,47,Turkey,"['EN', 'TR']",False,TR
+708,3fb047f4f9e680f3ecdbb53a356a3f88,4,0.0,0.38,PK,22,Pakistan,"['FR', 'EN', 'NL', 'ES', 'RU', 'DE']",True,PK
+711,4051969734c3d176ed35f58242fa8c79,1,0.0,0.09,IN,19,India,"['EN', 'HI']",True,IN
+713,40716f50587c7ba6e75c4cf2c00b367b,32,0.0,3.15,ET,24,Ethiopia,"['FR', 'EN', 'JA', 'ES', 'IT', 'DE']",False,ET
+714,407b02f5fcc2dd631794953c467ed1b0,29,0.0,3.48,ID,29,Indonesia,"['EN', 'ID']",False,ID
+715,407fd1eb006180919e9086c8823f05b2,4,0.0,0.38,KE,23,Kenya,"['EN', 'FR', 'SW']",True,KE
+716,409d6f12cc311b1006ec05217b6e620f,4,0.0,0.38,MA,27,Morocco,"['AR', 'EN', 'FR']",False,MA
+718,40fde0ecdeafd1b34f04e1ea880f0f98,1,0.0,0.09,KE,25,Kenya,"['EN', 'SW', 'KI']",True,KE
+719,4102b0cf32c1b3dce97e72ed6451f8b1,4,0.0,0.38,KE,30,Kenya,"['EN', 'SW']",True,KE
+720,4116a0fc9f205d1197e5e2d82973a79b,8,0.0,0.84,NG,31,Nigeria,"['EN', 'ES', 'JA', 'PT', 'RU']",True,NG
+722,4136fcb94a1bcd586718e3791c6635d9,4,0.0,0.39,IN,39,India,"['EN', 'HI']",True,IN
+723,4140b09839842a2ab850d12cebe814e2,5,0.0,0.47,ZA,42,South Africa,"['AF', 'EN']",True,ZA
+724,414688b7fb096179f03dbdd2838a8436,2,0.0,0.18,IN,29,India,"['BN', 'HI', 'EN']",True,IN
+725,4157a0a3da992780c1ec84701c234bb9,2,0.0,0.24,ZA,23,South Africa,['EN'],True,ZA
+733,4236fc946ac6930c9379a804e607fdc8,8,0.0,0.74,IN,28,India,"['AR', 'DE', 'EN', 'ES', 'JA', 'RU']",True,IN
+734,424c2fdc7707d28a529464d0346982a2,1,0.0,0.09,PK,26,Pakistan,"['EN', 'UR']",True,PK
+737,429a5bf75cb19c9f93a2e7a40670dec3,1,0.0,0.09,KE,27,Kenya,"['EN', 'SW', 'KI']",True,KE
+738,429e1035de451b9bafee9e408dbb4bb3,1,0.0,0.09,IN,23,India,"['EN', 'HI']",True,IN
+739,42a630e304eb4e4d0dc5290efcdf4a51,8,0.0,0.9,UG,25,Uganda,"['EN', 'LG', 'SW']",True,KE
+741,42f27dca32d58b957b42853264846045,1,0.0,0.09,KE,22,Kenya,['EN'],True,KE
+742,42fe38dfb7e31efffdea8270986fac76,1,0.0,0.09,ZA,30,South Africa,"['EN', 'ES', 'XH']",True,ZA
+743,432f10424225442b59be1c29ba7e5247,2,0.0,0.19,ZA,23,South Africa,['EN'],True,US
+744,4356de2dee8d942cb7f4c5c083a47e22,1,0.0,0.1,NG,21,Nigeria,['EN'],True,NG
+747,43868bc5f1ca62c86eb9f98cf1c48d8e,1,0.0,0.1,AO,20,Angola,"['EN', 'PT']",False,AO
+748,438832127e4f8db8dfc5fed2f6489ab7,1,0.0,0.09,NP,18,Nepal,['EN'],False,NP
+749,43b20686b2b084b1cd57f7963909a8d1,1,0.0,0.1,VE,28,Venezuela,"['IT', 'ES', 'EN']",False,VE
+752,4413bd8eab5fc2c0d4dfdd9a025c8bcf,6,0.0,0.56,EG,27,Egypt,"['EN', 'AR']",False,EG
+753,441418d571239ac97002339dc34b94cb,2,0.0,0.18,ET,27,Ethiopia,"['EN', 'AM']",False,ET
+754,44189b6d04886c6d7920a15684471605,8,0.0,0.76,BD,25,Bangladesh,"['BN', 'EN']",True,BD
+755,4423213b21add4b265e284a655029d8a,2,0.0,0.18,PK,31,Pakistan,"['ES', 'EN', 'DE', 'AR', 'RU', 'IT']",True,PK
+756,44d74287f8fcbb2d3b8834f3c40c1fdc,11,0.0,1.2,EG,38,Egypt,"['AR', 'EN', 'IT', 'KK', 'RU']",False,EG
+762,45445fd4e757366bedb370e265afd245,8,0.0,0.79,EG,18,Egypt,"['EN', 'RU', 'AR', 'KK']",False,EG
+766,4568119bfcb6d718ac0ef729fa4db6d6,4,0.0,0.39,TR,30,Turkey,"['EN', 'ES', 'FR', 'RU', 'TR']",False,TR
+767,45831baba8def969da8b0665fb233dc1,4,0.0,0.38,DZ,26,Algeria,"['AR', 'EN', 'FR', 'RU', 'TR']",False,DZ
+772,462a4956d2150ebe6a3df1f6eb3abda7,2,0.0,0.25,TZ,35,Tanzania,"['SW', 'EN']",True,TZ
+776,46f5ecc5e73718db61f6b40c24dc7359,10,0.0,0.92,BY,47,Belarus,"['BE', 'EN', 'FR', 'RU']",False,BY
+777,46f69abb5c893191803e399b0523470b,11,0.0,1.1,PH,32,Philippines,"['EN', 'TL']",True,PH
+778,47166299f5582b59fdcd19c4a72b2584,1,0.0,0.09,NP,44,Nepal,"['EN', 'NE']",False,NP
+780,473e5ac44abcaa00d0a17b5e9af805ea,4,0.0,0.38,PK,45,Pakistan,"['EN', 'UR']",True,PK
+781,47446e242e63dd01c844addc5588f9b1,10,0.0,0.92,US,31,United States,"['EN', 'IG']",True,NG
+782,475a62c93d98802e7f6f1123863a9816,8,0.0,0.79,AZ,45,Azerbaijan,"['RU', 'EN', 'TR']",False,AZ
+784,47c8b8df81d9166cc735fd5f8688ea1f,4,0.0,0.39,PK,20,Pakistan,"['EN', 'UR']",True,PK
+785,47f5af2a67a2bbd16e116ded0af308d9,20,0.0,2.06,NG,30,Nigeria,"['FR', 'JA', 'EN', 'PT', 'RU', 'AR']",True,NG
+786,47fefe0d91dcad11cbb09bb075b244c6,2,0.0,0.25,KE,30,Kenya,['EN'],True,KE
+789,4840c4b2dcd3bea35019d93a1667612a,1,0.0,0.09,US,31,United States,['EN'],True,US
+790,486085b9d389478dc924e9f613ef6f4b,6,0.0,0.61,BD,19,Bangladesh,"['RU', 'EN']",True,BD
+791,4885dd82885c7563e110199777a6c6d0,1,0.0,0.09,ZA,36,South Africa,['EN'],True,ZA
+793,48d3c6c2c0e56107575f4aa620293b77,1,0.0,0.09,PK,18,Pakistan,"['EN', 'UR']",True,PK
+795,48e02d2dd398ab2d17359a992ccfac6b,26,0.0,2.7,IN,31,India,"['DE', 'EN', 'ES', 'FR', 'IT', 'PL']",True,IN
+796,48f62c5f068a3813c21c6ceb246f8ea4,4,0.0,0.38,SK,36,Slovakia,"['EN', 'RU']",False,HU
+799,493aa5cc019f2fcefcb19110e831ee89,34,0.0,3.92,ZA,26,South Africa,"['EN', 'ES']",True,ZA
+800,493c7e83b142cfda91d0c91ee40d500a,1,0.0,0.1,IN,24,India,"['EN', 'HI']",True,IN
+801,4963601bb9d9678a2130a49a950b4610,6,0.0,0.56,TR,52,Turkey,"['EN', 'RU', 'TR']",False,TR
+802,49681ed959b5c78e2b1fd205cf23d2b5,1,0.0,0.1,NG,25,Nigeria,['EN'],True,NG
+803,4970399e4dd12b7b8a75d8afb6d8ef04,1,0.0,0.1,PH,31,Philippines,['EN'],True,PH
+805,49afc5bc9a5d286ffb0dbd0d197c52c0,19,0.0,2.05,PK,64,Pakistan,"['EN', 'RU']",True,PK
+806,49c259e22a29773ef85ad9005ac60196,1,0.0,0.09,PK,18,Pakistan,['EN'],True,PK
+808,49fecb301ed417a6e011f6fe9ba0964b,4,0.0,0.38,EG,21,Egypt,"['AR', 'RU', 'EN']",False,EG
+810,4a0686cd522015f984f3cd183c025225,2,0.0,0.18,PK,24,Pakistan,['EN'],True,PK
+815,4a7cd559d3cb470940bafc6d675bb5e1,18,0.0,2.06,PK,25,Pakistan,"['IT', 'DE', 'ES', 'AR', 'EN', 'PT']",True,PK
+816,4a93873f58a61936c04cad329bc83fe2,2,0.0,0.2,PK,22,Pakistan,"['EN', 'HI', 'RU', 'UR']",True,PK
+817,4a960577355580604bab1ca8a71cf002,1,0.0,0.09,BD,32,Bangladesh,"['BN', 'EN']",True,BD
+819,4ac5742fa60116099b347890cdd41d86,16,0.0,1.7,MY,29,Malaysia,"['EN', 'MS', 'ZH', 'ZH-HANS']",True,MY
+821,4b12826890090af4485a420d16d8f713,8,0.0,0.74,DZ,35,Algeria,"['AR', 'EN', 'ES', 'FR', 'PT', 'RU']",False,DZ
+822,4b165f096246aecb46feb7fb4ccf2e2f,21,0.0,2.02,MD,53,Moldova,"['BG', 'EN', 'RO', 'RU']",False,TR
+825,4b5513e3419c14da97face39e92b28cb,4,0.0,0.38,DZ,26,Algeria,"['AR', 'EN', 'FR']",False,DZ
+826,4b82c073ec0746bcf3a2f52b903789d3,4,0.0,0.38,LY,41,Libya,"['AR', 'EN']",False,LY
+827,4b8760bc3f72ba1355cb8ddf6de688b2,1,0.0,0.09,KE,25,Kenya,['EN'],True,KE
+828,4b9156537f6aa5116d1a58d0c70b2337,4,0.0,0.38,EG,29,Egypt,"['EN', 'RU', 'AR']",False,EG
+830,4c41995968103946b6d35de914fe5916,1,0.0,0.09,PK,20,Pakistan,"['EN', 'UR']",True,PK
+831,4c6c7d0ff75f0ebb890153ea2fcde478,1,0.0,0.09,ET,24,Ethiopia,['EN'],False,ET
+832,4c8d438e586e0fec1b8ec7892d810e81,4,0.0,0.49,PK,39,Pakistan,['EN'],True,PK
+833,4ca73e1136031d568a6b400a686b1e5b,11,0.0,1.06,IN,27,India,"['EN', 'FR', 'HI', 'TE']",True,IN
+834,4cac9a222e61ffaa2a8faaf5d112e247,15,0.0,1.46,EG,27,Egypt,"['AR', 'EN', 'IT']",False,EG
+835,4cc601af9176efb22568e20e8c3e9d4f,25,0.0,2.78,PH,42,Philippines,['EN'],True,PH
+836,4cea098f76a6acc6d402fd56620abf49,1,0.0,0.09,PK,55,Pakistan,['EN'],True,PK
+842,4d7fda100434e0ef7809f33c20520033,1,0.0,0.09,TZ,23,Tanzania,"['SW', 'EN']",True,TZ
+843,4d825e888c5eeb0b2c0ba31329a888be,5,0.0,0.51,NG,25,Nigeria,['EN'],True,NG
+844,4de1382a0d090ed6b8c6429a3052856f,1,0.0,0.09,KE,18,Kenya,['EN'],True,KE
+845,4e031f4fa2e2d8d6545450c0b077f8e3,8,0.0,0.76,KE,24,Kenya,"['PL', 'EN', 'AR']",True,KE
+847,4e185a51256a14d6572f7991dcca580e,6,0.0,0.58,NG,24,Nigeria,['EN'],True,NG
+848,4e193d6e30c16c7315c4a11342ed07b5,4,0.0,0.39,ZA,30,South Africa,['EN'],True,ZA
+849,4e8513f2c38dbb9bae0345d55c686eaf,4,0.0,0.43,PK,18,Pakistan,"['UR', 'EN']",True,PK
+851,4eba08fe0dcceae6876756e4e119eb22,6,0.0,0.66,TR,31,Turkey,"['DE', 'EN', 'TR']",False,TR
+852,4ee29001d88d286fa905c200c4d2811d,2,0.0,0.18,PH,27,Philippines,"['EN', 'TL']",True,PH
+854,4eee18fe2c10bb4330dc46d63b522b7a,1,0.0,0.1,ZM,29,Zambia,['EN'],True,ZM
+855,4f2c97f83457a527b6099a8d45788940,4,0.0,0.3,KE,27,Kenya,['EN'],True,KE
+856,4f2f868de371516304c1ebf8ffd26b78,37,0.0,4.16,NG,27,Nigeria,"['DE', 'EN', 'FR']",True,NG
+859,4f9cb9839ce125f4d3c059e69ab6db50,1,0.0,0.09,PK,20,Pakistan,['EN'],True,PK
+860,4fa0c9f24b27f0b4308515719054cbf5,4,0.0,0.43,BD,26,Bangladesh,"['EN', 'BN']",True,BD
+863,4fc2a5aa84a455cb38af1b6be773f8a9,10,0.0,0.92,EG,34,Egypt,"['AR', 'EN']",False,EG
+865,4ff9179fb1f93646a99de398758a7544,2,0.0,0.18,BR,25,Brazil,"['EN', 'ES', 'PT-BR']",False,BR
+866,4ffd578e94f33cbe149a890cd6585881,6,0.0,0.56,EG,25,Egypt,"['AR', 'EN', 'ES', 'FR', 'RU']",False,EG
+869,5057427a889443a8c68c4562cbcb86cd,4,0.0,0.39,EG,43,Egypt,"['AR', 'EN']",False,EG
+872,50a3f06f03ad910478d696b638bf6217,4,0.0,0.38,PK,20,Pakistan,"['EN', 'UR']",True,PK
+873,50a7d655a2184f3eb0f77f6e5a744326,4,0.0,0.38,EG,43,Egypt,"['RU', 'EN', 'AR']",False,EG
+874,50ab9af4590ba47552d118ad98557973,20,0.0,2.4,ET,27,Ethiopia,"['AM', 'EN', 'OM', 'TI']",False,ET
+876,50cd208a724a5848fc88116d3d7aa199,1,0.0,0.09,KE,25,Kenya,"['SV', 'RU', 'DE', 'EN', 'ES', 'FR']",True,US
+880,512deb92e18e983895caf734652b54b5,1,0.0,0.09,ET,34,Ethiopia,['EN'],False,ET
+881,5137d3a4ba82b687f1dd632b19d58eaa,4,0.0,0.39,EG,23,Egypt,"['AR', 'EN']",False,EG
+882,51434f57fa51d9835d8528de1240a1ef,16,0.0,1.78,EG,18,Egypt,"['AR', 'EN']",False,EG
+883,516dabddaf6f15c7823655a0d6aa9967,1,0.0,0.09,IN,18,India,"['HI', 'EN']",True,IN
+884,5185e387a57c7499d338aa89c6667a1b,1,0.0,0.09,PK,38,Pakistan,"['EN', 'UR']",True,PK
+886,51b9f77fd8fe727fb42a02472c564d1c,1,0.0,0.09,DE,19,Germany,"['DE', 'EN']",False,NL
+888,522036c6279f94dd0eb31e8e1ebb9da2,4,0.15,0.28,EG,25,Egypt,"['AR', 'EN']",False,EG
+889,522fe0e2525e5f3cd443e71c3a052147,2,0.0,0.19,PK,21,Pakistan,"['AR', 'EN', 'RU', 'DE', 'TR', 'JA']",True,PK
+891,5261da3d70f082e760f26b91d88fb35a,4,0.0,0.38,NG,27,Nigeria,['EN'],True,NG
+894,52a70d88fd89487c5e3541c7d8a7d7c3,1,0.0,0.09,SG,26,Singapore,"['TL', 'EN']",True,SG
+895,52ad0125c052397fc32d4ec11183a430,8,0.0,0.74,NG,31,Nigeria,"['DE', 'EN']",True,NG
+896,52caf81e6ae2d3b03150256b2ebd01de,1,0.0,0.09,GH,18,Ghana,['EN'],True,GH
+897,530dd40e8a240049a8c0bedb0dd5b087,1,0.0,0.1,ZA,18,South Africa,['EN'],True,DE
+898,532526df7c8a2a59c6199d8d8eed8b1d,26,0.0,2.93,DZ,27,Algeria,"['AR', 'EN', 'FR']",False,DZ
+900,533b3f021033e970572e6f6ae513bd69,1,0.0,0.09,RU,18,Russia,"['RU', 'EN']",False,RU
+903,536378a7f9108a86333efc92c9fc7d23,1,0.0,0.09,NG,28,Nigeria,['EN'],True,NG
+904,53659d1f072d87e1d912353338d8a7ba,6,0.0,0.58,LK,26,Sri Lanka,['EN'],True,LK
+906,53b50212e545c94dc3aae32037294b43,4,0.0,0.38,BR,33,Brazil,"['EN', 'ES', 'PT']",False,BR
+908,53cb21bf5bafa2773b35f04df9ee8752,4,0.0,0.38,EG,23,Egypt,"['EN', 'RU', 'AR']",False,EG
+910,53eaeb3bcfe3e9fe00da671bff98f317,2,0.0,0.15,PK,25,Pakistan,"['UR', 'EN']",True,PK
+913,542fa70be325c67d6dbf1e376d74e32e,4,0.0,0.48,US,25,United States,"['SW', 'EN']",True,US
+914,544a2b22463f28c13ebb2f59c53c6af1,1,0.0,0.1,US,49,United States,"['ES', 'EN']",True,MX
+915,54563bcdc2e22eba67fbd295d0f302cd,8,0.0,0.86,TN,27,Tunisia,"['AR', 'DE', 'EN', 'FR', 'IT', 'RU']",False,TN
+916,54877b0a95d635b5505dc50a80d3896b,1,0.0,0.09,IN,18,India,"['EN', 'HI']",True,IN
+918,5491494fa99261e1cef333629bf0872c,1,0.0,0.09,KE,31,Kenya,['EN'],True,KE
+919,54968827e1ffc7a9751a26d7b44675d0,4,0.0,0.48,PK,36,Pakistan,"['DE', 'EN', 'KK', 'ES', 'RU', 'AR']",True,PK
+923,54e79595ceedbd41baae1afb43462981,7,0.0,0.65,RU,25,Russia,"['AR', 'EN', 'ES', 'KK', 'RU', 'TR']",False,SO
+924,54ed463b9a340a936d536fd432031241,1,0.0,0.09,SA,31,Saudi Arabia,['EN'],False,SA
+925,5506b1a2ab67106dda32c054234b2349,4,0.0,0.38,NG,23,Nigeria,"['EN', 'YO']",True,NG
+926,5511739638a1dc945204655b7cd16e44,6,0.0,0.56,TR,56,Turkey,"['EN', 'TR']",False,TR
+927,55612cf735b86aa3da9eac11db0a38a0,1,0.0,0.09,BR,18,Brazil,"['EN', 'PT']",False,BR
+928,5567f4fc1fa770c2c5f76e129e60f2f3,1,0.0,0.09,PK,36,Pakistan,['EN'],True,PK
+929,559d16a37b395c0daa7d9840df1e9d7d,3,0.0,0.36,EG,26,Egypt,"['AR', 'EN', 'FR', 'PT', 'RU']",False,EG
+930,55d516efd82692bc96d5425cd689309e,1,0.0,0.09,ET,27,Ethiopia,['EN'],False,ET
+931,55d81aabad6b6f495794a79227070d07,4,0.0,0.38,PK,33,Pakistan,"['JA', 'ES', 'DE', 'EN', 'FR', 'PT']",True,PK
+935,5634e3f343181f7602245539a8fe5c90,1,0.0,0.09,PK,25,Pakistan,"['EN', 'UR']",True,PK
+937,56413caa88e9706f25c35bd8b02f559e,4,0.0,0.38,VN,25,Vietnam,['EN'],False,VN
+938,5650a430bd47df2a45285b90db725f93,2,0.0,0.18,PK,19,Pakistan,"['EN', 'UR']",True,PK
+939,566b294b6dcda031bcb88528ceb731c3,1,0.0,0.09,PH,20,Philippines,"['EN', 'TL']",True,PH
+940,567dd66e382b195691c4f3af1628e2e7,8,0.1,0.9,BR,27,Brazil,"['EN', 'ES']",False,BR
+941,567e61b6a10cd073e5b7c1f31732068b,2,0.0,0.19,KE,25,Kenya,"['EN', 'ID', 'ES', 'DE']",True,KE
+942,56ed6efc3498a32d94498960cfb79b1e,4,0.0,0.38,EG,32,Egypt,"['AR', 'EN', 'RU']",False,EG
+943,5720757312204300707dd438183127da,4,0.0,0.39,NG,29,Nigeria,['EN'],True,NG
+944,5724ed9160d7010f2ce0e5c23e36009d,1,0.0,0.09,IN,26,India,"['EN', 'HI']",True,IN
+945,572e540924e3d76061d02fe559347985,2,0.0,0.24,NG,23,Nigeria,"['DE', 'RU', 'EN', 'AR']",True,NG
+946,573e0047173faab18e91870dbcb2c4ba,18,0.0,1.95,TR,31,Turkey,"['EN', 'RU', 'TR', 'UK']",False,TR
+950,576f34f769008d9f61a3459d955dd270,1,0.0,0.09,NG,27,Nigeria,['EN'],True,NG
+951,57736cdc4e68924831cb28ef81b59f3e,1,0.0,0.09,DZ,23,Algeria,"['FR', 'EN', 'AR']",False,DZ
+957,57a80dbe15f610a4985823ecb915b3e6,1,0.0,0.09,PK,23,Pakistan,['EN'],True,PK
+958,57b5d8f01ce15a6ed85088fd08dbcf87,3,0.0,0.2,PK,25,Pakistan,"['JA', 'RU', 'DE', 'EN', 'PT', 'AR']",True,PK
+959,57b7315a6a7c80bdae603cbeee89dcc7,3,0.0,0.28,UZ,32,Uzbekistan,"['EN', 'RU']",False,UZ
+960,57bb934b7941b68aa0b0ae226b423e9c,1,0.0,0.1,PH,29,Philippines,"['EN', 'TL']",True,PH
+961,57ccd49b6267ffce8a621e3b4bd5a456,3,0.0,0.36,KE,23,Kenya,"['DE', 'EN', 'ES']",True,KE
+962,57d970e2e0d001ddbe571248a7054e89,4,0.0,0.38,KZ,31,Kazakhstan,"['EN', 'RU', 'ES', 'JA', 'DE', 'FR']",False,US
+963,57f304a1bd5a275909337d09b6243b6b,2,0.0,0.18,MA,30,Morocco,"['AR', 'EN', 'FR']",False,FI
+965,588b1a24893233ed0ca836b96f959598,4,0.0,0.39,PK,37,Pakistan,"['EN', 'UR']",True,PK
+966,58ab6ba5c706d4d666c7e0c9d60659df,2,0.0,0.18,GH,25,Ghana,['EN'],True,GH
+967,58d9a3efd935c9f14356066975d01902,4,0.0,0.38,MA,26,Morocco,"['AR', 'EN', 'FR', 'ES']",False,MA
+968,58da96b004e197c91df787bb67bdf535,1,0.0,0.09,NG,23,Nigeria,['EN'],True,NG
+969,58e8f0d6e4474bd94978fd96ae9f86ff,1,0.0,0.09,IN,20,India,['EN'],True,IN
+971,5936b41e41c06f9419ee0769018eab38,10,0.0,0.92,EG,30,Egypt,"['AR', 'EN', 'RU']",False,EG
+972,593b0ad0fbf249bb33c1dbe0ad15a417,1,0.0,0.09,IN,20,India,['EN'],True,IN
+973,595c21512446956d704e572a87a4da3c,1,0.0,0.09,PH,39,Philippines,['EN'],True,PH
+974,596e86203b008eb144e350b4c27f7470,1,0.0,0.1,KE,24,Kenya,['EN'],True,KE
+975,597e398aaa08ae40b7a4cd1bec289e71,1,0.0,0.09,NG,21,Nigeria,['EN'],True,NG
+976,59b17db198b171051476cd457d7a9f94,2,0.0,0.19,PH,24,Philippines,"['EN', 'TL']",True,PH
+977,59cbe97a1007742bb7075fc328478e6b,4,0.0,0.3,EG,36,Egypt,"['AR', 'EN', 'RU']",False,EG
+978,59dbde56e4cdb4c6627a9ee680c0b8da,4,0.0,0.38,NG,31,Nigeria,['EN'],True,NG
+979,59e76fa5bc659c71e733e095b3a8e58e,1,0.0,0.09,IN,37,India,"['KN', 'EN', 'HI']",True,IN
+980,59e7963dc5771e17dd9340b4f449f782,4,0.0,0.39,KE,23,Kenya,"['EN', 'SW']",True,KE
+981,59f22e2b803682ebdab3e05b84fced78,1,0.0,0.09,PK,19,Pakistan,"['EN', 'UR']",True,PK
+982,59f4d8b55c76b9bbc39ded215cb6da4e,5,0.0,0.48,KE,28,Kenya,"['SW', 'EN']",True,KE
+983,59f97270fb0f732c405118a56471e601,4,0.0,0.38,KE,23,Kenya,"['EN', 'SW']",True,KE
+984,5a1ecc96748c9f3e18132a6388aa42d6,4,0.0,0.38,EG,26,Egypt,"['AR', 'TR', 'ES', 'RU', 'FR', 'EN']",False,EG
+985,5a3a760017610c80573757ddbd1feb6e,1,0.0,0.1,PK,26,Pakistan,"['EN', 'UR']",True,PK
+987,5a8d936d0fdcf3eca8eadf66e2e33e5d,2,0.0,0.24,NG,22,Nigeria,['EN'],True,NG
+992,5b575b0387541215ce243d999374fc6d,4,0.0,0.38,KE,22,Kenya,['EN'],True,KE
+993,5b5f053d314d5f7c1761d973fa79f329,1,0.0,0.09,KE,26,Kenya,['EN'],True,KE
+996,5b9933e3b135d7c13e59dfd924f26f44,1,0.0,0.09,KE,21,Kenya,['EN'],True,KE
+998,5ba276a060cc1a91531f43e91001ae22,1,0.0,0.09,PK,21,Pakistan,"['UR', 'EN']",True,PK
+999,5ba7eecbf9b79d032b19606ec847d244,1,0.0,0.09,GH,26,Ghana,['EN'],True,GH
+1002,5bc72d11ebb089c7354a6cc0a0cf8d8a,1,0.0,0.09,KE,22,Kenya,['EN'],True,KE
+1003,5bc856350a4c705ad4eed11c1486b041,1,0.0,0.09,RU,24,Russia,"['FR', 'EN', 'RU', 'DE']",False,RU
+1006,5bea6f2a50b8760f2363d771fe6868cd,1,0.0,0.09,IN,40,India,"['EN', 'ES', 'JA']",True,IN
+1007,5c153d2527900e5111ce99da37fc9c6c,4,0.0,0.38,EG,37,Egypt,"['AR', 'RU', 'EN']",False,EG
+1008,5c1b36141284ad1229abd900f6f1b7d0,1,0.0,0.1,ZA,22,South Africa,['EN'],True,ZA
+1009,5c5ef2812c4f195de1a6a83d5febe9ae,1,0.0,0.1,VE,21,Venezuela,"['ES', 'EN']",False,VE
+1010,5c5f264ae668abfdcef2b877d0b2d8a0,1,0.0,0.09,NG,28,Nigeria,['EN'],True,NG
+1011,5d19baa9ee011365c7b7e17cd7b5aa3a,3,0.0,0.28,PK,26,Pakistan,"['JA', 'FR', 'IT', 'EN', 'PT', 'AR']",True,PK
+1012,5d22e26ff9be5c8e1435c6b6f23c5e26,1,0.0,0.09,PH,24,Philippines,['EN'],True,PH
+1014,5d69bab868560bba7a378d87c48fa6d2,1,0.0,0.09,BW,25,Botswana,['EN'],True,BW
+1015,5dc56d4e6088017f70a7d203dbb584bd,4,0.0,0.39,IN,30,India,"['DE', 'EN', 'ES']",True,IN
+1016,5dec03dc6305985b2c1f745433f1ec10,4,0.0,0.39,UA,33,Ukraine,"['EN', 'RU', 'UK']",False,UA
+1017,5e07252bda009ddded4820470636f89f,4,0.0,0.39,ZA,24,South Africa,['EN'],True,ZA
+1018,5e0a84fadf470d24f1ac1c64dba79c76,6,0.0,0.56,IN,24,India,"['EN', 'GU', 'HI', 'MR']",True,IN
+1019,5e1c527bbfa65a31b2d9eec14644910f,1,0.0,0.1,NZ,25,New Zealand,"['SM', 'EN']",True,NZ
+1021,5e5277e7e81f5ce93252cc3a1acfe153,2,0.0,0.18,LK,27,Sri Lanka,"['EN', 'FR']",True,LK
+1022,5e5c30583d59b414dc8999299ffbc52c,1,0.0,0.1,KE,19,Kenya,['EN'],True,KE
+1023,5e633024c43a75266da6614356d64a0b,1,0.0,0.1,ZA,24,South Africa,['EN'],True,ZA
+1024,5e7188bfc333a989924e3b0caf72e287,1,0.0,0.09,GB,39,United Kingdom,"['EN', 'PA']",True,GB
+1025,5e7b0c655e24a6c5b9ea90c502c57668,1,0.0,0.1,KE,21,Kenya,"['EN', 'AR', 'MCLR', 'RU', 'AF', 'SW']",True,KE
+1026,5e7d16de369f11ef63452370d371f0e4,4,0.0,0.38,NP,30,Nepal,"['NE', 'EN', 'HI']",False,NP
+1027,5e7f00de847e72d7351187043a134bd3,1,0.0,0.09,BD,26,Bangladesh,"['DE', 'EN', 'KO']",True,BD
+1028,5e8d97bb87163374b0a5d02b96bd708b,1,0.0,0.1,BR,18,Brazil,"['EN', 'PT']",False,BR
+1029,5ea9be38ec60ecd9c138d95b846cf2ad,11,0.0,1.03,NG,39,Nigeria,"['EN', 'YO']",True,NG
+1032,5ee90b9952290d5a843c99a4aec84262,1,0.0,0.09,KE,24,Kenya,['EN'],True,KE
+1036,5f4a98e6565539df2bf8faf1d6af114b,4,0.0,0.38,NG,22,Nigeria,"['FR', 'IT', 'EN', 'ES']",True,NG
+1037,5f60a999b393a03dafd920e57fe5294f,12,0.0,1.16,KE,24,Kenya,"['SW', 'ES', 'EN', 'FR', 'RU', 'AR']",True,KE
+1038,5f73749d7aac6fa809b58946dc929914,1,0.0,0.09,IN,30,India,['EN'],True,IN
+1039,5f7662cdbe7a403f36cdf1107bf7df0a,4,0.0,0.42,PK,18,Pakistan,"['TR', 'ES', 'DE', 'PT', 'AR', 'EN']",True,PK
+1047,603536c8d10f963d8db47af9c9bf3ddb,4,0.0,0.38,BR,33,Brazil,"['EN', 'PT-BR', 'PT', 'ES']",False,BR
+1048,608ac7fd0b536f0fcb482b8cfb854cb3,4,0.0,0.39,PK,40,Pakistan,"['AR', 'DE', 'EN', 'ES', 'FR', 'IT']",True,US
+1050,60b5eacce16604b4014236bf6f8832c6,4,0.0,0.39,ET,26,Ethiopia,"['AR', 'TR', 'EN']",False,ET
+1052,60e6456eb6a4e591d90adcde7ba4f9de,2,0.0,0.15,PK,28,Pakistan,['EN'],True,PK
+1055,61191c6fde38dd8f0363561f329ab599,11,0.0,1.06,EG,29,Egypt,"['RU', 'AR', 'AA', 'KK', 'DE', 'EN']",False,EG
+1057,617bdba58b2aab992bbfbfcda3fe9c52,1,0.0,0.09,US,21,United States,"['PS', 'EN', 'UR', 'HI']",True,PK
+1062,6236cf7c75fe6aa2e5d2f6e37daad5b1,1,0.0,0.1,GH,23,Ghana,['EN'],True,GH
+1063,62616513d407cd2587557180e8571e2e,4,0.0,0.39,US,28,United States,"['SV', 'DE', 'EN', 'IT', 'TR', 'AR']",True,PK
+1064,6263b09144214655784eaf4463362ace,1,0.0,0.09,SE,19,Sweden,"['EN', 'SV']",False,SE
+1067,627df1d120eea5000329d4abdcbe7e5b,19,0.0,2.16,VE,47,Venezuela,"['IT', 'PT', 'RU', 'EN', 'ES']",False,VE
+1073,62b7830f1a452e8ea0a8968883d780c6,4,0.0,0.38,EG,23,Egypt,"['DE', 'AR', 'EN', 'ES']",False,EG
+1078,62eb59588a4c7593bd3c097b32defaa2,4,0.0,0.38,EG,30,Egypt,"['AR', 'EN', 'PL', 'RU', 'DE']",False,EG
+1079,62f367ac49d63277c03e4d945617ba77,4,0.0,0.3,EG,30,Egypt,"['EN', 'AR']",False,EG
+1080,630cc0f4717a2a9faea09616f8a52a67,2,0.0,0.18,ZA,24,South Africa,['EN'],True,ZA
+1081,633685b8f7c7023622578c4eaeea2d3c,1,0.0,0.09,KE,22,Kenya,['EN'],True,KE
+1082,63636b61557c79dc9e8121fd2b466472,8,0.0,0.74,IN,22,India,['EN'],True,IN
+1083,637d0381f1828ea5f6f6dff28a6ad820,1,0.0,0.1,MA,37,Morocco,"['AR', 'EN', 'ES', 'FR']",False,MA
+1086,63ce437ecf6fb491d496a618683e52cb,20,0.0,2.24,EG,32,Egypt,"['AR', 'EN']",False,EG
+1087,63d4bc227c96e9eb829ab29049643e69,1,0.0,0.12,RO,23,Romania,"['RO', 'EN', 'HU']",False,RO
+1088,6418c6528652a35266a92e40d1cc0461,1,0.0,0.09,AU,60,Australia,['EN'],True,AU
+1089,641bd9ffdb17aff057f58308e4eead14,4,0.0,0.4,NG,23,Nigeria,['EN'],True,NG
+1090,641cc933d174498af393185607bdd7a9,2,0.0,0.18,PK,21,Pakistan,"['RU', 'TR', 'FR', 'EN', 'DE']",True,PK
+1092,6422c2a58ac46434851ee82eb09c6074,7,0.0,0.09,PK,44,Pakistan,"['EN', 'ZH', 'ES', 'PT', 'RU', 'AR']",True,PK
+1093,64240ef1702a4adf310a1893d60da8c5,13,0.0,1.4,MA,22,Morocco,"['AR', 'EN', 'FA', 'FR']",False,MA
+1096,646ef569491540d55e1f3140841a1a15,2,0.0,0.18,PK,44,Pakistan,"['PT', 'EN', 'JA', 'AR', 'DE']",True,PK
+1097,646f6e766c4eb17993bde3084e733935,8,0.0,0.74,NG,26,Nigeria,"['HA', 'EN']",True,NG
+1098,64767b122c09ff7efaaf234de10d827c,1,0.0,0.09,IN,20,India,"['FR', 'JA', 'EN']",True,IN
+1099,647c9b18584fcc368ef8fc21fa6bf9db,2,0.0,0.19,NG,39,Nigeria,['EN'],True,NG
+1103,64e1ff629767402ae00ef5099f17ef49,4,0.0,0.38,PH,26,Philippines,"['EN', 'RU', 'TL']",True,PH
+1104,64f811339e8b3f0288afcf320fa1075a,14,0.0,1.19,EG,56,Egypt,"['AR', 'EN']",False,EG
+1105,655539b828b176f043784b606390ef91,1,0.0,0.09,KE,25,Kenya,['EN'],True,ET
+1107,65813d284e937c5a24f8a010f580f643,4,0.0,0.38,BD,25,Bangladesh,"['BN', 'EN']",True,BD
+1108,65a696c827f43df65b0b93680be697dc,2,0.0,0.18,IN,27,India,"['EN', 'HI']",True,IN
+1111,65d940d196538134e14d399aa8c8ac5a,6,0.0,0.58,IN,38,India,"['EN', 'HI', 'KN']",True,IN
+1114,6604126b7e5f70f41338c48f38b5ab19,21,0.0,2.09,KE,21,Kenya,"['EN', 'FR']",True,KE
+1117,66568aa8d333605035929b4682267214,4,0.0,0.38,IN,24,India,['EN'],True,IN
+1118,6657961a1a4e74cd47cd4ba0788f3bfd,6,0.0,0.56,EG,29,Egypt,"['RU', 'AR', 'KK', 'EN']",False,EG
+1119,66802a276cc7960b8db7ed8ac9252f13,2,0.0,0.1,PK,37,Pakistan,"['AR', 'DE', 'EN', 'ES', 'FR', 'PT']",True,PK
+1120,66932bb1d1c50644786e653f7c3af464,22,0.0,1.68,PK,30,Pakistan,"['EN', 'RU', 'ES', 'AR', 'PT', 'FR']",True,PK
+1121,6695ea2955784a243c1ea797a2d16ecb,1,0.0,0.09,PK,29,Pakistan,['EN'],True,PK
+1122,66ab710f7469ec32f3f1bb26a602ffe0,1,0.0,0.1,NG,21,Nigeria,['EN'],True,NG
+1123,66ac6f3286db863655cadd8a873e8d4f,2,0.0,0.2,IN,36,India,['EN'],True,IN
+1125,671405f36447af7a55a56ebc276caea8,4,0.0,0.38,ET,21,Ethiopia,"['KO', 'EN']",False,ET
+1128,67242f0862bf19ea5267c082def018ce,1,0.0,0.1,IN,21,India,['EN'],True,IN
+1129,6724fb23b7f930b3853a2a9bb2e0a4d4,8,0.0,0.76,EG,36,Egypt,"['AR', 'EN']",False,EG
+1130,6739269ad686b0038d4e9989a55fedf6,19,0.0,2.08,EG,20,Egypt,"['AR', 'EN']",False,EG
+1132,676a81c2db492b785904ee1e580264a5,4,0.0,0.38,MA,38,Morocco,"['AR', 'EN', 'FR']",False,MA
+1133,676ffd39565652430b854dcad7c4d285,6,0.0,0.58,IN,30,India,"['EN', 'HI', 'TE']",True,IN
+1140,67d55b03059b773438146d7e19a03110,2,0.0,0.22,TR,19,Turkey,"['EN', 'TR']",False,TR
+1146,683116cc0ff742ff9c4709cada2a081c,1,0.0,0.09,PK,19,Pakistan,['EN'],True,PK
+1147,6871367fb218c5ec78c288bedd6a825a,1,0.0,0.09,PK,23,Pakistan,"['EN', 'UR']",True,PK
+1148,6886c49e5419389c6724da132c2aa0da,1,0.0,0.1,HN,31,Honduras,"['ES', 'EN']",False,HN
+1150,68b1fea75e636f915c8b503bed79901f,10,0.0,0.92,EG,40,Egypt,"['AR', 'RU', 'ES', 'EN']",False,EG
+1155,68fa5708c7d6b9faf58bcb855b93eb15,1,0.0,0.09,ET,23,Ethiopia,['EN'],False,ET
+1156,6907892667115fab9f739541fd6171d2,9,0.0,0.92,NG,38,Nigeria,"['EN', 'YO']",True,NG
+1157,690a00f34bdeceeb6784379cde1ff5f0,1,0.0,0.09,BR,20,Brazil,"['EN', 'PT']",False,BR
+1158,693788da75bce40f83282dc3c2425e23,4,0.0,0.39,KE,35,Kenya,"['RU', 'TR', 'EN', 'GA']",True,KE
+1159,693f3feb1900e039a07a20ced0b75c47,4,0.0,0.38,NG,29,Nigeria,"['DE', 'EN', 'FR']",True,NG
+1160,69425b08fa3755a96d84e115dbc34562,1,0.0,0.1,US,26,United States,['EN'],True,US
+1166,69cbc49e46c66f2f4e4ac0b38ec77daa,1,0.0,0.09,NG,32,Nigeria,"['YO', 'EN']",True,NG
+1167,69d31a06cc0e1c11177e46d069189645,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1168,69e85380708a6d4c7284eb046eb663a8,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1169,69ff8efcc439e0e6699f877a05a4fcc6,1,0.0,0.09,ZA,20,South Africa,['EN'],True,ZA
+1171,6a0ac3052ba0468fe1c87f7ae9ce2750,1,0.0,0.09,PK,55,Pakistan,"['EN', 'RU', 'AR', 'FR', 'JA', 'PT']",True,PK
+1172,6a234b5a44431fba1750c288b66a777c,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1174,6a704cca6a8243e143b177d75146fde0,2,0.0,0.2,PH,20,Philippines,"['TL', 'EN']",True,PH
+1175,6a77f4ba1d04551c0c776dbd7b38e2f5,8,0.0,0.74,EG,19,Egypt,"['AR', 'EN', 'KK']",False,EG
+1176,6a804f82d5a5f3448497322706045f3f,4,0.0,0.4,MA,37,Morocco,"['EN', 'ES', 'AR', 'FR']",False,MA
+1177,6aaa8e36afbb1f9e4295e88e0902428a,2,0.0,0.21,EG,25,Egypt,"['KK', 'RU', 'EN', 'DE', 'AR', 'ES']",False,EG
+1179,6af183b42c7f69cfb6cc793043c95022,9,0.0,0.85,EG,26,Egypt,"['AR', 'EN', 'RU']",False,EG
+1180,6af8b91f685c987270bfe9aeb904ba96,2,0.0,0.19,IN,21,India,"['HI', 'EN']",True,IN
+1181,6b12420d226a1d8a5e3d50ce9d70a841,1,0.0,0.09,PH,21,Philippines,['EN'],True,PH
+1182,6b18691bc37000af52e22fa8d09bb7df,2,0.0,0.19,PK,20,Pakistan,['EN'],True,PK
+1184,6b2d2470457eb5236c7cab9f114fecb3,4,0.0,0.43,IN,21,India,"['EN', 'FR', 'RU', 'WA', 'ZH-HANS']",True,IN
+1185,6b473fb07ec10eedec4577fb6c24050d,11,0.0,1.26,JO,50,Jordan,"['AR', 'EN', 'RU']",False,JO
+1186,6b51d7a9f39e22849c1e67c95dce0ab2,10,0.0,0.92,JO,27,Jordan,"['AR', 'EN']",False,JO
+1191,6b9489aa8e045d3ba58df7fcec78aa99,19,0.0,2.08,EG,33,Egypt,"['RU', 'AR', 'EN']",False,EG
+1192,6bbf39e4d549a21476bbd1513cfb4754,1,0.0,0.09,EG,18,Egypt,"['ES', 'EN', 'AR']",False,EG
+1193,6bc5cb2b3b60fbeb0e195a651664a00f,4,0.0,0.38,PK,29,Pakistan,"['DE', 'RU', 'AR', 'EN', 'FR', 'IT']",True,PK
+1194,6bc63f4e23da031285cc39c09cc3d6fd,1,0.0,0.1,US,46,United States,['EN'],True,US
+1199,6bfd7731bb24caa7a81dab5ebfb06459,1,0.0,0.09,VE,48,Venezuela,"['EN', 'ES']",False,VE
+1201,6c2bcb1328f71f27d8f18fc2664cd730,1,0.0,0.1,ZA,29,South Africa,['EN'],True,ZA
+1202,6c3448d91f91ee0df19259acb551701b,4,0.0,0.3,EG,52,Egypt,"['AR', 'EN', 'RU']",False,EG
+1204,6c4e59b44e667fc3c6f15b356e0c4775,3,0.0,0.29,KE,22,Kenya,"['KI', 'EN', 'SW']",True,KE
+1206,6c732f1f94f6e9aeac50a6b0318d296b,2,0.0,0.19,KE,27,Kenya,"['EN', 'SW']",True,KE
+1207,6cabf054603d1ab70f6c8b7345c18a49,1,0.0,0.09,ET,21,Ethiopia,"['EN', 'RU', 'AM']",False,ET
+1210,6cb94a93514b5e9310133d013b90ce01,2,0.0,0.18,BR,25,Brazil,"['EN', 'JA', 'ES', 'PT']",False,BR
+1211,6cb993182334b24031e6b02f65cb9410,4,0.0,0.38,PK,41,Pakistan,['EN'],True,PK
+1213,6cf33e427bb91382aca184e27098afdc,23,0.0,2.56,EG,19,Egypt,"['AR', 'KK', 'RU', 'EN', 'TR']",False,EG
+1215,6d411987baaa246765aceb712135ee51,3,0.0,0.36,US,34,United States,['EN'],True,US
+1217,6d953700f3762b4397febbc14ddb4283,1,0.0,0.09,NG,48,Nigeria,"['EN', 'FR', 'DE']",True,NG
+1220,6dc78d823d2dba1935ec9d93fc7dcc8c,4,0.0,0.38,NG,28,Nigeria,"['EN', 'RU']",True,NG
+1222,6dd3a35d00793d1193dcc8ba0dcb1fc8,1,0.0,0.09,NG,24,Nigeria,['EN'],True,NG
+1223,6de9d807930d55fdddfaf3eecd0c8c13,8,0.0,0.74,EG,42,Egypt,"['AR', 'EN', 'FR']",False,EG
+1227,6e0d1b11e0386378a095c2bf3d8ec98d,1,0.0,0.1,PK,21,Pakistan,['EN'],True,PK
+1228,6e1c9b927a7bbaae9a081b0aaa346d4c,1,0.0,0.1,PH,20,Philippines,['EN'],True,PH
+1232,6e8b6dbf7b9bb0251e4b9f8fe3b0d03a,19,0.0,2.18,EG,33,Egypt,"['TR', 'DE', 'KK', 'AR', 'EN', 'RU']",False,EG
+1233,6e93f7eb6ce105568e30fa27010c8638,4,0.0,0.3,NG,28,Nigeria,"['RU', 'AR', 'FR', 'DE', 'EN']",True,NG
+1235,6e9fdeeb3d0dfb1afd888aa5c8d347e6,2,0.0,0.22,KE,35,Kenya,['EN'],True,KE
+1236,6ea1ea374f6ff7fcc70a3317b29f5616,10,0.0,0.92,PK,44,Pakistan,"['EN', 'KK', 'AR', 'DE', 'FR', 'RU']",True,PK
+1237,6ec1df5d3848477c7603012e5fc07ecb,1,0.0,0.09,TZ,24,Tanzania,"['EN', 'SW']",True,TZ
+1238,6ec8cb8b12a888c51b85139b5e9c2825,1,0.0,0.09,IN,49,India,['EN'],True,IN
+1239,6ed9b6e09831fbdd1a45a77daa9d742b,1,0.0,0.09,RU,34,Russia,"['EN', 'JA', 'ES', 'PL', 'RU']",False,VN
+1240,6eeee873ad60fc0691bd05a098d426b6,4,0.0,0.39,KE,20,Kenya,['EN'],True,KE
+1243,6f12252ad4f186104a683e1c9c17df50,1,0.0,0.09,KE,36,Kenya,"['SW', 'EN', 'KI']",True,KE
+1246,6f7c3b49fb50ae545ab662a317aa79bd,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1250,6fb0a674aa61e901b1dfba7e6045f68e,1,0.0,0.09,US,20,United States,"['EN', 'ES']",True,US
+1252,6fdb446b08e753b316e2ac836d2e2447,6,0.0,0.56,DZ,52,Algeria,"['AR', 'EN', 'FR', 'RU']",False,DZ
+1254,7003387da5455b543e53bafa356ca8ca,1,0.0,0.09,PK,23,Pakistan,['EN'],True,PK
+1255,704be7fcd5e9f1aa9ae5f6ff4abbac4c,3,0.0,0.36,ID,22,Indonesia,"['EN', 'JV', 'ES', 'ID']",False,ID
+1257,7098681a35c5cf5e5c8b399574d3d5b4,13,0.0,1.42,EG,32,Egypt,"['AR', 'EN', 'KK', 'RU']",False,EG
+1259,70cc0036cc9f542f5046e8bd6b4bdfa5,1,0.0,0.09,MY,21,Malaysia,"['ZH-HANS', 'EN']",True,MY
+1260,70dcd2f0b8f6476c6510b70a4320f171,3,0.0,0.36,NG,19,Nigeria,['EN'],True,NG
+1262,711bcbc801f4ba91e7509236e90d0be5,1,0.0,0.1,PA,42,Panama,"['ES', 'EN']",False,PA
+1265,713ba7fc77dcb81fbd6721748343f522,1,0.0,0.09,SE,42,Sweden,['EN'],False,SE
+1266,713dadfade95f71fe820d7fbe7649f50,4,0.0,0.38,EG,50,Egypt,"['AR', 'EN']",False,EG
+1267,714b7886fdb2115d0fa70985f35a9b1b,4,0.0,0.38,KE,22,Kenya,['EN'],True,KE
+1268,718a9b80cc9132d4fa7feb45b0c4bd64,6,0.0,0.47,UA,34,Ukraine,"['AR', 'UK', 'EN', 'DE', 'RU']",False,UA
+1269,7198c033e783c1919defc816f1dfe655,18,0.0,2.16,IN,41,India,['EN'],True,IN
+1270,71a0d190de0a7561386583f896282cce,1,0.0,0.1,ES,18,Spain,"['EN', 'CA', 'ES']",False,ES
+1271,71a1c641be2934ae77be2b7465f3886a,4,0.0,0.41,NG,27,Nigeria,"['EN', 'HA']",True,NG
+1272,71a60ee1bdf6c27a577a5df4782335a8,1,0.0,0.09,PK,22,Pakistan,['EN'],True,PK
+1274,71b8ccc2f93dec4e074f904daee1dc31,1,0.0,0.09,MD,25,Moldova,['EN'],False,MD
+1276,71c1da92cfb77b18eb9856b69ea8d467,1,0.0,0.09,PK,27,Pakistan,"['EN', 'UR']",True,PK
+1277,71c6dccaef8dad59c0a7e84e801923a0,1,0.0,0.1,ZA,18,South Africa,['EN'],True,ZA
+1279,71e03e4724f7d35ff5936486ecc69cc7,4,0.0,0.43,BR,36,Brazil,"['FR', 'DE', 'ES', 'IT', 'ZH', 'EN']",False,BR
+1281,71e4584b942f110a12d5e6e838e9c1d1,2,0.0,0.18,LK,21,Sri Lanka,['EN'],True,LK
+1283,721fdb5e00094f19b768d99ad61cfd5e,8,0.0,0.74,BR,52,Brazil,"['EN', 'PT', 'PT-BR']",False,BR
+1284,722938a3f02775d204577212f9d05000,1,0.0,0.09,RU,19,Russia,"['AR', 'DE', 'EN', 'ID', 'KK', 'RU']",False,PK
+1286,7261aa26ed56fff90994a28ca08c5491,1,0.0,0.1,CN,21,China,"['EN', 'ZH-HANS', 'AR']",False,US
+1287,7263194df0866f4fca8d08c6b853d35a,4,0.0,0.46,PK,29,Pakistan,"['EN', 'AR', 'FR', 'DE', 'ES', 'PT']",True,PK
+1288,727e9875f20b50f776e875525c108bdc,8,0.0,0.74,NG,29,Nigeria,['EN'],True,NG
+1289,7294c7acc76d1841d9c90596f0654bbf,6,0.0,0.6,EG,33,Egypt,"['FR', 'DE', 'AR', 'RU', 'ES', 'EN']",False,EG
+1292,72ad2d7142da983abeecaa4ac445203c,4,0.0,0.38,NG,30,Nigeria,"['EN', 'YO']",True,NG
+1293,72c59e1d58a27f04f9695dc428675fca,9,0.0,1.08,EG,29,Egypt,"['AR', 'EN']",False,EG
+1295,72ce87185ae81a526ee4759db0aff1b0,4,0.0,0.38,EG,22,Egypt,"['EN', 'AR']",False,EG
+1296,72e4d2f1c817e21e0dfa185c00092ab5,3,0.0,0.28,KE,30,Kenya,['EN'],True,KE
+1302,736ab4adda43455724a485a65bf41a3a,1,0.0,0.09,PK,20,Pakistan,"['EN', 'UR']",True,PK
+1303,738067a28b84d4cf2f44275702abd919,2,0.0,0.2,EG,27,Egypt,"['AR', 'EN']",False,EG
+1306,73b417dc873725bd2270ff22cb2cde79,4,0.0,0.4,KZ,25,Kazakhstan,"['EN', 'KK', 'KN', 'RU']",False,KZ
+1307,74075fbb7a2889ca9834d4f1b7a4ecd2,1,0.0,0.09,ES,61,Spain,"['ES', 'EN']",False,ES
+1308,746c262d4075bd363c8e640ac0f61563,4,0.0,0.38,EG,21,Egypt,"['ID', 'AR', 'KK', 'DE', 'EN', 'RU']",False,EG
+1309,74ca70034a782a4fe1a7976ac0a52a7b,11,0.0,1.17,EG,22,Egypt,"['AR', 'EN', 'KK']",False,EG
+1310,74e798804c570fb5a9d1cf72bcfad835,1,0.0,0.09,EG,20,Egypt,"['EN', 'AR']",False,EG
+1311,74e9ea82c90942103a034348ee4016a0,8,0.0,0.74,LK,37,Sri Lanka,"['EN', 'SI']",True,LK
+1313,750a12e7b5859d0a3fe4d1795fbcc6ab,1,0.0,0.09,IN,20,India,['EN'],True,IN
+1315,751659255cb0a31e4334ebbf9eeca2c2,4,0.0,0.4,ET,34,Ethiopia,['EN'],False,ET
+1316,7527dbc4e966bece235d7f6196eb55f7,4,0.0,0.38,ID,18,Indonesia,"['ID', 'MS', 'EN']",False,ID
+1318,755a611de457ae958d94fbd764d143cf,11,0.0,1.22,NG,50,Nigeria,['EN'],True,NG
+1320,759e52445581deb80fd71f2a1048ad98,6,0.0,0.58,KE,36,Kenya,"['SW', 'EN']",True,KE
+1323,75e86ffea5f1739b2e35dec8c4f7b1fc,1,0.0,0.09,PK,37,Pakistan,"['JA', 'RU', 'DE', 'EN', 'AR', 'IT']",True,PK
+1324,75e9add90bcb1bcb2746e1987c8e41ba,4,0.0,0.39,PK,38,Pakistan,['EN'],True,PK
+1325,760e87af3149a14aaf381257ed098d0a,1,0.0,0.1,KE,23,Kenya,"['EN', 'SW']",True,KE
+1327,763990c9f1cb0189775299cdcf23cd49,8,0.0,0.74,AR,49,Argentina,"['EN', 'ES']",False,AR
+1333,76c3a1ea7e16ea078bd0a282802604d0,1,0.0,0.1,PK,51,Pakistan,"['AR', 'DE', 'EN', 'ES', 'FR', 'RU']",True,PK
+1334,76d51e7bde67146dd8d5140166a0d5f6,4,0.15,0.28,NG,32,Nigeria,['EN'],True,NG
+1338,772481febd134ed6b675624d664b70db,4,0.0,0.38,EG,28,Egypt,"['AR', 'DE', 'EN', 'RU', 'TR']",False,EG
+1341,77a928596d20e4ac584ce9df685f223a,1,0.0,0.1,US,27,United States,"['AM', 'EN']",True,ET
+1343,77bb122d1a9f74fbc13e4379acc89c44,2,0.0,0.19,PH,33,Philippines,"['EN', 'TL']",True,PH
+1344,77ccd98c679c7dbd0c3f1fa86ad9ddd9,6,0.0,0.56,ZA,34,South Africa,"['NL', 'EN', 'ZU', 'ST', 'FR', 'AF']",True,ZA
+1345,77cf4eba2ca19de241e1b67dd63c0f08,2,0.0,0.18,NG,24,Nigeria,"['ZH-HANS', 'EN']",True,NG
+1346,77da0f726a0086a9347c458bd75cef6f,1,0.0,0.1,BR,31,Brazil,"['EN', 'ES', 'PT-BR']",False,BR
+1348,77f422b6307b71b14d61f6bad107492d,50,0.0,5.3,KE,24,Kenya,"['EN', 'TR', 'DE', 'FR', 'RU', 'AR']",True,KE
+1350,78058537a0c90d7db16c0504efb5599e,2,0.0,0.19,JO,20,Jordan,"['AR', 'DE', 'EN', 'ES', 'RU']",False,JO
+1354,782f1f6d60e0cf911c58b07e522c329e,1,0.0,0.1,ZA,36,South Africa,"['ZU', 'EN', 'SS']",True,ZA
+1355,783ff7d14fe72d6c97790392cf3c886a,3,0.0,0.36,PK,22,Pakistan,"['JA', 'DE', 'EN', 'ES', 'PT', 'AR']",True,PK
+1356,78569732c860a6998c5f4917e044632e,1,0.0,0.09,IN,26,India,"['HI', 'EN']",True,IN
+1357,789a8c8ca966a8ffca2b72aaae951370,1,0.0,0.09,EG,36,Egypt,"['EN', 'AR']",False,EG
+1358,78b4d982d7180b3198f47035dea06fe8,1,0.0,0.1,FR,27,France,"['EN', 'PT']",False,NA
+1362,7905c092a6eee72aa641620ea3c4d228,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1366,792c3fee3fd765f377cfb6166527c892,1,0.0,0.09,KE,24,Kenya,['EN'],True,KE
+1367,793bafcf356f92448472d467cb655453,4,0.0,0.3,NG,30,Nigeria,['EN'],True,NG
+1369,795d57c7ef16eef27dbaa6631263a8ed,1,0.0,0.09,KE,20,Kenya,['EN'],True,KE
+1371,79690f2ae5d021037f82d2c8eb58bab1,1,0.0,0.09,IN,33,India,['EN'],True,IN
+1374,79a71ca394498c00a207cac4c75b732f,2,0.0,0.18,KE,27,Kenya,['EN'],True,KE
+1376,79eb3142b0dd5ceb8efa95ab523cbcf8,1,0.0,0.09,PK,25,Pakistan,"['AR', 'EN', 'FR']",True,PK
+1378,7a0a38a3e022e81ad36de815f7b62345,1,0.0,0.09,EG,25,Egypt,"['AR', 'EN']",False,EG
+1381,7a587a522799a460310dec427a34cafb,1,0.0,0.12,KE,26,Kenya,['EN'],True,KE
+1384,7a6d56734dbd9cb3524e5de2153726b6,2,0.0,0.18,PK,21,Pakistan,"['UR', 'EN']",True,PK
+1385,7a8322995562933d346a73ed46302442,5,0.0,0.38,UA,25,Ukraine,"['FR', 'EN', 'UK', 'RU', 'DE', 'IT']",False,UA
+1388,7af0345e973cd5ef4fe138e092c872fd,7,0.0,0.65,LS,33,Lesotho,['EN'],True,LS
+1392,7b090380c72401048d8988f3abd93d64,4,0.0,0.38,ET,26,Ethiopia,['EN'],False,CH
+1393,7b30126ca7571df8fc2019608dc53a59,3,0.0,0.29,IN,18,India,['EN'],True,IN
+1394,7b557dfaf0d504a65c1efbb22b57ff1d,4,0.0,0.38,TH,38,Thailand,"['EN', 'TL']",False,TH
+1395,7b7c1fde2dc893219795e48fdf35a840,1,0.0,0.09,ZA,27,South Africa,['EN'],True,ZA
+1396,7b7d215b3c1666822cce4a4c854b6ca3,1,0.0,0.09,KE,30,Kenya,['EN'],True,KE
+1397,7b7dcb64d452db42aea067be87a9f89f,2,0.0,0.18,MY,31,Malaysia,"['EN', 'ZH', 'ZH-HANS', 'MS', 'YUE', 'MCLR']",True,MY
+1398,7b8674e79516c47ebcc158540b9d2e62,1,0.0,0.09,IN,25,India,['EN'],True,IN
+1400,7bb1087dad8b415e6a216e06d744922d,1,0.0,0.09,NG,26,Nigeria,['EN'],True,NG
+1402,7c0dfdc806a6bcc0858a1bc6eadaece4,4,0.0,0.41,EG,23,Egypt,"['EN', 'RU', 'AR']",False,EG
+1404,7c4be5a33d082053b072311752221b56,4,0.0,0.38,NG,30,Nigeria,"['EN', 'ES', 'FR', 'RU']",True,NG
+1405,7c4cbf60d9254213172a0525993490f9,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1407,7c724a0353edfada556547dc735da4c1,1,0.0,0.1,TZ,29,Tanzania,"['EN', 'SW']",True,TZ
+1409,7d03fe20ac9974377bedd24cd7a64ee7,1,0.0,0.09,NG,31,Nigeria,['EN'],True,NG
+1412,7d305bb97835cc2dfcde0113b2a1d278,1,0.0,0.1,KE,19,Kenya,"['EN', 'SW']",True,KE
+1414,7d3f3073ee4efdd505558e1bc834c9cf,1,0.0,0.1,BR,18,Brazil,"['PT', 'EN']",False,BR
+1415,7d54acfd17eed02ab23205e992e30a46,2,0.0,0.18,PK,42,Pakistan,"['AR', 'DE', 'EN', 'JA', 'PT', 'SV']",True,PK
+1418,7daabffe0759ab9965fd1d45444f5580,1,0.0,0.1,ZA,31,South Africa,['EN'],True,ZA
+1420,7dfd7e649eef0b049db30199e599ec64,1,0.0,0.1,US,28,United States,['EN'],True,US
+1421,7e33737d25f43c863e8e10c0ebff2737,14,0.0,1.56,EG,24,Egypt,"['AR', 'DE', 'EN', 'KK', 'RU']",False,EG
+1424,7eab13b4ec8beb5c46a8c17bd893eff9,1,0.0,0.09,NG,28,Nigeria,['EN'],True,NG
+1426,7eddc3d1c0554140da182d13b0271d80,1,0.0,0.09,HU,33,Hungary,"['EN', 'PT']",False,HU
+1428,7ee4a9d0cbca547e60146dc5e21513ad,1,0.0,0.1,ZA,37,South Africa,['EN'],True,ZA
+1429,7eed35ef9836a335d75704b988f55987,1,0.0,0.1,CN,21,China,"['EN', 'ZH', 'ZH-HANS']",False,JP
+1430,7efad51862d18f159f144024e2229eec,1,0.0,0.1,LK,28,Sri Lanka,['EN'],True,LK
+1432,7f0420334ba22269bc277e597fbf7cc0,1,0.0,0.09,LK,23,Sri Lanka,"['EN', 'FR', 'SI']",True,LK
+1433,7f20f238a278cafb372dbcd5bebd3570,1,0.0,0.1,VE,32,Venezuela,"['ES', 'EN']",False,VE
+1434,7f3178f956b531d5793ef7e48a8b77c0,1,0.0,0.1,PK,28,Pakistan,"['EN', 'UR']",True,PK
+1437,7f99fbc2d6ca534e71ac4a66f492975d,1,0.0,0.09,NG,23,Nigeria,['EN'],True,NG
+1438,7fa6bd82d62607272151fe1cc8414410,4,0.4,0.09,ID,22,Indonesia,"['EN', 'ID']",False,ID
+1439,7fa8b17a9f24852959656ca1ed475ab0,2,0.0,0.18,PK,39,Pakistan,"['JA', 'EN', 'AR', 'DE']",True,PK
+1440,7fb1ed8980b588a153eaf3ee1ced51a8,5,0.0,0.48,EG,22,Egypt,"['RU', 'AR', 'EN', 'KK', 'TR']",False,EG
+1441,7ffa7ac95e08555a62b9d660aa77d8e6,1,0.0,0.1,RU,44,Russia,"['EN', 'RU']",False,RU
+1442,8008a82d54802a61c3b8a2a8b6cfa568,1,0.0,0.09,IN,24,India,"['HI', 'EN']",True,IN
+1443,8018430722134007790f5630c1bbb06c,3,0.0,0.29,KE,54,Kenya,"['EN', 'SW']",True,KE
+1446,8052d7dfdf92de4bfaeb9fae926dca7b,2,0.0,0.18,LK,51,Sri Lanka,"['EN', 'ES', 'FR', 'ID', 'JA', 'RU']",True,LK
+1448,805e3d6c1010bc386032153b9612b4b0,6,0.0,0.73,KE,25,Kenya,"['DE', 'EN', 'FR', 'RU', 'TR']",True,KE
+1449,80768dce6bd73465b38da2b87ab86d4c,2,0.0,0.18,BR,36,Brazil,"['AR', 'EN', 'PT', 'FR', 'RU', 'ES']",False,BR
+1452,80afd87ea35db0eba14aec049ecdcf6a,1,0.0,0.09,PK,30,Pakistan,"['EN', 'PT', 'RU', 'AR']",True,PK
+1453,80c111819a5ff08fef373d6a70c4af1c,1,0.0,0.1,IN,23,India,['EN'],True,IN
+1456,80fff863825699bd7dd6f7589ed5f645,1,0.0,0.1,IN,27,India,"['HI', 'MR', 'EN']",True,IN
+1457,811ea6209cea0c81b6a4bd7ce4ca21c3,1,0.0,0.09,KE,28,Kenya,['EN'],True,KE
+1458,8152d7484624875d89ec24e965973768,1,0.0,0.09,KE,23,Kenya,"['EN', 'ES', 'FR', 'RU']",True,KE
+1461,81ff7b0e8ef9c4e0a884c3ca0f36f269,2,0.0,0.19,NG,18,Nigeria,['EN'],True,NG
+1462,82012b5f91f8df579087826900ce57df,1,0.0,0.09,PK,25,Pakistan,['EN'],True,PK
+1466,8286561c80f8a280e8160fa3cef6d7af,1,0.0,0.1,ZA,22,South Africa,['EN'],True,ZA
+1467,82978d4760ea736641ab6d7f250aef8f,4,0.0,0.35,PK,23,Pakistan,"['AR', 'DE', 'EN', 'KK', 'PT', 'RU']",True,PK
+1469,82b138738e435ec4865c11200e962973,1,0.0,0.09,LK,19,Sri Lanka,['EN'],True,LK
+1472,830d7918d287903ffb57d7aa3ca41d7b,12,0.0,1.22,KE,25,Kenya,['EN'],True,KE
+1473,8325a0dfab928339d60700477a05ca17,1,0.0,0.09,ZA,22,South Africa,"['EN', 'AF']",True,ZA
+1475,8356155f8bd01413785a8da239b07287,1,0.0,0.1,ZA,41,South Africa,"['XH', 'EN']",True,ZA
+1476,835f7ea67353e69d5a440f334a588651,1,0.0,0.1,ZA,32,South Africa,['EN'],True,ZA
+1477,8379f3d579152aec4d1b71644a9e6e99,1,0.0,0.1,PK,30,Pakistan,"['EN', 'UR']",True,PK
+1478,83dcbdefbf7ecef7a39fe9a32a989c02,1,0.0,0.1,EG,35,Egypt,"['AR', 'EN']",False,EG
+1479,83de11912c2e602770dd347e22a6bbc1,2,0.0,0.18,GY,30,Guyana,['EN'],True,GY
+1480,840d0f272e1b933b2a823bb5cefef91d,4,0.0,0.38,IN,21,India,"['EN', 'HI', 'UR']",True,IN
+1481,841a2e0458e478289b6116bb3de043a2,2,0.0,0.19,PH,29,Philippines,['EN'],True,PH
+1482,84a2046b83a9d6c90ec8883493a9e731,1,0.0,0.09,PK,23,Pakistan,"['FR', 'EN', 'NL', 'ES', 'RU', 'DE']",True,PK
+1483,84c8f7a7374e16e082dddd051b1ea319,4,0.1,0.39,PK,24,Pakistan,['EN'],True,PK
+1489,852492e9d4d7427569cfab9276dcfd34,1,0.0,0.09,KE,24,Kenya,['EN'],True,KE
+1493,85c24dd7d04bc58334aec9c6f7b1254e,1,0.0,0.1,EG,20,Egypt,"['AR', 'DE', 'EN', 'FR', 'IT', 'RU']",False,EG
+1495,85d1afddc4cb374a22d425a2e5766e19,20,0.0,1.92,KE,24,Kenya,"['EN', 'SW']",True,KE
+1501,8674959320a91439f7e69bb2d8e0b969,3,0.0,0.28,ZM,23,Zambia,['EN'],True,US
+1502,867d86a438744f53115b757e11fc8a0b,2,0.0,0.18,VN,18,Vietnam,"['EN', 'VI']",False,VN
+1503,868b30caf49be78eece84e10fb13ba28,4,0.0,0.38,KE,23,Kenya,['EN'],True,KE
+1506,86a3a1672763e96c0d4971f10c883a82,1,0.0,0.1,NG,28,Nigeria,['EN'],True,NG
+1508,86e13918a8dcca031f952c7dbc8d1cc8,1,0.0,0.09,ET,31,Ethiopia,"['EN', 'OM']",False,ET
+1509,86e78101c257f322e6f890ad605eb72e,1,0.0,0.1,GH,24,Ghana,['EN'],True,GH
+1510,86ee3c816d13df0224e7129b35fff840,1,0.0,0.1,ES,20,Spain,"['EN', 'ES']",False,ES
+1514,86f8ace7910f94df53e2256a78942355,2,0.0,0.18,ID,28,Indonesia,"['EN', 'ID']",False,ID
+1516,86ff1220e0d79969d352a18c2acc0e03,6,0.0,0.58,LK,39,Sri Lanka,"['EN', 'SI']",True,LK
+1517,8719beb58766f540a566929a9451c238,16,0.0,1.72,IL,50,Israel,"['EN', 'HE', 'RU']",True,RU
+1524,87857954fe7e39e67a0c1e1f0eea8e99,1,0.0,0.09,IN,24,India,"['HI', 'EN']",True,IN
+1525,8787499f91c0f48023b3a26dfbe3024c,2,0.0,0.18,ZA,32,South Africa,"['EN', 'ZU']",True,ZA
+1526,87978d42ed7b8411b5b0717e4a62368f,1,0.0,0.09,GB,23,United Kingdom,['EN'],True,GB
+1528,87b88ccf46e393370d898fee77ee2af0,5,0.0,0.6,KE,25,Kenya,"['SW', 'FR', 'EN']",True,KE
+1530,87fa6d2e33cc5ec821cad10ea1f60c43,14,0.0,1.48,PE,20,Peru,"['EN', 'ES']",False,PE
+1532,88068638195ce4efc7331d5bd197d567,11,0.0,1.07,JO,39,Jordan,"['RU', 'EN', 'AR', 'ES', 'FR']",False,JO
+1533,88157059c9ea7863636fafd5bc4d139d,4,0.0,0.3,EG,32,Egypt,"['ES', 'SA', 'KK', 'EN', 'AR', 'RU']",False,EG
+1534,8818cf81c385127108b42b56731cf2bb,11,0.0,1.14,EG,21,Egypt,"['AR', 'EN', 'ES', 'FR', 'ID', 'RU']",False,EG
+1536,883ad785f80b9eca876c227decadc72d,1,0.0,0.09,NG,23,Nigeria,"['EN', 'FR']",True,NG
+1537,8845794c6a2a50adfbf86ed230fc17ee,1,0.0,0.09,BA,28,Bosnia and Herzegovina,"['EN', 'HR', 'SR', 'MK', 'BS']",False,BA
+1538,884e283853a06d8bcbd68e745856890b,4,0.0,0.38,EG,24,Egypt,"['AR', 'EN', 'ES', 'FR', 'PT', 'SV']",False,EG
+1539,8864dff897fbddce56332f3a05797002,4,0.0,0.43,EG,25,Egypt,"['AR', 'EN', 'TR']",False,EG
+1540,886dcd3efd4a88a00bd0900b0a900824,1,0.0,0.1,AZ,39,Azerbaijan,"['AR', 'EN', 'KK', 'RU', 'TR']",False,AZ
+1541,88a19c2b80455e94e5f6ec093e88244a,1,0.0,0.1,NG,23,Nigeria,"['YO', 'EN']",True,NG
+1542,88b282b4f2f313182394e07e14027db6,4,0.0,0.38,EG,23,Egypt,"['EN', 'AR', 'IT', 'FR', 'ES', 'CS']",False,EG
+1543,88bd6e7b010b78cf048d7cb6f97e2830,3,0.0,0.29,KE,25,Kenya,"['EN', 'SW']",True,KE
+1544,88c6720d5c9c97af0645ac86add8e41c,15,0.0,1.72,TR,38,Turkey,"['TR', 'AZ', 'EN']",False,TR
+1546,892be460b53b57a85b18b24f4e599c05,2,0.0,0.22,CM,26,Cameroon,['EN'],True,CM
+1550,89814d2cb2409479421dd714fee166b1,2,0.0,0.2,NG,29,Nigeria,['EN'],True,NG
+1551,898546683e3a335634e11f7c7ca49f2c,1,0.0,0.1,NG,24,Nigeria,['EN'],True,NG
+1552,899e4a5e73cb7dbcfee1c47654791a7f,2,0.0,0.18,NG,35,Nigeria,['EN'],True,NG
+1555,8a07e28fd09934fc43300fe9a03220ce,1,0.0,0.09,PK,20,Pakistan,['EN'],True,PK
+1557,8a318a62683e3caa1f34bb3d3ee7fcd7,28,0.0,2.76,PK,20,Pakistan,"['DE', 'AR', 'PT', 'EN', 'FR', 'RU']",True,PK
+1558,8a3fcffea2f856b27dc175152d2dcf7c,1,0.0,0.09,EG,22,Egypt,"['AR', 'EN']",False,EG
+1559,8a48f2898e5f07d57e51c8f333d8425e,4,0.0,0.38,EG,23,Egypt,"['AR', 'EN']",False,EG
+1560,8a4bd93d4f056d01abb820e921519084,4,0.0,0.38,PK,21,Pakistan,"['AR', 'DE', 'EN', 'ES', 'KK', 'PT']",True,AE
+1562,8a6ae0dbea33324168153ba8a2ba798d,2,0.0,0.22,NG,27,Nigeria,['EN'],True,US
+1567,8ae6295624e5d23e2cdbf3d2f8c2efb9,8,0.0,0.74,EG,20,Egypt,"['AR', 'EN', 'TR']",False,EG
+1569,8af6082d3dd8c5c1e9afb8f797ea5092,1,0.0,0.1,KE,23,Kenya,['EN'],True,KE
+1571,8b2a4b3adac852b00c4b8339ae7455e1,2,0.0,0.22,BY,23,Belarus,"['RU', 'BE', 'EN', 'FR']",False,BY
+1573,8b3d289e1fb355aaa23c86f4ecbf0cf0,8,0.0,0.74,KE,24,Kenya,"['EN', 'TR']",True,KE
+1576,8bb8235e7a9df97a2a55f8c9911a28a7,4,0.0,0.38,EG,21,Egypt,"['AR', 'EN']",False,EG
+1577,8bd8ec4c6f3072d1b2cdf0d9bd40bb09,6,0.0,0.56,EG,35,Egypt,"['EN', 'AR', 'DE']",False,EG
+1578,8bdc8fd2687b9bb5a92c3ef4d14494a9,1,0.0,0.09,AM,23,Armenia,"['EN', 'RU']",False,AM
+1579,8be2408b75efdeab5d7f89db32fc2840,1,0.0,0.1,IN,23,India,"['HI', 'EN']",True,IN
+1583,8c27ad575a204a872612cd140790a769,1,0.0,0.1,US,40,United States,['EN'],True,US
+1584,8c671f74ecda62a72f7ff1e8d2d9bd5a,1,0.0,0.09,IN,21,India,"['ML', 'HI', 'EN']",True,IN
+1585,8c7b287b7856787d0cd425ec6e916ccd,1,0.0,0.09,KE,20,Kenya,"['RU', 'EN', 'FR', 'AR']",True,KE
+1586,8c904aa94487a914677a685d28356c09,10,0.0,0.92,EG,23,Egypt,"['AR', 'EN', 'KK', 'RU']",False,EG
+1588,8cbc1164ecffabf180b33958b13904d8,6,0.0,0.62,PH,62,Philippines,"['EN', 'TL']",True,PH
+1590,8cf22bd5f14e499aaae6832a25fd145d,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1591,8d0a584385feef9c8ec9c8294fa31b84,1,0.0,0.09,BR,43,Brazil,"['EN', 'PT']",False,BR
+1596,8d7b99d7746080b76597e358e526ee80,2,0.0,0.2,NG,68,Nigeria,['EN'],True,NG
+1601,8e1c2a07cc638265cea6d95b7238be82,2,0.0,0.2,US,25,United States,['EN'],True,US
+1603,8e44900653d8a80500e4d2f18792b5a2,1,0.0,0.1,KE,28,Kenya,"['EN', 'SW']",True,KE
+1604,8e4b86116f6f7550de9258f344a2cbaa,1,0.0,0.09,ZA,19,South Africa,"['EN', 'XH']",True,ZA
+1605,8e517d866fb0358ef8b5f2c8efe618da,17,0.0,1.78,BR,43,Brazil,"['EN', 'PT']",False,BR
+1606,8e72f8ebac285563f9a24aa361b1a066,2,0.0,0.2,ZA,50,South Africa,['EN'],True,ZA
+1607,8e89d9806f363e4fa0534e9ce10c28ed,1,0.0,0.1,IN,22,India,"['EN', 'TE']",True,IN
+1609,8eb433e2aa0e4b1f417a7c34991a477e,6,0.0,0.56,DZ,40,Algeria,"['AR', 'EN', 'FR']",False,DZ
+1610,8ec40e0006923ee0e1a9bfe15088fa49,4,0.0,0.39,NG,38,Nigeria,"['JA', 'DE', 'EN', 'IG']",True,NG
+1611,8ec4a07d8b458b1453d7f16e9821565e,5,0.0,0.44,KE,32,Kenya,"['EN', 'SW']",True,KE
+1612,8ec4bd24bc7648e09e19eaaa467d9b30,1,0.0,0.1,KE,34,Kenya,['EN'],True,KE
+1613,8ec88320f7566158a6731709681111ae,1,0.0,0.09,NG,19,Nigeria,['EN'],True,NG
+1615,8f1816acca28cbadc21e968f32531774,1,0.0,0.09,KE,21,Kenya,['EN'],True,KE
+1618,8f3444435ce6e91aa2214af5683a1bda,4,0.0,0.38,KE,42,Kenya,"['EN', 'SW']",True,KE
+1619,8f638e4b28c524fb727af8a394123a52,4,0.0,0.38,PK,40,Pakistan,"['EN', 'UR']",True,PK
+1620,8fb6a6534de003befbb74ff5429427a5,5,0.0,0.53,EG,29,Egypt,"['AR', 'EN', 'FR', 'KK', 'RU', 'TR']",False,EG
+1622,8fc52709e261a1f7c67dab03b9de9c0a,4,0.0,0.39,ET,25,Ethiopia,['EN'],False,ET
+1623,8fc8fa75b6bdb318567844bb29df1cc3,14,0.0,1.4,TN,42,Tunisia,"['AR', 'EN', 'FR']",False,TN
+1625,8fe1d3d88bcfe2b72d660abb6286548b,2,0.0,0.2,MA,60,Morocco,"['EN', 'FR', 'AR']",False,MA
+1626,8ff308d6b3c7594496d6a45297a9245c,2,0.0,0.19,AR,56,Argentina,"['EN', 'ES']",False,AR
+1628,903f0afdadb7584b8555b0195e909024,1,0.0,0.1,KE,22,Kenya,['EN'],True,KE
+1629,9042827d3a10af7485be0fc159b20163,1,0.0,0.09,KE,50,Kenya,"['EN', 'SW']",True,KE
+1631,904bb1f420a995af671269624edbfa57,1,0.0,0.09,ET,23,Ethiopia,"['EN', 'PL', 'KO']",False,ET
+1635,906ab9011c62e7698d5e86204fc5905e,4,0.0,0.38,NG,38,Nigeria,"['FR', 'EN']",True,NG
+1636,906fb7e08e65c3d3273f9686968db0fa,4,0.0,0.38,PH,22,Philippines,"['EN', 'TL', 'ES']",True,PH
+1637,9087f017b4702982dd81cac2e7c8761d,2,0.0,0.22,US,22,United States,['EN'],True,US
+1638,909c75601c76adee4d40712c080b7b4e,3,0.0,0.29,IN,18,India,['EN'],True,IN
+1639,90b15a6781a8b9fe50401fb97290e925,1,0.0,0.09,NL,18,Netherlands,"['AR', 'EN']",False,EG
+1641,90c5af2df8c6a5f7cb73fc54afc10fbf,1,0.0,0.1,ZA,22,South Africa,['EN'],True,ZA
+1642,90dee7ae3df644e7f392ca082c4ec17f,5,0.0,0.48,EG,24,Egypt,"['AR', 'EN']",False,EG
+1643,90e5463d08f76d294b88886763c56c27,1,0.0,0.09,RO,19,Romania,"['HU', 'EN']",False,RO
+1644,90f3c08ce7a9cef35a2da2534f936ee3,1,0.0,0.09,PK,27,Pakistan,['EN'],True,PK
+1645,912e04c71ab3315312c8d4c0e583db99,6,0.0,0.55,EG,28,Egypt,"['AR', 'EN']",False,EG
+1647,916a9f3fb1a2d8c172f9a7527d9626bc,1,0.0,0.09,KE,26,Kenya,['EN'],True,KE
+1648,916d12dc9a86ed9ac7ca6682e15e7388,10,0.0,0.92,MG,33,Madagascar,"['EN', 'FR']",False,MG
+1649,91a96e03d75a8dc188b3c998353a0f2f,1,0.0,0.09,NG,25,Nigeria,"['RU', 'AR', 'EN']",True,NG
+1650,91f4fdddb0fb262cdc9de36d5cad91e2,1,0.0,0.09,IN,20,India,['EN'],True,IN
+1651,92234932d8c37ab30d87a579f27349aa,1,0.0,0.09,IN,20,India,"['HI', 'EN']",True,IN
+1655,92a99609d03146957a3e4beef0ce6504,5,0.0,0.6,IN,20,India,['EN'],True,IN
+1656,92be0ff4e9ba15b122d56e236aa972b9,2,0.0,0.22,TR,36,Turkey,"['EN', 'AR', 'TR']",False,TR
+1658,92e8612416e75e66b732149ae16a6c9c,1,0.0,0.1,GT,53,Guatemala,"['EN', 'ES']",False,GT
+1660,92fd361c4fd7865f3004a4791aa236eb,1,0.0,0.09,PH,33,Philippines,['EN'],True,PH
+1661,9300b866e54870286dfa959d81144143,2,0.0,0.18,MA,18,Morocco,"['EN', 'AR', 'KO', 'FR']",False,MA
+1664,933b5af3a5fd34fbd36fe1e8332e0aac,1,0.0,0.09,FR,28,France,"['DE', 'AR', 'FR', 'EN', 'ES']",False,TN
+1665,935f244fea35050f1ae39d06f767e28f,5,0.0,0.5,MX,43,Mexico,"['EN', 'ES', 'IT']",False,MX
+1666,93611885424e9d11371663592e7bb19b,1,0.0,0.09,PK,18,Pakistan,"['EN', 'UR']",True,PK
+1667,938206bea8a8b326d1d3aba54f70ba49,4,0.0,0.39,VN,41,Vietnam,"['AR', 'EN', 'ES', 'RU', 'TR', 'ZH-HANS']",False,VN
+1668,939d848faf297a2c3eb100d8a7d9d456,1,0.0,0.1,GH,22,Ghana,['EN'],True,GH
+1670,93b4edc8cba56f8594ab90d738592ed4,4,0.0,0.38,LK,32,Sri Lanka,"['SI', 'EN']",True,LK
+1671,93d2db2d0ba261179db9da92fd8a2cc2,3,0.0,0.28,PK,21,Pakistan,"['PT', 'EN', 'ES', 'FR', 'IT', 'ZH-HANS']",True,PK
+1672,93d325c381009d6be2ed28b38a416b38,2,0.0,0.22,KE,20,Kenya,['EN'],True,KE
+1674,9415f642c8b6d40e8cc20c53c02a0f57,16,0.0,1.96,BR,27,Brazil,"['PT', 'ES', 'EN', 'RU', 'FR', 'PT-BR']",False,BR
+1676,9452fdc39ae1f9a2df0e98607ce6e015,3,0.0,0.4,NG,35,Nigeria,['EN'],True,NG
+1678,948bb3009bd5caa9a8611e4d7c890b3e,4,0.0,0.4,BD,33,Bangladesh,"['AR', 'EN', 'HI', 'IT', 'PL', 'RU']",True,NP
+1681,9497304280099ea97a3c94da767ef56d,2,0.0,0.24,IN,31,India,"['MR', 'HI', 'EN']",True,IN
+1683,94db20aebae9b0d97f588ee0108642d4,1,0.0,0.09,TZ,23,Tanzania,['EN'],True,TZ
+1685,952abbfe1fd53ae7a302858d7393bb6d,5,0.0,0.6,ES,21,Spain,"['ES', 'EN']",False,ES
+1691,95d7d052d3206f547fca88826253bf64,8,0.0,0.8,TR,37,Turkey,"['EN', 'TR']",False,TR
+1692,95def5b9fa53b6c73d186bbe6e6a8f46,1,0.0,0.09,IN,24,India,['EN'],True,IN
+1694,95fa7d6dd533b71c35db58442e8261db,1,0.0,0.09,US,24,United States,['EN'],True,US
+1699,965e8b3e2e181f673f772f0fe7f57ec5,1,0.0,0.09,KE,18,Kenya,['EN'],True,KE
+1700,967953e462fae071b538d63078efb219,1,0.0,0.1,BY,18,Belarus,"['EN', 'RU']",False,BY
+1701,968373b46e191261c7646a62af6ece92,2,0.0,0.18,KE,49,Kenya,['EN'],True,KE
+1703,9698cab44a955a7e6e098318c9703568,4,0.0,0.39,IN,23,India,"['EN', 'UR', 'AR', 'ML']",True,IN
+1704,96ab37c65f7c8e8863884971639fc3a5,1,0.0,0.1,VE,41,Venezuela,"['EN', 'ES']",False,VE
+1705,96f3a7ccc00eb656899a65318a19f622,4,0.0,0.39,IN,18,India,"['BN', 'HI', 'EN']",True,IN
+1711,9727fc46b1eebca26d3a5cb5d1766708,4,0.0,0.38,EG,26,Egypt,"['AR', 'EN']",False,EG
+1712,973754e48d047b28648974e83486834c,1,0.0,0.1,BY,19,Belarus,"['IT', 'RU', 'EN', 'BE']",False,BY
+1713,97458bb03565e730240b344d8accea24,6,0.0,0.72,IN,25,India,['EN'],True,IQ
+1714,97476b964a020f45222e6dbbb32e0631,2,0.0,0.18,KE,26,Kenya,"['EN', 'ES']",True,KE
+1715,97580e837a28b8f76eb493f83f376e5c,4,0.0,0.4,KE,39,Kenya,"['EN', 'YO']",True,KE
+1716,975ef514892ebb391d427a3a13d26606,1,0.0,0.1,IN,18,India,['EN'],True,IN
+1718,97d51cea4ff9b81247c409163717e19c,4,0.0,0.38,EG,43,Egypt,"['AR', 'EN', 'ES']",False,EG
+1719,97e2376a7d87c6508a6ceebce65237fe,4,0.0,0.49,BD,31,Bangladesh,"['EN', 'IT', 'TR', 'KK', 'PL', 'RU']",True,NP
+1720,97f8e2799653da226d932523d58265d4,1,0.0,0.1,NG,38,Nigeria,['EN'],True,NG
+1721,980ad16cf7e4def82f02336497accc51,6,0.0,0.56,KE,25,Kenya,['EN'],True,KE
+1723,9812ba815e4617e9615a81437a73bf23,1,0.0,0.09,BD,20,Bangladesh,['EN'],True,BD
+1724,9817200176e11a28b78c1b7af4749203,1,0.0,0.09,US,33,United States,['EN'],True,US
+1726,983ab1b18a32b2b6781e2a08618e69a2,1,0.0,0.1,BR,25,Brazil,"['EN', 'ES', 'PT']",False,BR
+1727,984ddb49933f90c33ac2c82ff6b6e42e,8,0.0,0.74,PK,44,Pakistan,"['EN', 'ES', 'UR']",True,PK
+1728,9911bbd52e0b036588b0fb070ec25d61,4,0.0,0.39,KE,34,Kenya,"['EN', 'KI', 'RU']",True,KE
+1729,9911c53a8d7298d8fc1eb3e2d8eb192e,4,0.0,0.52,NG,27,Nigeria,['EN'],True,NG
+1730,99222dc1c9e613794be06c83a16a34b4,1,0.0,0.1,KE,31,Kenya,['EN'],True,KE
+1731,9924e4f996b69217e3b14b386d492f27,4,0.0,0.39,CO,25,Colombia,"['EN', 'ES', 'PT']",False,CO
+1732,992ff22d649947b497bc4948e5b2e7e8,9,0.0,0.89,KE,24,Kenya,"['EN', 'SW']",True,KE
+1733,99324df48642f711ba3474e9a7455b94,2,0.0,0.2,TR,26,Turkey,"['AR', 'TR', 'EN']",False,TR
+1734,99370141e5b25bd37f5344407293179a,1,0.0,0.09,IN,36,India,"['EN', 'HI']",True,IN
+1736,994e3176ec3c2dc1256b217dca8c8b93,1,0.0,0.09,ZM,30,Zambia,['EN'],True,ZM
+1739,997e4b86d3eb900015143bdf148b8c65,2,0.0,0.2,ZA,28,South Africa,['EN'],True,ZA
+1740,99915583918dbcb134e23f2dd2687235,4,0.0,0.38,NG,37,Nigeria,"['EN', 'DE']",True,NG
+1741,9993104dbf85d21a0edcffaa4b727018,6,0.0,0.73,IN,22,India,"['EN', 'HI', 'KN']",True,IN
+1748,99eb0f1eb40f088fff292f0a817d8c23,1,0.0,0.09,ZA,21,South Africa,['EN'],True,ZA
+1749,99f42efc36fcf59c23cbdef4b95b8bd8,16,0.0,1.92,NG,29,Nigeria,"['EN', 'YO']",True,NG
+1751,9a1caea418ea98e2e795e7c17b18f132,1,0.0,0.09,EG,20,Egypt,['EN'],False,EG
+1753,9a3e228910d57b3b131bee672c21d3a1,1,0.0,0.09,EG,22,Egypt,"['KK', 'AR', 'RU', 'EN']",False,EG
+1755,9a6cbd88a011177380996a488f2d8dfc,1,0.0,0.09,PH,41,Philippines,"['TL', 'EN']",True,PH
+1756,9a9fe7228cb81331a4d1bd325deb0129,18,0.0,1.96,US,37,United States,"['EN', 'SW']",True,KE
+1758,9af0c41e232230da471a066c111ebabf,3,0.0,0.28,ET,21,Ethiopia,['EN'],False,ET
+1759,9af158db2796ef854b1dc63da019173c,2,0.0,0.18,KE,18,Kenya,"['SW', 'EN']",True,KE
+1760,9af2f810f765ba8b7a1feb29609ccf13,4,0.0,0.49,KE,24,Kenya,"['AR', 'EN', 'FR', 'JA', 'RU']",True,US
+1761,9b23396648e27afde58d4444909f0a06,1,0.0,0.09,PK,64,Pakistan,"['DE', 'EN', 'FR', 'JA', 'RU', 'AR']",True,PK
+1764,9bc9fe1ce4a7b3d70c16a7a1dda9cf55,4,0.0,0.38,EG,31,Egypt,"['AR', 'EN']",False,EG
+1766,9c26207d9111537571639ba72aee4af6,1,0.0,0.09,PK,18,Pakistan,['EN'],True,PK
+1768,9c6b2a2fbc8543a0348338ab261cb39f,4,0.0,0.38,VE,53,Venezuela,"['EN', 'ES', 'IT']",False,VE
+1769,9c8a4afc1932ad69b5020bf1c14f3ff1,18,0.0,1.82,EG,58,Egypt,"['AR', 'DE', 'EN', 'ES', 'FR', 'TR']",False,EG
+1770,9c98166124b0743629db86264c70c90e,6,0.0,0.56,EG,24,Egypt,"['AR', 'DE', 'EN', 'KK', 'RU', 'TR']",False,EG
+1771,9ce7c1276bc7706a3b4d95cf5d6e6a7d,2,0.0,0.18,ZA,35,South Africa,['EN'],True,NL
+1773,9cf99641175962c98a321175891b9be3,2,0.0,0.19,PH,30,Philippines,['EN'],True,PH
+1774,9d028fb8c28d0037465ff9d941e7a28c,2,0.0,0.19,ZA,31,South Africa,"['EN', 'AF']",True,ZA
+1779,9d4752c92872697b5a14b08494e3f661,1,0.0,0.09,LK,32,Sri Lanka,['EN'],True,LK
+1781,9d663ed78c607386a256e2157699df95,1,0.0,0.1,IN,18,India,['EN'],True,IN
+1782,9d6c0006b436c25a303f0e6e129d12ba,10,0.0,0.92,UA,73,Ukraine,"['EN', 'KK', 'PL', 'RU', 'SV']",False,NL
+1783,9d72c109a5b33902cf3f9936ecc29cb4,2,0.0,0.2,GH,28,Ghana,['EN'],True,GH
+1785,9da0b09601ec4c52bee3134ff865fbb5,1,0.0,0.1,GH,26,Ghana,"['EN', 'TW']",True,GH
+1788,9dba202c21f14705bd36f3e58623d217,4,0.0,0.43,ZM,20,Zambia,['EN'],True,ZM
+1789,9dbaa372523e6805d03c078acdb11dc9,1,0.0,0.09,PK,23,Pakistan,"['FR', 'EN', 'PT', 'RU', 'DE', 'ES']",True,PK
+1790,9dbe48114531642e766bd72db55db6da,1,0.0,0.09,IQ,22,Iraq,['EN'],False,IQ
+1793,9e75ba1f6055c3ac4b214531ebf04a6c,35,0.0,3.48,EG,22,Egypt,"['AR', 'EN', 'ID', 'KK', 'RU']",False,EG
+1794,9e784f26b8bdcec87f6e4b6696cd53bf,7,0.0,0.7,EG,24,Egypt,"['DE', 'ES', 'RU', 'FR', 'EN', 'AR']",False,EG
+1795,9e7b58d736945451a8e83f33fb339242,4,0.0,0.4,KE,30,Kenya,"['DE', 'EN', 'ES', 'JA', 'PT', 'RU']",True,KE
+1796,9e8ffb8f31a52f8b66d8e22362d6cb4b,4,0.0,0.38,MY,26,Malaysia,"['MS', 'ID', 'EN']",True,MY
+1801,9eb211b4590e497d9502575da6747ea8,1,0.0,0.1,ZA,22,South Africa,['EN'],True,ZA
+1803,9ef1131fe27131f65d64c39d485e4601,4,0.0,0.38,EG,22,Egypt,"['EN', 'AR']",False,EG
+1804,9ef82cd38be5f5f8e795d5e96975a264,1,0.0,0.1,KE,21,Kenya,['EN'],True,KE
+1809,9f609b4cceb32fc341f58d77ec2b37cc,1,0.0,0.1,IE,18,Ireland,"['GA', 'EN']",True,IE
+1810,9f817532f8c32d11ed2a93cfe0879bdd,4,0.0,0.4,ID,21,Indonesia,"['JA', 'EN', 'ID']",False,ID
+1812,9f999c7900f4ac19df7cd6d45167fdfb,1,0.0,0.1,PH,31,Philippines,['EN'],True,PH
+1813,9f9bf317f19263c3a7bbb04259b02582,1,0.0,0.09,IN,24,India,['EN'],True,IN
+1814,9faeb83256a15dd8a0a70c155ea093af,4,0.0,0.39,MD,22,Moldova,"['EN', 'RU']",False,MD
+1815,9fbeff38ed47eb17ba5a3627daefa86c,1,0.0,0.09,PL,41,Poland,"['EN', 'PL']",False,PL
+1816,9fc3a09c0f19dc8673f510109e5f3d31,7,0.0,0.76,IN,31,India,"['EN', 'TA']",True,IN
+1819,9feb75dfb83c1e8e0d0bbb8abc337624,1,0.0,0.09,ZA,20,South Africa,['EN'],True,ZA
+1821,9ffa9e9c71514176d4774dd22a4866b9,2,0.0,0.19,NG,21,Nigeria,['EN'],True,NG
+1822,a00f1b5fc079591ac3b199044a725d34,10,0.0,1.06,EG,26,Egypt,"['DE', 'EN', 'AR', 'RU']",False,EG
+1823,a024ae94bfd5018309aecbf990915c8d,4,0.0,0.29,PK,36,Pakistan,"['JA', 'IT', 'RU', 'EN', 'FR', 'AR']",True,PK
+1824,a043594c54fcc328490c2da1e698ba50,8,0.0,0.74,IN,49,India,"['DE', 'EN', 'ES', 'FR', 'RU']",True,IN
+1825,a08c120ca8cec004abe42f41a2f60b56,1,0.0,0.09,ZA,21,South Africa,['EN'],True,ZA
+1826,a0959600414ac4004b47ea5c7340874b,6,0.0,0.56,RO,31,Romania,['EN'],False,RO
+1827,a0a91bf64c207171574746562118e553,4,0.0,0.38,KZ,32,Kazakhstan,"['AR', 'DE', 'EN', 'ES', 'FR', 'RU']",False,PK
+1828,a0aa49eb7789a8be37d35a68fbe2de7f,1,0.0,0.09,NZ,24,New Zealand,['EN'],True,NZ
+1830,a0f5a61fcdf51705c273f76965758014,1,0.0,0.09,IN,23,India,['EN'],True,IN
+1834,a16615674882660b193c7acc46641bc1,6,0.0,0.56,PK,20,Pakistan,['EN'],True,PK
+1837,a181742fa6f4780ae03efc2d7a6a400a,1,0.0,0.09,IN,22,India,['EN'],True,IN
+1838,a189772c4b3f671f99fac03a3ab9ac19,1,0.0,0.09,EG,26,Egypt,"['EN', 'AR']",False,EG
+1839,a1a6f99698c59dea9bbbbb565df5a0bd,4,0.0,0.38,EG,34,Egypt,"['RU', 'EN', 'PL', 'KK', 'AR']",False,EG
+1840,a1bb405d2f97b457e293a4b572ba4674,1,0.0,0.09,PK,19,Pakistan,"['DE', 'HI', 'EN', 'UR', 'SD']",True,PK
+1841,a1cc8b7d2bfdff6fb5bc8231a375dad4,1,0.0,0.1,IN,24,India,['EN'],True,IN
+1842,a1d3bd33910e9b098927ae160851ee5f,4,0.0,0.38,EG,24,Egypt,"['AR', 'EN', 'FR', 'KK', 'RU']",False,EG
+1843,a1ff31ba721fd4ec64b1883f139196e4,1,0.0,0.1,PL,27,Poland,"['EN', 'PL']",False,PL
+1844,a2016f9efc88a177ffadeddd256257c2,1,0.0,0.09,KE,26,Kenya,"['EN', 'SW']",True,KE
+1845,a201ddcb4f28971c3c3fb38a63152491,1,0.0,0.1,ZA,23,South Africa,"['EN', 'AF']",True,ZA
+1847,a21c30309fc83681e439d9fe8223da7d,1,0.0,0.09,PK,18,Pakistan,['EN'],True,PK
+1850,a25071f517485e56492804f9c13cd70e,4,0.0,0.38,EG,39,Egypt,"['AR', 'EN']",False,EG
+1851,a279f280101e2e046e1628b49b346a46,4,0.0,0.38,NG,30,Nigeria,['EN'],True,NG
+1853,a281c285451440c3b56bce2f6ddca6d5,5,0.0,0.6,EG,24,Egypt,"['AR', 'EN', 'RU']",False,EG
+1858,a2ba5c3cea49895869440f93b426a7cf,4,0.0,0.42,US,32,United States,['EN'],True,SL
+1859,a2c03da70d7beb01f7d53fd760be3823,1,0.0,0.1,VE,23,Venezuela,"['EN', 'ES', 'IT', 'PT']",False,VE
+1860,a2cb5814cb21919a00b280cc48363ce1,1,0.0,0.1,NG,21,Nigeria,['EN'],True,NG
+1866,a3632f97aac99295a3be66fe1eed639b,2,0.0,0.18,EG,21,Egypt,"['RU', 'KK', 'DE', 'EN', 'AR', 'ES']",False,EG
+1868,a3a8cef063c571b3c0bc19c7a07952c7,2,0.0,0.18,US,38,United States,['EN'],True,US
+1869,a3d45564d8dbabcfe78bfe57e3f47a25,28,0.0,3.36,UA,23,Ukraine,"['DE', 'UK', 'PT', 'AR', 'EN', 'RU']",False,UA
+1872,a4094caae39ef9b113722e04977901b7,1,0.0,0.09,PH,18,Philippines,['EN'],True,PH
+1874,a41472b170393774a2d150cd6838eccb,2,0.0,0.18,EG,22,Egypt,"['AR', 'EN', 'FR', 'ID', 'KK', 'RU']",False,EG
+1875,a42c380484cf583156f085178f1244f3,4,0.0,0.51,PL,44,Poland,"['DE', 'PL', 'UK', 'EN', 'RU']",False,PL
+1877,a434ddbae92ea7461cf9f48a8c19f468,1,0.0,0.09,IN,18,India,['EN'],True,IN
+1878,a44db0e38595dbd2c22cbbe51affd493,1,0.0,0.1,KE,38,Kenya,['EN'],True,KE
+1879,a46b6ec629c4f670eb249dd678a0f674,4,0.0,0.43,TR,32,Turkey,"['EN', 'TR']",False,CY
+1880,a4778ad9a9ed55412d8258ec11ae8d5f,1,0.0,0.09,GH,23,Ghana,['EN'],True,GH
+1881,a486ee7f0da25d19951646d733c3bbd4,4,0.0,0.39,NG,24,Nigeria,['EN'],True,NG
+1882,a4998e94bad622bb843111b4ad668ba0,1,0.0,0.09,IN,31,India,"['EN', 'HI', 'MR', 'UR']",True,IN
+1885,a4dbd89983b93b233e8647db1146a731,1,0.0,0.09,UG,19,Uganda,"['EN', 'LG']",True,UG
+1886,a4fd05dcb325a2629c77fec571bca77e,14,0.0,1.68,AE,46,United Arab Emirates,"['AR', 'EN']",True,AE
+1887,a52b4e5349a589b71336bda07bd103ce,3,0.0,0.28,KE,25,Kenya,['EN'],True,KE
+1889,a54697fd10db2146bd09ffaba167847d,1,0.0,0.09,PK,21,Pakistan,"['EN', 'UR']",True,PK
+1891,a559624997db6390c63af09e91792b32,4,0.0,0.48,NG,33,Nigeria,"['DE', 'EN', 'FR']",True,NG
+1894,a5bbb08f38d8db08ec79f649b5636355,6,0.0,0.58,ET,48,Ethiopia,"['AM', 'EN']",False,ZA
+1895,a5bfa825d935536f88d4cebf42c1c33f,1,0.0,0.09,NG,24,Nigeria,['EN'],True,NG
+1896,a5e6867184682416c66b36ca984d9713,1,0.0,0.09,NG,22,Nigeria,['EN'],True,NG
+1897,a5f637f0380aa6941485d1bda61a6586,7,0.0,0.65,EG,31,Egypt,"['AR', 'EN', 'ES', 'FR', 'IT', 'RU']",False,EG
+1900,a6813f8afe4bbd34bdbacb4d2d910198,4,0.0,0.29,KZ,23,Kazakhstan,"['DE', 'RU', 'FR', 'EN', 'PT', 'AR']",False,PK
+1901,a6944382fc0275d56e35d2c839bd01f8,1,0.0,0.1,ID,25,Indonesia,"['EN', 'JV', 'ID']",False,ID
+1902,a696a196341e9c49972429cc74284dd9,1,0.0,0.09,LK,23,Sri Lanka,"['AR', 'EN', 'SI']",True,SG
+1903,a6ab4ad742dbbecb787942fbd45e0ea0,4,0.0,0.38,QA,24,Qatar,"['SW', 'EN']",True,QA
+1905,a6c958890eeaf1bb6aa069f327a97da1,34,0.0,3.48,KE,23,Kenya,"['ES', 'FR', 'EN']",True,KE
+1909,a785bf67a76c432ee450474115aaf1f4,8,0.0,0.96,NG,31,Nigeria,"['YO', 'EN']",True,NG
+1910,a7aeb08c49e5cc0f2b7d956fddf28f8e,4,0.0,0.38,NG,35,Nigeria,"['RU', 'HA', 'AR', 'EN']",True,NG
+1911,a7beadc7eb89e154f4968ba2b5286857,4,0.0,0.38,KE,24,Kenya,"['EN', 'SW']",True,KE
+1913,a7c224136826192ffb970fbe97639e33,1,0.0,0.1,PK,25,Pakistan,['EN'],True,PK
+1915,a7cfd8da33acab6e052b05114a1129af,2,0.0,0.2,KE,20,Kenya,"['EN', 'SW']",True,KE
+1916,a7d9403f264d95d0872131eceb7596ab,1,0.0,0.09,RU,29,Russia,"['DE', 'EN', 'ES', 'FR', 'KK', 'RU']",False,PK
+1917,a81f4cde59e31d93a57700f9056b4b47,12,0.0,1.27,UG,33,Uganda,"['EN', 'SW', 'LG']",True,UG
+1920,a86c3b5ea799d20c3f237dc9982ef7b0,1,0.0,0.09,KE,19,Kenya,['EN'],True,KE
+1924,a8a0f49ba19c29ae830f154f8847e002,1,0.0,0.1,PK,29,Pakistan,"['EN', 'UR']",True,PK
+1926,a8b9e1bdaba26ede80a2df91c8696160,17,0.0,1.85,UA,37,Ukraine,"['TR', 'UK', 'PL', 'AR', 'EN', 'RU']",False,PL
+1927,a8c195e8ed32c1ff4d72726d4cb8706c,1,0.0,0.1,CM,24,Cameroon,"['EN', 'FR']",True,CM
+1928,a8d61dd8479109f1e519108fbdc2c6da,1,0.0,0.09,PH,27,Philippines,['EN'],True,PH
+1929,a8dad8c0b5c49220177cf0cdc5ba0bb0,1,0.0,0.09,KE,25,Kenya,['EN'],True,KE
+1931,a91296f284b9fdbd5787112d5a57333b,1,0.0,0.12,KE,34,Kenya,['EN'],True,KE
+1933,a937b24e94df429999bb57c291f02f03,1,0.0,0.09,NG,26,Nigeria,"['YO', 'EN']",True,NG
+1935,a94dfd794a330c0ba8eb590a7b117006,2,0.0,0.2,DZ,47,Algeria,"['FR', 'AR', 'PT', 'EN']",False,DZ
+1936,a94fb92b015568986b0bcf8ff86a25b3,1,0.0,0.1,PK,42,Pakistan,['EN'],True,PK
+1938,a96fb60d67dca934be53aaad6edd8727,1,0.0,0.09,PK,38,Pakistan,"['UR', 'EN']",True,PK
+1939,a97878058ff2e8c12ac08f1f291a9931,2,0.0,0.19,KE,22,Kenya,"['EN', 'SW']",True,KE
+1940,a9894d2429c24dd131c578c25146d16e,1,0.0,0.1,KE,32,Kenya,['EN'],True,KE
+1943,a9a25a0ab7602f0ece70516cd5f9d1dc,4,0.0,0.38,PK,20,Pakistan,"['EN', 'UR']",True,PK
+1948,a9da681afcafc9dd244cd2407ed63ca9,6,0.0,0.56,PK,23,Pakistan,"['AR', 'DE', 'EN', 'FR', 'JA', 'RU']",True,PK
+1949,a9f1ec344daf25b99584d553259f0dba,6,0.0,0.55,US,45,United States,"['EN', 'ES', 'HE']",True,US
+1950,aa0eac5ab0dc0bf57fba584b29d5b479,4,0.0,0.43,KE,19,Kenya,"['EN', 'SW']",True,PL
+1951,aa1a1cf478c708166d0e1d7d8543d627,3,0.0,0.36,ZA,18,South Africa,['EN'],True,ZA
+1956,aa783f03c59146d54c1a25562ef059f2,1,0.0,0.09,KE,26,Kenya,['EN'],True,KE
+1957,aa7be537983e2d7fa9ae350f3589b01e,1,0.0,0.09,ZA,36,South Africa,"['EN', 'XH', 'ZU']",True,ZA
+1958,aa7fd49012328acec5b4df70ae7c5d25,2,0.0,0.18,KE,28,Kenya,['EN'],True,KE
+1960,aa9bbc6a51083178f20d9d2bd839104c,1,0.0,0.09,IN,18,India,"['EN', 'HI']",True,IN
+1961,aaa779fb155978f20e1e49f38e6c04e7,2,0.0,0.24,PK,31,Pakistan,"['PA', 'UR', 'EN']",True,PK
+1962,aaa92f2a33cd498aca80075d27c010a0,1,0.0,0.09,IN,18,India,"['HI', 'MR', 'EN']",True,IN
+1963,aac001ebcbdb1e7ce54d4b06729f0c04,1,0.0,0.1,NG,21,Nigeria,"['ZH-HANS', 'ES', 'RU', 'EN', 'PT']",True,NG
+1964,aac5ed4791b9c8126db842a079efaf35,2,0.0,0.18,TR,24,Turkey,"['EN', 'TR']",False,TR
+1966,aad9b327d22ee3bdb5db5b98264bd111,2,0.0,0.2,NG,26,Nigeria,['EN'],True,NG
+1967,ab06d7cf415c3ee9e9f0a876f1fc8168,5,0.0,0.52,EG,27,Egypt,"['DE', 'PL', 'EN', 'ES', 'IT', 'AR']",False,EG
+1968,ab10d879c8970071bc4534a05779f649,22,0.1,0.3,PK,25,Pakistan,"['ID', 'PT', 'EN', 'KK', 'AR', 'DE']",True,PK
+1969,ab144ad4c80c2fdc853788645de6db31,4,0.0,0.38,ID,42,Indonesia,"['EN', 'ID']",False,ID
+1970,ab227db905d093795ecf9397125167b4,4,0.0,0.38,RU,53,Russia,"['KK', 'EL', 'EN', 'ES', 'AR', 'RU']",False,PK
+1973,abfa5470f39456647a29a5e04db7a71e,1,0.0,0.09,TZ,22,Tanzania,"['SW', 'EN']",True,TZ
+1974,abfe8529f26b62b03ac71e43ba1e8deb,1,0.0,0.09,US,58,United States,['EN'],True,US
+1976,ac47420ccbedc1ff9d314b8f52335f51,16,0.0,1.6,KE,48,Kenya,"['EN', 'SW']",True,KE
+1977,ac4b7d48440c1179e0b4c8c92fce61a2,1,0.0,0.09,PK,19,Pakistan,"['EN', 'RU', 'DE', 'PT', 'AR', 'JA']",True,PK
+1982,aca8cc5836264f093f1fc321b6cb90aa,1,0.0,0.1,ZA,26,South Africa,['EN'],True,ZA
+1983,acb1763e35a6252f092d7aa5da11be17,4,0.0,0.38,EG,21,Egypt,"['AR', 'EN', 'ES', 'FR', 'IT', 'RU']",False,EG
+1984,acb1970a033c135f5ce313950958ecae,2,0.0,0.18,KE,24,Kenya,"['SW', 'EN']",True,KE
+1985,acc08c6f4d0287e957bf333dc2eaa572,8,0.0,0.74,EG,31,Egypt,"['RU', 'AR', 'FR', 'EN']",False,EG
+1986,acceb8ecd8e463d7e96b641196891a02,1,0.0,0.09,EG,26,Egypt,"['EN', 'AR']",False,EG
+1987,acde0c11b5e64587be1a7576f9aea9f8,1,0.0,0.1,MD,19,Moldova,"['EN', 'RO']",False,MD
+1988,acff4004306e00f6b3a15fb2897c5b9d,1,0.0,0.09,RU,18,Russia,['EN'],False,RU
+1989,ad0464687e71436cc5f5884c785cbaa7,1,0.0,0.1,ZA,44,South Africa,['EN'],True,ZA
+1992,ad3fb92d638edfd91bf4d8e5e9bb4b8a,13,0.0,1.45,EG,20,Egypt,"['AR', 'EN']",False,EG
+1994,ad4ff2436f001fc00966e79f713d586e,5,0.0,0.54,EG,54,Egypt,"['AR', 'EN', 'ES', 'FR', 'PT', 'RU']",False,EG
+1995,ad5f756492c5eab98a44511d6da8753f,1,0.0,0.09,BW,18,Botswana,['EN'],True,BW
+1998,ad86fdc10287ea8971f61af7272dfb80,1,0.0,0.09,PH,21,Philippines,"['EN', 'TL']",True,PH
+2000,adafa416dd95e37d3f6f7be18fac1cc9,6,0.0,0.55,NG,29,Nigeria,['EN'],True,NG
+2001,adc7848485983bbfdafdc12574145499,1,0.0,0.1,PH,20,Philippines,"['EN', 'TL']",True,PH
+2002,addbf5dbcd0da823b9ca576e7a72f3b8,27,0.0,2.72,IN,25,India,"['HI', 'EN', 'IT']",True,IN
+2003,adf817b0cb66e0df38f4246eac954ab8,2,0.0,0.19,AO,19,Angola,"['EN', 'PT']",False,AO
+2010,ae53294c4cf117697c94df357e005fa7,1,0.0,0.09,PK,45,Pakistan,"['EN', 'HI', 'PS', 'UR']",True,PK
+2012,ae8fd4142cff3d5660977b2d43fecfaa,4,0.0,0.38,NG,22,Nigeria,"['EN', 'FR', 'HA', 'RU']",True,NG
+2013,aee2e91be8ea89837941dabbc624f7d6,6,0.0,0.52,EG,18,Egypt,"['AR', 'EN']",False,EG
+2014,aee397ac87fb80a6d9ced6fe70f067dc,2,0.0,0.19,RW,23,Rwanda,['EN'],True,RW
+2019,af76ec1b0f05a94c7bd4e5b3b8f4a4fe,2,0.0,0.19,ZA,22,South Africa,"['ZU', 'EN', 'AF', 'XH']",True,ZA
+2022,afabc0af9cb6a1bf5deaf5415adbab79,4,0.0,0.39,PK,20,Pakistan,"['DE', 'KK', 'AR', 'PT', 'EN', 'RU']",True,PK
+2023,afb2a8c1623903fd37d3da53ea38542e,1,0.0,0.09,PK,35,Pakistan,"['EN', 'UR']",True,PK
+2025,afbf8b31ea7ee18a904ce736c7b520ec,2,0.0,0.18,PK,49,Pakistan,"['AR', 'DE', 'EN', 'FR', 'JA', 'RU']",True,PK
+2027,afd22ae743d7a2cbbf3341dfd584f7e4,9,0.0,1.01,KE,28,Kenya,"['DE', 'EN', 'ES', 'NL', 'TR']",True,KE
+2028,afe6d819d8b652027b5a07dd4474c943,4,0.0,0.38,KE,37,Kenya,['EN'],True,KE
+2030,b02f0e724eb01169145990a482896ecf,4,0.0,0.38,BR,35,Brazil,"['EN', 'ES', 'PT']",False,BR
+2032,b050d138d2894cb960b393b5fb6d4165,1,0.0,0.09,EG,22,Egypt,"['AR', 'EN']",False,EG
+2034,b0928ee1afd9a8ab532ce674532a5e0a,6,0.0,0.55,SA,26,Saudi Arabia,"['AR', 'EN']",False,SA
+2035,b09eda7d5a5142cf70fee34b606e26bc,1,0.0,0.1,KE,23,Kenya,"['EN', 'PT', 'RU']",True,KE
+2036,b0ad13504044aa89cf76195d609a598d,37,0.0,3.63,KE,34,Kenya,['EN'],True,KE
+2037,b0caa0efa1b0915dfc94a6799b42c2c1,4,0.0,0.48,PK,20,Pakistan,"['EN', 'ES', 'FR']",True,PK
+2038,b0ecdca80938c389f7bcb3e081cf4cd4,4,0.0,0.38,EG,37,Egypt,"['TR', 'EN', 'LT', 'AR', 'FR', 'DE']",False,EG
+2040,b11694082c6e135526b9b26dcf52ff2c,2,0.0,0.19,SG,38,Singapore,"['EN', 'MS', 'AR']",True,SG
+2041,b1227d38002dc803a3693455ecda4228,3,0.0,0.29,KZ,27,Kazakhstan,"['DE', 'KK', 'PL', 'EN', 'PT', 'AR']",False,PK
+2042,b127161d8f9b1308daa11a5798caf6af,1,0.0,0.1,PK,22,Pakistan,['EN'],True,PK
+2044,b15294d0dd3c329d962c1bfbbd0026d8,2,0.0,0.22,EG,22,Egypt,"['AR', 'EN']",False,EG
+2046,b17812981f87b562db4a81d02227a601,4,0.1,0.39,KE,46,Kenya,['EN'],True,KE
+2048,b1a865e4eab0807f54285aa361a3475a,1,0.0,0.09,RU,44,Russia,"['EN', 'PT', 'RU', 'AR', 'DE', 'ES']",False,PK
+2049,b1ade045dceb0005305acca5c972a9a4,4,0.0,0.4,BJ,29,Benin,"['EN', 'FR']",False,BJ
+2051,b1cf0fba1e1437c4db086b6a9b6dfd25,3,0.0,0.28,ET,24,Ethiopia,"['EN', 'KO', 'RU']",False,ET
+2054,b2261aff56d943469b82de894020750a,4,0.0,0.38,NG,26,Nigeria,['EN'],True,NG
+2055,b228846197e653c3190e1a3e48c32006,1,0.0,0.1,IN,20,India,['EN'],True,IN
+2061,b2a9b5c5412ae424611daf4209352610,1,0.0,0.1,NG,27,Nigeria,['EN'],True,NG
+2062,b2b4aa74cc0400bf86f8b544362ecf6b,4,0.0,0.38,IN,38,India,"['EN', 'HI', 'KN', 'SA']",True,IN
+2064,b2c2c06f6bf8eed800e25881029fbcf7,8,0.0,0.74,EG,21,Egypt,"['RU', 'AR', 'FR', 'KK', 'EN']",False,EG
+2067,b2f3a0f2fa7e8a9c134b9886f2a5ab5c,4,0.0,0.38,KZ,35,Kazakhstan,"['EN', 'RU']",False,US
+2068,b2f70de2119a7583665f36c3d071fd0b,1,0.0,0.1,IN,24,India,['EN'],True,IN
+2069,b2fd3820a6091675284ab4eddc810e1f,1,0.0,0.09,PK,23,Pakistan,"['JA', 'ES', 'FR', 'EN', 'IT', 'RU']",True,PK
+2071,b30b5d9f0a02a2e8347b90953966e539,2,0.0,0.25,PK,18,Pakistan,"['EN', 'UR']",True,PK
+2072,b320ca522c03078130b2f9b133d481ca,1,0.0,0.1,NG,24,Nigeria,['EN'],True,NG
+2078,b3c2da05eed5bb133593bca68cee67d3,1,0.0,0.09,IN,24,India,['EN'],True,IN
+2080,b40b07f9f939eaf88fe839e6806e0e06,2,0.0,0.18,KE,28,Kenya,"['DE', 'FR', 'RU', 'EN']",True,KE
+2082,b48d5c564979bed3d1b05a82e4edcfdc,30,0.0,3.6,MW,22,Malawi,"['EN', 'ES', 'NY', 'RU']",True,MW
+2084,b4d1bf5826572006b70f1c233df55b4a,6,0.0,0.55,MA,31,Morocco,"['AR', 'EN', 'ES', 'FR']",False,MA
+2085,b4dabb0af4e55338464a24c15fe9326b,2,0.0,0.25,PK,20,Pakistan,['EN'],True,PK
+2088,b4fd07dd96fa4fac29d5cce59872a7b9,8,0.0,0.96,MA,27,Morocco,"['FR', 'EN', 'AR']",False,MA
+2089,b502fc4d891547ba906683f45728e71c,10,0.0,0.92,ID,39,Indonesia,"['EN', 'ID']",False,ID
+2090,b504e9d0fa71df3efda8b34a09947937,1,0.0,0.09,PG,31,Papua New Guinea,['EN'],True,PG
+2091,b50fa539aeec357731d0de1ec3ed8293,1,0.0,0.1,KE,30,Kenya,['EN'],True,KE
+2094,b54d0d441930625158aef9d73bc97987,4,0.0,0.38,EG,60,Egypt,"['AR', 'EN', 'FR', 'IT']",False,EG
+2095,b5600435004ba34461726833b665c370,39,0.0,3.98,PK,19,Pakistan,"['DE', 'EN', 'AR', 'ES', 'RU', 'FR']",True,PK
+2096,b569f5f34a4b896b35b18a2c4a03d0c2,4,0.0,0.38,KE,35,Kenya,"['EN', 'RU', 'AR']",True,KE
+2097,b5704251e2a7ca3496a859df9d8ee72a,14,0.0,1.36,TN,31,Tunisia,"['AR', 'EN', 'FR']",False,TN
+2099,b5a3174820e4afd8af8c1a296bd26996,1,0.0,0.09,IN,18,India,"['HI', 'EN', 'TE']",True,IN
+2100,b5cc9f018974e5fdf4b06ac4c74248cf,2,0.0,0.18,EG,19,Egypt,"['EN', 'AR']",False,EG
+2104,b5e5cdf8fa544a425ac20ba9c24e550e,4,0.0,0.38,PK,18,Pakistan,['EN'],True,PK
+2106,b63b6946c5c967a669f0e6fc6998f904,2,0.0,0.18,AM,24,Armenia,"['EN', 'RU', 'HY']",False,AM
+2107,b66ef1f76bde85bde3c99333dc90ad17,1,0.0,0.1,IN,24,India,"['EN', 'HI']",True,IN
+2108,b6797f3661664e18bde824c2984cdf01,2,0.0,0.22,PH,32,Philippines,['EN'],True,PH
+2109,b68c6a0fa9a1322a93354ebc754ed7ad,1,0.0,0.09,PH,20,Philippines,['EN'],True,PH
+2112,b6d308d42f720ffae0401f8bb2cdbc1a,2,0.0,0.21,IN,19,India,"['EN', 'HI']",True,IN
+2115,b716768874af4d849781e9aaa0654ac1,3,0.0,0.29,KE,35,Kenya,"['EN', 'SW']",True,KE
+2117,b74f93cf49b1baa6cf1eabcd451e3af3,1,0.0,0.09,IN,39,India,['EN'],True,IN
+2118,b75db3f4d24677cc9ee1f10603052701,38,0.0,4.06,TR,50,Turkey,"['ES', 'HI', 'EN', 'FR', 'TR', 'DE']",False,TR
+2120,b7725921d9df20ad53a1b4d8313e48c7,3,0.0,0.28,NG,37,Nigeria,['EN'],True,NG
+2123,b798bdd2a0e2fd4acc0f813af718ca5f,4,0.0,0.48,NG,24,Nigeria,['EN'],True,NG
+2124,b7a173eed866d616477d1c3bb0c6c97b,4,0.0,0.38,PK,19,Pakistan,"['UR', 'EN']",True,PK
+2125,b7a294fe21a040bc0b7af3d82ac5aae6,1,0.0,0.1,KE,27,Kenya,['EN'],True,KE
+2126,b7a6cb6510b9ed52ba4053be4fdf785b,1,0.0,0.09,TR,26,Turkey,"['EN', 'TR']",False,TR
+2127,b7c3a30910b2841e10f26ae86ac5bc05,5,0.0,0.6,KE,35,Kenya,"['EN', 'SW']",True,KE
+2130,b83b5acddef6a0831a17d8151c55c3ca,4,0.0,0.38,US,24,United States,"['EN', 'KI', 'SW']",True,KE
+2133,b87632b081948dca139145314c6d2ae3,2,0.0,0.2,NG,28,Nigeria,['EN'],True,NG
+2134,b881f4c1b8acd6ea387468bbc3e44962,1,0.0,0.09,EG,42,Egypt,"['AR', 'EN', 'FR', 'IT', 'RU']",False,EG
+2135,b888ae234e8dabea1066906a87b8e335,9,0.0,1.02,NG,22,Nigeria,['EN'],True,NG
+2136,b88d9f69f3a9a4ca2d1ecca777c21995,1,0.0,0.1,NG,18,Nigeria,['EN'],True,NG
+2138,b8b2752a14667c4db54d9e9664bf49e4,1,0.0,0.1,KE,18,Kenya,['EN'],True,KE
+2140,b8cbb95a828e395030645085a8841063,1,0.0,0.09,TR,35,Turkey,"['ES', 'EN', 'AR', 'RU']",False,TR
+2141,b8e064af7c74281d26f9a131d5c058be,8,0.0,0.74,TN,28,Tunisia,"['AR', 'EN', 'FR', 'RU']",False,TN
+2144,b9232b21a1251f396a52345fd339c6ca,6,0.0,0.56,MG,22,Madagascar,"['EN', 'FR']",False,MG
+2149,b9717192c53eec4bebe917468782bde8,32,0.0,3.16,KE,22,Kenya,['EN'],True,KE
+2150,b98010fb7aeb3aa5944d18789df77f9a,1,0.0,0.09,KE,23,Kenya,['EN'],True,KE
+2152,b9b0f75524b52cc1bcf9ddbb8af09069,7,0.0,0.7,ET,28,Ethiopia,"['EN', 'JA', 'PL', 'DE', 'AR', 'PT']",False,US
+2155,ba0946758484e15a8c67ccddb5ca1705,31,0.0,3.21,NG,30,Nigeria,"['EN', 'ES', 'RU', 'TR']",True,NG
+2157,ba45522d62c4118b35d48f18fde7e0f1,1,0.0,0.1,PK,19,Pakistan,"['EN', 'PA', 'UR']",True,PK
+2158,ba50d5aed81cdc20857304a2d4c2af25,2,0.0,0.19,EG,22,Egypt,"['AR', 'EN']",False,EG
+2160,ba775b205651abdffddf3f3d1f08c421,1,0.0,0.09,MX,19,Mexico,"['EN', 'ES']",False,MX
+2164,baf5390851d6e83f5d0353434e49dc82,4,0.0,0.3,IN,42,India,"['EN', 'HI']",True,IN
+2169,bb9f3413189428d98fc23057b1b99fc3,1,0.0,0.1,KE,22,Kenya,['EN'],True,KE
+2170,bbf9e547bb47157de3343da7c3c3893a,4,0.0,0.38,US,25,United States,['EN'],True,KE
+2171,bbfad767753d9bd0365e525f0da84d75,4,0.0,0.38,PH,50,Philippines,"['TR', 'RU', 'FR', 'DE', 'ES', 'EN']",True,PH
+2173,bc2cb85296fe7b6850dfb35fb61e32b4,1,0.0,0.1,KE,22,Kenya,['EN'],True,KE
+2174,bc422c648589fd9dd29036c5ca7a3fbb,41,0.0,4.2,EG,24,Egypt,"['AR', 'EN', 'FR', 'JA', 'KK', 'RU']",False,EG
+2175,bc69948507a313ce2dc14abf5bb99ecb,1,0.0,0.09,KE,25,Kenya,['EN'],True,KE
+2177,bca0824a0a7780f1efed3e9c6ae4fe55,1,0.0,0.1,GH,21,Ghana,['EN'],True,GH
+2179,bcf0da438736c9717207fa0febedae34,1,0.0,0.09,US,21,United States,['EN'],True,US
+2180,bd167018c3d5333732cc636bbab05148,2,0.0,0.18,MA,28,Morocco,"['EN', 'ES', 'AR', 'FR']",False,MA
+2182,bd3b6ce5df65765a7f59c15f2eadd42d,6,0.0,0.56,NG,29,Nigeria,"['RU', 'EN', 'FR', 'ES']",True,NG
+2183,bd479c029a773bc9d684c543a91333bf,1,0.0,0.09,TH,47,Thailand,"['TH', 'EN']",False,TH
+2184,bd50d274211a084d09750414d4dc3f7f,8,0.0,0.77,MY,38,Malaysia,"['EN', 'ID', 'RU', 'UK', 'ZH', 'ZH-HANS']",True,MY
+2187,bd95584c17e00d91e3bff18f2a492b47,1,0.0,0.1,GH,34,Ghana,['EN'],True,GH
+2191,bdc9ad95bc77a13456a08bea96916103,1,0.0,0.09,KE,25,Kenya,['EN'],True,KE
+2192,bde3db9aca9765e7e0722adc5ec637ee,1,0.0,0.1,KE,31,Kenya,"['EN', 'SW']",True,KE
+2193,bdf2eeea9c777621e5ccbd560aa4527e,4,0.0,0.38,BR,26,Brazil,"['EN', 'DE', 'PT', 'RU', 'SV', 'ES']",False,BR
+2194,be05e04d0843a2bae4725d2d1d181044,4,0.0,0.38,PK,34,Pakistan,"['AR', 'DE', 'EN', 'FR', 'PT', 'RU']",True,PK
+2195,be0ba834cfcc7395e14928cbc5349de4,2,0.0,0.2,NG,24,Nigeria,"['EN', 'ES']",True,NG
+2196,be0c4085c2a33ad6391449aa42569494,1,0.0,0.09,KE,35,Kenya,['EN'],True,KE
+2199,becb4a726dd5cbf71a45d36451dd5e28,8,0.0,0.74,KE,25,Kenya,"['EN', 'SW']",True,KE
+2202,bed8ff7280a6310481bf1477321a3d79,4,0.0,0.42,EG,22,Egypt,"['AR', 'EN']",False,EG
+2204,bef0905e82162a0ce6c70cfb78a2fd5a,1,0.0,0.09,PK,60,Pakistan,"['EN', 'AR', 'FR', 'TR', 'DE', 'ES']",True,PK
+2205,bf038030cdfe5b221b3b0be2d63e97ad,4,0.0,0.38,PK,26,Pakistan,"['AR', 'DE', 'EN', 'FR', 'KK', 'RU']",True,PK
+2207,bf3922598fb64faabdca0b084ad15917,1,0.0,0.1,BR,30,Brazil,"['EN', 'PT']",False,BR
+2208,bf40bac77aa76af75f6ce6acf7d4be57,4,0.0,0.38,UA,38,Ukraine,"['EN', 'RU', 'UK']",False,FR
+2209,bf5df008ce3f74ae9436618510aa119c,4,0.0,0.41,EG,22,Egypt,"['AR', 'EN']",False,EG
+2210,bf6e41a15b9eb09a49c0b125bd4352ed,1,0.0,0.1,KE,22,Kenya,"['EN', 'KI', 'SW']",True,KE
+2211,bf7ba8d9d981f7c8c64eea7371fc29c7,2,0.0,0.18,NG,25,Nigeria,['EN'],True,NG
+2212,bf8d166d768891b52e72a33abaf8fa98,16,0.0,1.4,EG,33,Egypt,"['AR', 'EN', 'RU']",False,EG
+2213,bfa41f53717470b18d2389b29cfeabad,2,0.0,0.2,DZ,20,Algeria,"['AR', 'EN', 'FR']",False,US
+2215,bfd707533f526e57796a0d4aca12b654,1,0.0,0.09,PK,28,Pakistan,"['EN', 'UR']",True,PK
+2216,bfde68810d26c51f58a56f70d6910b8b,4,0.0,0.4,UA,86,Ukraine,"['EN', 'RU', 'UK']",False,UA
+2218,c00bbfbfc31788d42078ab370ea847d2,7,0.0,0.65,EG,38,Egypt,"['AR', 'ES', 'EN', 'FR', 'RU']",False,EG
+2220,c0257d33401efca7b841a280e3a66566,1,0.0,0.09,KE,26,Kenya,['EN'],True,KE
+2221,c033d2dd546e6224948c60ebed0302b3,1,0.0,0.09,KE,27,Kenya,['EN'],True,KE
+2223,c0715388a4953ac4bc778d30425a0d08,3,0.0,0.28,PK,40,Pakistan,['EN'],True,PK
+2232,c0fc0469e16ae012f224617ff809e620,10,0.0,0.96,PK,19,Pakistan,"['EN', 'RU', 'ES', 'AR', 'DE', 'PT']",True,PK
+2233,c124b7e77f195cf8d06a49f80ef63593,1,0.0,0.09,MM,29,Myanmar,"['DE', 'EN', 'FR', 'SV', 'TR', 'ZH']",False,MM
+2234,c12ef597932a4e7d6c3eb9da317cdd49,1,0.0,0.1,KE,56,Kenya,"['EN', 'RU']",True,KE
+2235,c152b223c53c4326e0059c2885da08d9,4,0.1,0.39,EG,38,Egypt,"['EN', 'AR']",False,EG
+2236,c15e5b8a6a247c23a5c5a44f14219d18,4,0.0,0.39,TR,40,Turkey,"['EN', 'TR']",False,TR
+2237,c16ce4303e54b8653cbf8b059f85d65b,1,0.0,0.1,ES,18,Spain,"['EN', 'ES']",False,ES
+2238,c17b8e0ee4ba2101f91720742302e381,1,0.0,0.09,PK,19,Pakistan,"['EN', 'UR']",True,PK
+2239,c185b3cfd6ccd87dc045c645ba3b0f41,4,0.0,0.38,NG,27,Nigeria,"['AR', 'PT', 'RU', 'EN']",True,NG
+2241,c1a0fa0fbf3ec12d12092d82132d0979,2,0.0,0.19,TZ,20,Tanzania,"['SW', 'EN']",True,TZ
+2243,c1aec495ee3a41aaa491a1e4d8067610,4,0.0,0.4,NG,35,Nigeria,['EN'],True,NG
+2244,c1b0877533d4866cb6f371173bbcce93,1,0.0,0.1,FR,25,France,"['EN', 'FR']",False,FR
+2245,c1e4b51df1132afb7bb87b1e49a1d040,2,0.0,0.25,ZA,55,South Africa,['EN'],True,ZA
+2246,c20f8a3760541441472a123c3a22b59b,1,0.0,0.1,KE,19,Kenya,['EN'],True,KE
+2248,c236385934a13fb2f762e264943a2e01,2,0.0,0.18,PK,24,Pakistan,['EN'],True,PK
+2252,c2b6e923a9586c674d5e7b61694868a4,7,0.0,0.84,ZA,28,South Africa,['EN'],True,ZA
+2253,c2bbdd5459276a1bb6ca708657110c92,2,0.0,0.18,MM,33,Myanmar,['EN'],False,AE
+2257,c2e34bcc6e2d520f7e99603a56a302a6,4,0.0,0.38,ET,34,Ethiopia,['EN'],False,GB
+2260,c2edc2f8c58561ab0eaca7d1f0af41b3,6,0.0,0.56,PH,43,Philippines,['EN'],True,PH
+2261,c336ba76eba25ba00419193501d3453c,1,0.0,0.09,US,47,United States,['EN'],True,US
+2263,c34e89a85095d097bb6c9bfb145f7775,3,0.0,0.28,GH,23,Ghana,['EN'],True,GH
+2264,c35cce44c29d9342461eb3b89f47d4f5,1,0.0,0.09,GB,30,United Kingdom,['EN'],True,GB
+2267,c3d7bddce41a04439f2a43732d9c9ca2,1,0.0,0.1,IN,23,India,"['EN', 'HI']",True,IN
+2268,c3d884e2e307d94be971f35a808aa96a,2,0.0,0.18,DZ,20,Algeria,"['EN', 'FR', 'IT', 'AR', 'ES', 'RU']",False,DZ
+2269,c418fe576f6d87c5a5052080b4c09fd5,4,0.0,0.3,EG,22,Egypt,"['EN', 'AR']",False,EG
+2271,c460285b4c5fa074ddd206560e1b457b,1,0.0,0.1,PH,39,Philippines,['EN'],True,PH
+2272,c4760dd71bb9c353e8977fe5db12c231,1,0.0,0.1,UY,32,Uruguay,"['EN', 'ES']",False,UY
+2274,c4ed954d94bd09b4ffe359c854f70727,8,0.0,0.87,NG,28,Nigeria,"['EN', 'YO']",True,NG
+2276,c517141bcf2cfbc183876dcad77f1fd3,1,0.0,0.09,PL,18,Poland,"['UK', 'PL', 'RU', 'EN']",False,PL
+2279,c5559dfb8020f307e35878da5a2b87a8,2,0.0,0.09,PK,25,Pakistan,"['DE', 'EN', 'FR', 'KK', 'RU', 'AR']",True,PK
+2280,c55d7396a9811571a995d5efcac96119,4,0.0,0.48,US,19,United States,"['NL', 'EN']",True,US
+2282,c5927b1cceb4ca8d292f6ed028e8bcb3,1,0.0,0.1,ID,25,Indonesia,"['EN', 'ID']",False,ID
+2283,c5ab1ded870ac9b74cd0c82581962f54,1,0.0,0.1,ID,44,Indonesia,"['ID', 'MS', 'EN']",False,ID
+2284,c5c1324e6a7218dc4261cb4293ca6a3b,18,0.0,1.69,PK,42,Pakistan,"['AR', 'DE', 'EN', 'ES', 'PL', 'RU']",True,PK
+2286,c60dec0580037f63fa2946e9e233e20c,2,0.0,0.25,KE,21,Kenya,"['EN', 'SW', 'ES']",True,KE
+2288,c61f3ce7ddcd7b7ddeeeb270bf48bc02,1,0.0,0.09,PK,55,Pakistan,"['KK', 'PL', 'ES', 'EN', 'RU', 'AR']",True,PK
+2289,c64a6c5541005423f39edab7c8ff7abd,7,0.0,0.72,AR,33,Argentina,"['EN', 'ES']",False,AR
+2290,c65453f01b8109fc28045f0b03a990a4,4,0.0,0.48,ID,39,Indonesia,"['EN', 'ID', 'AR', 'KK', 'RU']",False,ID
+2291,c661108b401cfddb73add8db970c250c,1,0.0,0.09,IN,19,India,"['EN', 'HI']",True,IN
+2294,c690ba9c12dde3c53f0302107a0dbf87,4,0.0,0.4,NG,31,Nigeria,['EN'],True,NG
+2295,c69b371ed0439e9890b6b0c6f0098f49,8,0.0,0.86,EG,32,Egypt,"['AR', 'EN']",False,EG
+2297,c6a7cbe2929b8fa16af6d3fb6ad815f0,3,0.0,0.33,ID,43,Indonesia,['EN'],False,ID
+2298,c7018d979a12e76f31dcd2d19aaccd1d,9,0.0,0.83,NG,36,Nigeria,['EN'],True,NG
+2301,c733a232e77ce95463b078359c9a68c7,4,0.0,0.38,NG,26,Nigeria,['EN'],True,NG
+2302,c736d37f31974f5849676c2ce3aff58f,34,0.0,3.37,TR,43,Turkey,"['EN', 'FR', 'TR']",False,TR
+2303,c73a55ea5c2e8e9872505de0035717f0,4,0.3,0.18,PK,44,Pakistan,"['AR', 'PT', 'EN', 'JA', 'PL', 'KK']",True,PK
+2304,c73f99789614ee2661fd5c3ac6942dcd,4,0.0,0.38,EG,39,Egypt,"['AR', 'DE', 'EN', 'ES', 'FR', 'RU']",False,EG
+2305,c747c9be99608de9fba149f76ace19ac,8,0.0,0.74,IN,48,India,"['EN', 'ML']",True,IN
+2306,c75a342a53c3dc44400afa4b0dcf1b22,1,0.0,0.09,NG,29,Nigeria,['EN'],True,NG
+2307,c768d0f8f5f0b43acd5f6352172e0b6b,6,0.0,0.56,IT,41,Italy,"['EN', 'ES', 'FR', 'PT']",False,IT
+2308,c77de5ebd14df4c952f582457a217767,1,0.0,0.09,IN,21,India,['EN'],True,IN
+2309,c7b2fe68c130b86c138fb5212306086d,2,0.0,0.22,KE,30,Kenya,['EN'],True,KE
+2311,c7ea78b865198a5e929d10dd626f4925,1,0.0,0.1,ZA,30,South Africa,['EN'],True,CA
+2312,c7f6a7532b2b6b97d4a684e2c9264d8f,18,0.0,1.8,DZ,34,Algeria,"['AR', 'DE', 'EN', 'PL', 'RU', 'TR']",False,DZ
+2314,c81e1253adb1d7c7e596ca919eec0e0d,1,0.0,0.09,IN,22,India,"['HI', 'TE', 'EN']",True,IN
+2317,c867edfcd93307097551f7cf0c72b064,30,0.0,3.6,PK,21,Pakistan,"['AR', 'DE', 'EN', 'FR', 'JA', 'PL']",True,PK
+2318,c8761ad92a5abc00271ba557a1eb63dc,20,0.0,2.18,ET,24,Ethiopia,"['AM', 'EN']",False,ET
+2319,c87957548056713a9c131d3a2d1f6870,1,0.0,0.1,ZA,37,South Africa,['EN'],True,ZA
+2320,c899bf44ead4f2a34a189b0d2dc532d3,1,0.0,0.09,IN,22,India,['EN'],True,IN
+2322,c92ca47293a16ae97c74f7ba988e6f34,8,0.0,0.74,NG,27,Nigeria,['EN'],True,NG
+2323,c93cc4ae3069910fafb0de65878d995c,1,0.0,0.1,GH,21,Ghana,['EN'],True,GH
+2327,c986b342cf4a7b22027eabb73e5d1bfe,4,0.0,0.39,EG,32,Egypt,"['AR', 'EN']",False,EG
+2330,c9d6b46822119473b6531ceb9d6c05b7,2,0.0,0.18,NG,29,Nigeria,['EN'],True,NG
+2331,c9da7132c9129fd17f5e9beed48cb963,1,0.0,0.1,ZA,34,South Africa,['EN'],True,ZA
+2335,ca109b027ff3323f5550ec35b7694f33,6,0.0,0.58,NG,22,Nigeria,['EN'],True,NG
+2337,ca29de0dea7071a0ccf33bbc0db0f576,2,0.0,0.18,KE,24,Kenya,"['EN', 'SW']",True,KE
+2339,ca3e28f65f9720bb67a6a5fc397edbb3,1,0.0,0.1,ZA,26,South Africa,"['EN', 'XH']",True,ZA
+2340,ca418a7b63e6e825e67bc66bddde8635,6,0.0,0.6,KE,24,Kenya,"['SW', 'EN']",True,KE
+2341,ca4393bb0eb9d96da7e3031f493dfbb3,4,0.0,0.38,NG,24,Nigeria,"['RU', 'DE', 'EN', 'PT', 'AR']",True,NG
+2342,ca49fdad06109af1c922e200925df1fd,9,0.0,0.89,EG,28,Egypt,"['AR', 'EN', 'RU']",False,EG
+2343,ca4ac601fdb6552d4c817efc8ccd6e3b,8,0.0,0.7,EG,24,Egypt,"['EN', 'RU', 'AR']",False,EG
+2345,caeaadac57e983664032e4335335fc65,19,0.0,2.12,TR,37,Turkey,"['EN', 'RU', 'ES', 'DE', 'FR', 'TR']",False,TR
+2346,cb08c4a2a039aad7ac66cbf56e533178,1,0.0,0.1,BJ,26,Benin,['EN'],False,BJ
+2347,cb2db72ab42aa9721a2504b4a36c5e9c,2,0.0,0.24,DZ,39,Algeria,"['AR', 'EN', 'FR']",False,DZ
+2348,cb3699f070302a68f50a890210840eec,4,0.0,0.39,IN,27,India,"['RU', 'EN', 'DE', 'FR', 'AR', 'NL']",True,IN
+2350,cb8c8663755f2dca95b652d78dd0661b,3,0.0,0.36,NG,30,Nigeria,['EN'],True,NG
+2351,cb9c3770f4aacda510f245e12581b758,1,0.0,0.09,ET,34,Ethiopia,"['EN', 'AM', 'TI']",False,ET
+2355,cc03cc46f7f263589bd80ef064038b79,1,0.0,0.09,KE,24,Kenya,['EN'],True,KE
+2356,cc0f1ec01e3659fcfeabf79a77325384,1,0.0,0.09,IN,19,India,['EN'],True,IN
+2357,cc26ac16c7c017d04edca708a2772fae,1,0.0,0.09,PK,57,Pakistan,"['RU', 'ES', 'PT', 'EN', 'FR', 'DE']",True,PK
+2359,cc759acfc09c9de22d1a28488d54b510,1,0.0,0.09,KE,27,Kenya,['EN'],True,KE
+2360,cc97a368ae360ae6210c5402bea62f3e,6,0.0,0.56,MA,52,Morocco,"['AR', 'EN', 'ES', 'FR']",False,MA
+2370,cd9d912f90ebe39ba29217e93302e726,10,0.0,0.92,NG,23,Nigeria,['EN'],True,US
+2372,cdc83660844db5f57f99da7a3e266580,1,0.0,0.1,EG,30,Egypt,"['RU', 'AR', 'EN']",False,EG
+2373,cdd4dc2c8cc2ddead0ed978ada0d3d6d,1,0.0,0.1,KE,32,Kenya,['EN'],True,KE
+2374,cdd94f035e74e3ec7594731c155d8264,1,0.0,0.09,IN,42,India,"['TE', 'EN', 'HI']",True,IN
+2377,ce191f38ab104266e1a7a7cc0c3a9e75,4,0.0,0.38,ZA,39,South Africa,['EN'],True,ZA
+2378,ce41f8ad191c660ac50f573bbad26569,8,0.0,0.91,NP,44,Nepal,"['EN', 'HI', 'NE']",False,NP
+2380,ce6b33a062cb091922301580cf9f6830,4,0.0,0.38,GE,18,Georgia,['EN'],False,GE
+2382,ce9e817fa64f987a0e8d3117490e924e,49,0.0,5.08,UA,49,Ukraine,"['EN', 'RU']",False,UA
+2383,ce9f42c08a0c96fe8000c1873447a8ea,1,0.0,0.1,KE,23,Kenya,"['EN', 'ZH']",True,KE
+2386,cf018a432a38132ba18e6af85ec9f4f8,4,0.0,0.4,NG,24,Nigeria,"['DE', 'EN', 'ES', 'PT', 'RU', 'TR']",True,US
+2387,cf06ccff8eb6c647281829a5660db6a0,7,0.0,0.67,EG,22,Egypt,"['KK', 'EN', 'AR']",False,EG
+2388,cf13d154c3dce2617b565b1d29f32390,1,0.0,0.1,KZ,26,Kazakhstan,"['RU', 'EN', 'KK']",False,KZ
+2389,cf18e60a176860f13e4cb4ff3515c289,20,0.0,2.3,EG,28,Egypt,"['FR', 'IT', 'EN', 'TR', 'KK', 'AR']",False,EG
+2390,cf229610c4db619da21eccb859376d43,1,0.0,0.1,NG,26,Nigeria,['EN'],True,NG
+2391,cf6f7225690d27a2aab09ca3cc70d199,1,0.0,0.09,US,23,United States,['EN'],True,US
+2392,cf811406483ba64ee4869aed5fbd9178,1,0.0,0.09,KE,20,Kenya,['EN'],True,KE
+2393,cfc9e7748dab399c5d6e392633593886,1,0.0,0.12,KE,20,Kenya,"['SW', 'EN']",True,KE
+2394,cff04ff5332d9a40c0d1beef2d87dae2,3,0.0,0.19,BR,38,Brazil,"['EN', 'RU', 'PT', 'IT', 'ES', 'FR']",False,BR
+2395,cffcfdfd12a9481f5556c2ff9e3c1ab8,4,0.0,0.38,NG,36,Nigeria,"['EN', 'RU']",True,NG
+2397,d031efa2ee255c4d22da6fc56d09f4e4,4,0.0,0.39,EG,24,Egypt,"['AR', 'EN']",False,EG
+2398,d04bc5c5f8290cf6e5c90ecdb3f40fc2,5,0.0,0.43,PK,27,Pakistan,"['EN', 'RU', 'ES', 'AR', 'DE', 'FR']",True,US
+2399,d05510a88cbb206d35fbaac0c87bd8be,1,0.0,0.09,PK,37,Pakistan,"['EN', 'RU', 'DE', 'AR', 'IT', 'KK']",True,PK
+2400,d0581608363744bebed002a9e9c11e89,1,0.0,0.09,FI,20,Finland,"['RU', 'EN', 'FI']",False,FI
+2402,d07e1d458393ce103269206c7604c7b2,4,0.0,0.38,ET,26,Ethiopia,"['AM', 'EN']",False,ET
+2405,d10707ffd2dd9af7b454b318cfe2f114,2,0.0,0.18,PK,23,Pakistan,"['EN', 'UR']",True,PK
+2406,d111a398d7d433e1a9f04c99f2e72cf2,3,0.0,0.3,KE,38,Kenya,['EN'],True,KE
+2407,d11c48185dc4429bfebd40b08650dcb3,16,0.0,1.7,PK,29,Pakistan,"['PL', 'EN']",True,PK
+2408,d11f47ebafe7e3cde1e58314958449e5,1,0.0,0.09,NG,23,Nigeria,['EN'],True,NG
+2409,d143ecd7c9306afc9d7087825a1e235e,24,0.0,2.42,EG,30,Egypt,"['AR', 'DE', 'EN', 'ES', 'FR', 'RU']",False,EG
+2414,d191011fa3cb697c8cb8684e910691b2,2,0.0,0.18,PK,63,Pakistan,"['AR', 'DE', 'EN', 'PL', 'RU', 'SV']",True,PK
+2415,d1a4ac926b5d3d14bec39ab24660b667,1,0.0,0.09,PH,24,Philippines,['EN'],True,PH
+2420,d1d909f008d9a473e321c469b09888f6,28,0.0,3.14,MA,27,Morocco,"['AR', 'EN', 'FR']",False,MA
+2421,d1edaccdfb5853b7f5ffcb2a42ec7e60,2,0.0,0.2,BW,24,Botswana,['EN'],True,BW
+2422,d1f628ba9b96a827e598cd4813df68f1,9,0.0,0.83,TR,50,Turkey,"['EN', 'TR']",False,TR
+2427,d234daddf997dabb78f0056c9746bc2d,1,0.0,0.09,PK,36,Pakistan,['EN'],True,PK
+2429,d29e2aa21bd5e50ab8cd8eaeee58d6d4,4,0.0,0.38,TR,34,Turkey,"['AR', 'EN', 'TR']",False,TR
+2430,d2b34ae9738095bb64a6cb1dbf7ff855,7,0.0,0.65,EG,29,Egypt,"['AR', 'EN', 'KK']",False,EG
+2431,d2b65422a756546d6115b48259b3265b,4,0.0,0.39,EG,20,Egypt,"['EN', 'AR']",False,EG
+2432,d2bb0e084c705c4fb0d31021c5fc6a93,6,0.0,0.56,KE,19,Kenya,"['EN', 'SW']",True,KE
+2433,d2d54580f3afb8b30109804180a2a24e,1,0.0,0.09,PK,23,Pakistan,"['EN', 'UR']",True,PK
+2434,d2d88fa7654e0554218d73bb2802b96a,1,0.0,0.1,IN,25,India,"['EN', 'HI', 'BN']",True,IN
+2436,d2fb438f642f769a06e1cc7af606c21b,1,0.0,0.12,JO,24,Jordan,"['AR', 'EN']",False,JO
+2437,d304ee45b3749c8290f9eabad5ec1952,1,0.0,0.1,PH,21,Philippines,"['EN', 'TL']",True,PH
+2438,d30c1aefa60e1fddecee5cb51b7bda97,1,0.0,0.1,CR,42,Costa Rica,"['ES', 'EN']",False,CR
+2440,d3659adf94cc79eb198eac6d53614d1e,4,0.0,0.4,TR,45,Turkey,"['EN', 'PT', 'RU', 'DE', 'ES', 'TR']",False,TR
+2442,d374724e511971b28906bf9c6e23656d,1,0.0,0.12,EG,30,Egypt,"['AR', 'EN']",False,EG
+2443,d3aab4e2e389c8c635919901bd954ce2,1,0.0,0.09,PK,18,Pakistan,['EN'],True,PK
+2444,d3be0974cbb4abd00b26856730893d80,1,0.0,0.09,IN,28,India,"['EN', 'TA']",True,IN
+2445,d3c2178b10a8e84665a0a53136b4e1fc,16,0.0,1.56,KE,24,Kenya,"['EN', 'SW']",True,KE
+2446,d3c57aa024d68479c57d540bcba3af10,1,0.0,0.09,TR,29,Turkey,"['AR', 'EN']",False,TR
+2447,d3ebba9ade2d097fc906a4c96df34081,2,0.0,0.18,NG,22,Nigeria,['EN'],True,NG
+2448,d3f6a3bebd86d0bf43d6c7461ce57d0f,1,0.0,0.09,TZ,29,Tanzania,"['EN', 'SW']",True,TZ
+2449,d3f96866f6d1d227734c8f2218bbd73d,1,0.0,0.1,IN,22,India,"['EN', 'HI', 'GU']",True,IN
+2450,d4422a93281ceb9a9c219e35688dd3a8,8,0.0,0.92,KE,28,Kenya,"['FR', 'HI', 'EN', 'JA', 'ES', 'DE']",True,KE
+2455,d4eb65899c3539f189421eb07300b9d4,1,0.0,0.09,IN,22,India,['EN'],True,IN
+2456,d4f195a333743e26d78ff3a57f29cc13,9,0.0,1.06,NG,24,Nigeria,['EN'],True,NG
+2459,d5576a4a0a932453cfac29e77104e2e5,1,0.0,0.09,IN,22,India,['EN'],True,IN
+2460,d5b6df57e2ed703fdea1cf41af77e78e,1,0.0,0.09,PK,20,Pakistan,['EN'],True,PK
+2463,d5f83abfa210b07d0dfc49354e33caa0,1,0.0,0.09,EG,24,Egypt,"['AR', 'DE', 'EN', 'RU']",False,EG
+2464,d60567b4bcca9be5bc22c333a07b546c,1,0.0,0.09,IN,24,India,"['HI', 'EN']",True,IN
+2465,d61422a37a005c6024ad8ad583b98e39,1,0.0,0.09,PH,47,Philippines,['EN'],True,PH
+2466,d620c17848896a792ee1d22d5219a189,1,0.0,0.1,IE,24,Ireland,['EN'],True,IE
+2468,d62a49755aa0a421e4eee8100dc02309,1,0.0,0.1,SN,26,Senegal,"['EN', 'FR', 'PT']",False,SN
+2469,d62ce1e29ae7cdaff8683743c46f16a7,1,0.0,0.1,ET,25,Ethiopia,"['AM', 'EN']",False,ET
+2470,d647b6a9b2aa333c9050673c9baa853c,1,0.0,0.09,PK,18,Pakistan,"['EN', 'UR']",True,PK
+2471,d6828447bb8d5fc32ee4bf051cb336fb,1,0.0,0.1,AR,36,Argentina,"['EN', 'ES']",False,AR
+2474,d6989f9dfb79e0c7a580bd63ee0b0fbc,38,0.0,3.86,EG,25,Egypt,"['EN', 'AR', 'EL', 'RU', 'PL']",False,EG
+2475,d6a850ea7ecb8f97653f99e04130a124,1,0.0,0.09,IN,24,India,"['EN', 'TA']",True,IN
+2478,d6e396cbc25510144a374f0eb8d0e9cb,1,0.0,0.09,IN,20,India,['EN'],True,IN
+2482,d7eb4c5e4c1844be3e76f0db8bed0fa0,1,0.0,0.1,PH,29,Philippines,"['TL', 'EN']",True,PH
+2483,d8193b5ec90970822543a133cc209416,8,0.0,0.74,EG,39,Egypt,"['AR', 'DE', 'EN', 'FR', 'PT', 'SV']",False,EG
+2484,d81b5b6f753d11e4e81425105cbbbbd6,13,0.0,1.2,AR,38,Argentina,"['DE', 'EN', 'ES', 'FR', 'IT', 'PT']",False,AR
+2485,d81bab378f528982346b065e691ea16d,1,0.0,0.1,NG,30,Nigeria,['EN'],True,NG
+2487,d83dbaa38413be305dfca67d358dac7d,4,0.0,0.38,DE,23,Germany,"['AR', 'DE', 'EN', 'ES', 'FR', 'IT']",False,PK
+2494,d8e1de09f9ecaaa9171187266795b3d1,1,0.0,0.1,PH,59,Philippines,['EN'],True,PH
+2498,d920177591983e7270e7ffb2e1c14c79,4,0.0,0.4,KE,23,Kenya,['EN'],True,KE
+2499,d93551891a16e6906adf3598d0fe5a82,1,0.0,0.09,TR,19,Turkey,['EN'],False,TR
+2501,d95d6afce97e471533eae56d292fcce8,4,0.0,0.39,KE,31,Kenya,"['EN', 'SW']",True,KE
+2503,d968dfe61189bac9f6842c794b00cc8c,1,0.0,0.09,IN,24,India,"['EN', 'PT', 'FR']",True,IN
+2505,d973bdf654b898cf4b43517ea80f3a5a,3,0.0,0.28,ET,24,Ethiopia,['EN'],False,ET
+2506,d979d23695523381a06b2392bb09c32b,2,0.0,0.18,NG,21,Nigeria,['EN'],True,NG
+2508,d9b30e2fd1a7509300b6308ab5e54b12,1,0.0,0.09,FR,21,France,"['EN', 'FR']",False,DZ
+2515,da265d4947a624af681dad1945727c96,2,0.0,0.2,KE,21,Kenya,"['ES', 'RU', 'JA', 'EN', 'FR', 'SV']",True,KE
+2516,da6e078a1700e53c129eadb04654f6ca,2,0.0,0.19,KE,30,Kenya,['EN'],True,KE
+2518,da747659dce16f31ab286dcace12c482,4,0.0,0.38,UA,51,Ukraine,"['EN', 'KK', 'UK', 'RU', 'PL']",False,UA
+2520,da80f54c30c86a114ddc9a0070d985d9,4,0.0,0.38,EG,41,Egypt,"['PL', 'EN', 'FR', 'RU', 'TR', 'AR']",False,EG
+2521,da88c802147ed619208b8e8b181f8119,1,0.0,0.09,ZA,19,South Africa,['EN'],True,ZA
+2522,da8da54d2deab65e328a408e058e41e9,1,0.0,0.09,PK,21,Pakistan,['EN'],True,PK
+2523,daa441c0edae2068a5ce3b62e30b7e1e,4,0.0,0.38,KE,28,Kenya,"['EN', 'KI', 'SW']",True,KE
+2524,db1167b0761a490a1f440db5e4b1e679,2,0.0,0.25,GH,24,Ghana,['EN'],True,GH
+2528,db6be6d5c852e86936e1612f15da4a09,22,0.0,2.14,PK,29,Pakistan,"['AR', 'DE', 'EN', 'ES', 'FR', 'JA']",True,AE
+2530,db773c3f8dd5d306c6a70389c4c0c8de,1,0.0,0.09,IN,18,India,"['HI', 'EN']",True,IN
+2532,db911ebf334da0e907817fb2d82d63c7,1,0.0,0.09,PK,19,Pakistan,['EN'],True,PK
+2539,dc18a0b2a730ceba310b1818fb6456ca,6,0.0,0.56,PH,33,Philippines,"['EN', 'TL']",True,PH
+2540,dc2e580509d19f4475adfeaeff34a511,4,0.0,0.3,PK,21,Pakistan,"['RU', 'EN', 'AR']",True,PK
+2542,dc4e37ec7a6697db441766a030e4234b,4,0.0,0.38,ZA,23,South Africa,"['EN', 'ZU']",True,ZA
+2543,dc6c28fbb08db7a729cf298edacd9fa7,1,0.0,0.1,PH,37,Philippines,['EN'],True,PH
+2545,dcc814de94685bb7de194b21380e849a,1,0.0,0.1,IT,26,Italy,"['EN', 'IT']",False,IT
+2547,dcd328ad8da844b6764381d9290ec319,4,0.0,0.38,KE,32,Kenya,"['FR', 'EN']",True,KE
+2548,dcd66c53e98862f229d0dbfcf6003dc2,1,0.0,0.09,MU,26,Mauritius,['EN'],True,MU
+2551,dcedbb7a072f348ca02f86c71000d15a,2,0.0,0.18,KE,29,Kenya,['EN'],True,KE
+2553,dd00a09613718e016601a3e0f630e709,1,0.0,0.1,PT,34,Portugal,"['ES', 'PT', 'EN']",False,PT
+2554,dd268285f6a28e5e6b34cc96b086d9b3,18,0.0,1.75,BR,30,Brazil,"['EN', 'ES', 'PT']",False,BR
+2555,dd3736ea43fe1f9fa92a8d7383ec91c3,6,0.0,0.64,ET,22,Ethiopia,['EN'],False,ET
+2556,dd4b5a81b69c9bfff2b2ae395e49b397,9,0.0,0.94,ET,33,Ethiopia,"['EN', 'AM']",False,ET
+2558,dd5b9484af63764d2af9461072b84919,2,0.0,0.2,LK,23,Sri Lanka,"['EN', 'SI']",True,LK
+2561,dd70a7deb09012f0c31c66665b583021,2,0.0,0.18,KE,25,Kenya,['EN'],True,KE
+2564,dd87758c2bc6c7daba8916e47e85282c,1,0.0,0.09,EG,55,Egypt,"['AR', 'EN', 'DE']",False,EG
+2566,ddabc59a05b57477c99b5fc659dd5df9,6,0.0,0.65,NG,32,Nigeria,"['YO', 'EN', 'FF', 'HA']",True,NG
+2568,ddb51cba0d586f6a88a7aff7d15711d1,1,0.0,0.09,MA,37,Morocco,"['AR', 'EN', 'FR']",False,MA
+2573,de457107917be5095b69cbc7b2485628,1,0.0,0.1,GB,28,United Kingdom,"['TE', 'TA', 'EN']",True,GB
+2574,de4a0963e3c78355f6fb0a0457a63e8c,4,0.0,0.38,EG,19,Egypt,"['AR', 'EN']",False,EG
+2575,de4d467e1feb0d76c15f15682f8bfb75,4,0.0,0.38,NG,29,Nigeria,"['IG', 'EN']",True,NG
+2576,de5e58bc9507ee3b849f409dd54419e7,28,0.0,2.94,IN,31,India,"['BN', 'EN', 'HI']",True,IN
+2578,de69122321c430e6935ca4f6ef2b4b09,4,0.0,0.39,TZ,23,Tanzania,"['EN', 'SW']",True,TZ
+2580,de93b3f25ba90c2b5f23021bf7950ee7,6,0.0,0.6,TR,23,Turkey,"['EN', 'TR']",False,TR
+2582,de97e4d7993ae06c1492169ddbcb25be,6,0.0,0.56,MA,37,Morocco,"['AR', 'EN', 'FR']",False,MA
+2588,ded8f8d3172fc520583b3f51c1d2c08c,4,0.0,0.38,BD,25,Bangladesh,"['BN', 'HI', 'EN', 'ES', 'FR', 'DE']",True,BD
+2596,df8fd34d2e40c4fc98e1d8826b326b16,4,0.0,0.38,PK,22,Pakistan,"['ES', 'DE', 'EN', 'FR']",True,PK
+2597,dfb891d4a3b7a495064bdc6a7c6314d1,1,0.0,0.1,ZA,18,South Africa,"['AF', 'EN']",True,ZA
+2598,e0673aa394f56cea25feac4d6b4e733b,8,0.0,0.74,PK,33,Pakistan,"['EN', 'PA', 'PS', 'UR']",True,PK
+2599,e0681ec55630751f4d809c6a5a1f2c73,16,0.0,1.78,MD,39,Moldova,"['DE', 'EN', 'RO', 'RU']",False,MD
+2601,e077c0e614b1e335c38a96d9e3a55fde,17,0.0,1.88,EG,44,Egypt,"['AR', 'EN']",False,EG
+2602,e078938ee022011c7221372a115841ec,1,0.0,0.12,EG,24,Egypt,"['KK', 'EN', 'RU', 'AR']",False,EG
+2604,e094a2d6950df1eea5439389fcb6cee1,1,0.0,0.09,PK,25,Pakistan,"['IT', 'AR', 'ES', 'DE', 'EN', 'PT']",True,PK
+2606,e09a7e067c438de6312d0cc1d1dae203,1,0.0,0.09,PH,23,Philippines,['EN'],True,PH
+2607,e0a49f0735d0ad901cd0f7cb339eb3b9,1,0.0,0.1,KE,27,Kenya,['EN'],True,KE
+2608,e0ad47b3a681c07fa6eab4c7b78de7b8,1,0.0,0.09,KE,31,Kenya,"['EN', 'SW']",True,KE
+2609,e0b0eb390031463fa8d395fc0de411f9,7,0.0,0.64,TG,27,Togo,"['FR', 'EE', 'EN', 'ES']",False,TG
+2611,e0bcf3cadf4d2c93da0b0059dd08c555,1,0.0,0.09,IN,18,India,"['HI', 'EN']",True,IN
+2613,e0e4a30bc23421dc8711a023bdf6f3e8,29,0.0,3.18,NG,25,Nigeria,"['DE', 'AR', 'RU', 'PL', 'EN', 'ES']",True,NG
+2614,e0fb5d4a7651a5a650d2aff0cb7439e4,4,0.0,0.38,NG,30,Nigeria,"['EN', 'IG', 'YO']",True,NG
+2617,e12bf9c9a9a893e3d5af8fe8074e7873,1,0.0,0.1,IN,21,India,['EN'],True,IN
+2618,e1337c584ebdfd57d73e4459137d2d69,4,0.0,0.39,PK,28,Pakistan,"['RU', 'TR', 'ES', 'EN', 'AR']",True,FR
+2620,e154830aced6380aad41bf0078bc2876,6,0.0,0.56,NG,22,Nigeria,"['IT', 'ES', 'RU', 'DE', 'FR', 'EN']",True,NG
+2621,e15c109bcf7ffc3cb3a7a658a8fe2785,1,0.0,0.09,IN,19,India,['EN'],True,IN
+2625,e19443fac558c76a404a480e39cee7ad,1,0.0,0.1,NG,23,Nigeria,['EN'],True,NG
+2626,e19c491a18a076e8a9274c17952b9231,4,0.0,0.38,NG,29,Nigeria,"['EN', 'ES', 'RU']",True,NG
+2627,e1a857f0a82d07b8ebd3efacbd6c4677,4,0.0,0.38,NG,40,Nigeria,"['DE', 'EN', 'FR']",True,NG
+2632,e20bdb2a1aefd6bb7cced7d86254ccd5,3,0.0,0.28,LK,44,Sri Lanka,['EN'],True,LK
+2634,e23b9fba67e395c271f7f680fcb2a4a7,4,0.0,0.38,KE,22,Kenya,['EN'],True,KE
+2635,e246cdb0c86d95b9350804c1fadeced7,1,0.0,0.1,EG,37,Egypt,"['AR', 'EN']",False,EG
+2637,e25eaacce34533ab26a27f4d8254265d,1,0.0,0.1,ZA,26,South Africa,['EN'],True,ZA
+2638,e26340d3d967031bcaae9af3ac9b052e,1,0.0,0.1,CR,24,Costa Rica,"['ES', 'EN']",False,CR
+2639,e27cc3c0a81439de0b599e9cb0d21d1a,4,0.0,0.3,EG,18,Egypt,"['AR', 'EN', 'RU']",False,EG
+2642,e28618b6d49b0112148dc6850d77083d,4,0.0,0.38,EG,20,Egypt,"['AR', 'EN', 'KK']",False,EG
+2643,e292edebd7c0f29c76db79de6b001aad,4,0.0,0.48,NG,27,Nigeria,['EN'],True,NG
+2646,e2b067906035674d8cd7ce3d89c01fb0,1,0.0,0.09,NG,21,Nigeria,['EN'],True,NG
+2647,e2d7b4a962229763f7afe9da14d050e1,1,0.0,0.09,EG,28,Egypt,"['RU', 'EN', 'AR']",False,EG
+2648,e2e75464f181ec3d6d572b766502bbe9,2,0.0,0.19,KE,23,Kenya,['EN'],True,KE
+2649,e2f0d277862792734a04291f00bcd13d,4,0.0,0.4,KE,26,Kenya,['EN'],True,KE
+2650,e2f83c653f263a8d545831e0aa66c929,1,0.0,0.1,KE,25,Kenya,['EN'],True,KE
+2651,e30a4d39da86b30151b411191ae323a3,1,0.0,0.1,IN,22,India,"['EN', 'HI', 'MR']",True,IN
+2653,e33072a4e068618b46df1402c25ce470,8,0.0,0.74,EG,28,Egypt,"['ES', 'DE', 'AR', 'FR', 'EN', 'IT']",False,EG
+2654,e33133e75447e995f6465d31f1826494,4,0.0,0.38,EG,46,Egypt,"['AR', 'EN']",False,EG
+2659,e3d0116543c6652966d224b4abb77f23,6,0.0,0.56,ZM,30,Zambia,['EN'],True,ZM
+2660,e3def9590ab11e8593f88aeaf906b70a,1,0.0,0.09,IN,18,India,['EN'],True,IN
+2662,e3f5624db86be5b4fdecb443f5e8d28a,1,0.0,0.09,US,30,United States,['EN'],True,US
+2665,e444e09f44bbf6e1f7c83c2f1ad6b82c,1,0.0,0.09,PK,25,Pakistan,"['EN', 'UR']",True,PK
+2666,e44a2cc229f923c2181aee5a4d4c43d7,1,0.0,0.09,PK,21,Pakistan,['EN'],True,PK
+2668,e4781fdb4a7eb7d7dc61415b344c11ea,4,0.0,0.38,TR,42,Turkey,"['ES', 'EN', 'FR', 'DE', 'IT']",False,TR
+2670,e49ac4f8a2a858df9f14f42b7247b194,3,0.0,0.36,IN,35,India,['EN'],True,IN
+2671,e49b33a382774ffe9686934d23d9b90f,2,0.0,0.19,IN,20,India,"['HI', 'ML', 'EN', 'TA']",True,IN
+2673,e4a9b204b4ba0962dba91455b81f8a9a,1,0.0,0.1,NI,31,Nicaragua,"['EN', 'FR', 'ES']",False,NI
+2674,e4ab1e3041f031db666aa89880064fea,1,0.0,0.1,UZ,23,Uzbekistan,"['UZ', 'EN']",False,UZ
+2676,e50227b7a12e060253845e6576fc6bd3,1,0.0,0.1,ML,32,Mali,"['EN', 'FR']",False,ML
+2677,e5251b7071d10af71e5cb1694b3ef07d,12,0.0,1.2,EG,33,Egypt,"['AR', 'EN']",False,EG
+2678,e5383c31e311bac7ee0363717dcf2da4,1,0.0,0.1,BR,40,Brazil,"['EN', 'ES', 'PT']",False,NL
+2680,e57e6313c651d6ade26cb7833785a065,2,0.0,0.1,BW,21,Botswana,['EN'],True,BW
+2681,e5807746e3ff953a66ebf86f9305e3ed,1,0.0,0.09,US,37,United States,['EN'],True,US
+2684,e5a4aee55dae1313d0f56b6987560b35,1,0.0,0.1,IN,27,India,"['EN', 'HI']",True,IN
+2685,e5c42b153015ca765d50ec8dfcb3feca,1,0.0,0.1,ZA,28,South Africa,['EN'],True,ZA
+2686,e5c446aa8c3a569c5f5b3e24e130a59f,4,0.0,0.38,KZ,65,Kazakhstan,"['DE', 'EN', 'ES', 'FR', 'ID', 'RU']",False,PK
+2687,e5d688d1de311b8a495aaab264ebbc4e,1,0.0,0.1,PH,24,Philippines,['EN'],True,PH
+2688,e61aa28d753bbef1348fe512d23770b5,1,0.0,0.09,BD,35,Bangladesh,"['EN', 'NL', 'ZH']",True,BD
+2689,e62c3e5e70ed76d4387c3564de6969b3,10,0.0,0.92,SE,19,Sweden,"['AR', 'EN', 'FR', 'JA', 'KK', 'RU']",False,SE
+2690,e64e017386972491880603d77c1a4c24,6,0.0,0.56,KE,22,Kenya,"['SW', 'EN']",True,KE
+2694,e673b16c2bcd1862266375c3aec3bf9f,7,0.0,0.7,EG,20,Egypt,"['AR', 'EN', 'TR']",False,EG
+2696,e695a236149176661e58c10516d8768c,6,0.0,0.56,TR,47,Turkey,"['AR', 'EN', 'ES', 'FR', 'RU', 'TR']",False,TR
+2698,e6a821a660cb5b3e2a27847ca08561a5,1,0.0,0.09,PK,19,Pakistan,['EN'],True,PK
+2699,e6ac41de369659c03bb133609e20386a,1,0.0,0.09,PR,21,Puerto Rico,['EN'],True,PR
+2701,e6cfeb7fa3f7e36a8f6ef1a09d20d522,1,0.0,0.1,ZA,18,South Africa,['EN'],True,ZA
+2702,e6f932b13be4d960bc505a515e286da2,1,0.0,0.1,ZW,22,Zimbabwe,"['SN', 'EN']",True,ZW
+2704,e726e76b41e2f286542fea3198fcd3ca,1,0.0,0.1,PK,22,Pakistan,['EN'],True,PK
+2706,e746035ea833769fc78286a03191cf44,1,0.0,0.1,KE,20,Kenya,['EN'],True,KE
+2709,e7a9b1a3b8de63720c0c886607f7213c,4,0.0,0.38,KE,23,Kenya,"['SW', 'EN']",True,KE
+2713,e7f3f9ee4b5b12e4ff95a480df3438cc,8,0.0,0.74,US,25,United States,"['DE', 'ES', 'RU', 'ZH-HANS', 'FR', 'EN']",True,KE
+2716,e84101c26475e1635021c168e325b110,8,0.0,0.84,TN,30,Tunisia,"['AR', 'EN', 'FR']",False,TN
+2717,e86edd1a9287cbd388e6d607b1feeec7,4,0.0,0.38,TC,22,Turks and Caicos Islands,"['AR', 'DE', 'EN', 'FR', 'HI', 'RU']",True,PK
+2718,e87105528cb91a0c974453613c33dae9,2,0.0,0.25,IN,18,India,"['EN', 'HI']",True,IN
+2719,e88ced7dff3c0707348f4d8b491e0606,6,0.0,0.56,PH,28,Philippines,"['EN', 'TL']",True,PH
+2720,e8946909e2f48287c18e4ac5106bdbdd,4,0.0,0.38,EG,32,Egypt,"['AR', 'EN', 'RU']",False,EG
+2721,e8bf83915d4c82a53748b4867a6e92f4,2,0.0,0.19,BD,20,Bangladesh,['EN'],True,BD
+2722,e8edcc088d3700c2b2265d71358b60fd,25,0.0,2.72,EG,24,Egypt,"['AR', 'EN', 'KK']",False,EG
+2723,e91724d5d076b3288e83b05b4372d2d8,34,0.0,3.42,EG,21,Egypt,"['AR', 'DE', 'EN']",False,EG
+2725,e91c87483d259fd912903b7f427b142f,2,0.0,0.18,MG,24,Madagascar,"['EN', 'FR', 'MG']",False,MG
+2729,e9773140f1c2cc28b394aabc21b1e84c,11,0.0,1.18,KE,23,Kenya,"['EN', 'SW']",True,KE
+2731,e9a4f234de9e399096a2aba5a7c7357a,1,0.0,0.09,IN,21,India,['EN'],True,IN
+2733,e9dedbcb858a11b658a0ce2714221998,1,0.0,0.1,KE,31,Kenya,"['EN', 'KI']",True,KE
+2735,e9e0033f85e9b537858fb91ea7761d10,1,0.0,0.1,BR,27,Brazil,"['ES', 'EN', 'PT']",False,BR
+2736,e9e35e9a8dabc9754d1c69fac924381c,13,0.0,1.56,EG,39,Egypt,"['AR', 'EN']",False,EG
+2737,e9fcaa9f80db48701a84c407b8472fef,1,0.0,0.09,MX,33,Mexico,"['EN', 'ES']",False,US
+2740,ea21f424a49dcc1412b5bcf7859c03db,5,0.0,0.55,EG,22,Egypt,"['AR', 'EN']",False,EG
+2741,ea31cca70d1281809242d1fdf3f76ac8,4,0.0,0.38,NG,29,Nigeria,"['YO', 'EN']",True,NG
+2743,ea4efc50b852cb91d3f0a67c77ad5c23,1,0.0,0.09,NP,22,Nepal,"['EN', 'NE']",False,NP
+2745,ea91db88ee28330c38239bcd530ba53c,4,0.0,0.39,EG,54,Egypt,"['AR', 'EN']",False,EG
+2747,eaa51a4236a0d1387679f3a2b9a6ec04,1,0.0,0.09,KE,24,Kenya,"['EN', 'FR', 'SW']",True,KE
+2748,eac821e4b877826f076238ba92c01a4c,6,0.0,0.6,KE,23,Kenya,['EN'],True,KE
+2749,ead7a98dd7812c3d9532afefef00f9f6,28,0.0,3.04,EG,37,Egypt,"['KO', 'RU', 'AR', 'KK', 'ES', 'EN']",False,EG
+2751,eaf9fbcc1f1b81bed43c29fab4ed664d,8,0.0,0.74,NG,30,Nigeria,"['EN', 'RU', 'ES', 'JA', 'FR']",True,NG
+2753,eb15be23b0c056f993ce32c01af33d13,11,0.0,1.06,EG,27,Egypt,"['AR', 'DE', 'EN', 'ES', 'FR', 'IT']",False,EG
+2755,eb59764fb0318cf32c1f14f9d301303e,1,0.0,0.09,IN,26,India,"['EN', 'HI']",True,IN
+2756,eb6742ca98bd81cfc6175c579205517f,6,0.0,0.55,TR,37,Turkey,"['PL', 'RU', 'ES', 'DE', 'TR', 'EN']",False,TR
+2758,eb810b30e3c9f07a3ac1f05319d3db43,4,0.0,0.48,NG,20,Nigeria,"['EN', 'FR', 'DE']",True,NG
+2759,ebaf20057bda5222e6fcbec505d59195,2,0.0,0.12,PK,23,Pakistan,"['IT', 'ES', 'DE', 'EN', 'PT', 'AR']",True,PK
+2760,ebb536e2c01cf34eb0181e1fcb6d047d,4,0.0,0.38,UA,22,Ukraine,"['EN', 'RU', 'UK']",False,FR
+2761,ebc016244fbcd097aab03fb68775dfcf,1,0.0,0.1,GB,30,United Kingdom,['EN'],True,GB
+2762,ebd7ea3c17945d1044539eaf8de4d100,4,0.0,0.39,ET,46,Ethiopia,"['RU', 'EN', 'AR']",False,ET
+2763,ebee9bb93836e16891caca64e37e626a,12,0.0,1.27,PK,24,Pakistan,"['EN', 'UR']",True,PK
+2766,ec3259f154840df9caa1bed85dfa33a5,1,0.0,0.1,IN,23,India,"['HI', 'EN']",True,IN
+2767,ec56563c123a3779da4c74fb687a8ea7,4,0.0,0.38,PK,28,Pakistan,"['EN', 'KK', 'AR']",True,PK
+2768,ec56961a25240879fa53bbebf836fa4d,4,0.0,0.38,ET,23,Ethiopia,"['DE', 'ES', 'IT', 'EN', 'FR']",False,ET
+2769,ec5ed1def08962d517b770b9faf89889,6,0.0,0.56,EG,23,Egypt,"['EN', 'AR']",False,EG
+2770,ec7820366222d531bfb4f6f267a9da1e,12,0.0,0.64,IN,38,India,"['AR', 'EN', 'JA', 'PL', 'DE', 'RU']",True,PK
+2771,ec7b1648ede0413a0c2d4176c28046c8,1,0.0,0.09,NG,22,Nigeria,['EN'],True,NG
+2773,ec9037c8c415617e32e1568c90ddbe66,4,0.0,0.39,CN,19,China,"['DE', 'JA', 'EN', 'FR', 'ES', 'RU']",False,PK
+2776,ecf0e383ea28b0cc76740a3f0cd1da46,6,0.0,0.66,EG,25,Egypt,"['AR', 'DE', 'EN', 'FR', 'IT']",False,EG
+2777,ecf8b2e5d12805057a0894e49c391525,7,0.0,0.76,EG,26,Egypt,"['AR', 'EN', 'KK']",False,EG
+2778,ed1300e412ff29ff2d660e731c45351b,4,0.0,0.38,UG,24,Uganda,['EN'],True,UG
+2779,ed55b32f586d5485546007c26221ed33,1,0.0,0.1,VE,25,Venezuela,"['ES', 'EN']",False,VE
+2781,ed8b988e55002674c4dc1e7f1d122b8a,1,0.0,0.1,TN,18,Tunisia,"['AR', 'EN', 'FR']",False,TN
+2783,ee16e704129683d139676a5760dc4711,1,0.0,0.09,US,37,United States,['EN'],True,US
+2787,ee9158de4f182b6632da99d7e28891e3,1,0.0,0.09,IN,27,India,"['HI', 'EN']",True,IN
+2794,ef421fa010643a6e0d789a3ca3eb8e36,5,0.0,0.5,KE,35,Kenya,['EN'],True,KE
+2795,ef45be8e6c4c9a25df4e19f48a628d03,10,0.0,0.92,BY,53,Belarus,"['BE', 'EN', 'RU']",False,BY
+2796,ef47425407f2f16a6df160f60229b607,4,0.0,0.38,KE,28,Kenya,['EN'],True,KE
+2797,ef5f2dbb84ae3c572d1b367732af4bbc,1,0.0,0.09,ES,24,Spain,"['ES', 'EN']",False,ES
+2798,ef64f5cc7a57cbe3c379e2df4fe23085,2,0.0,0.19,IN,27,India,"['HI', 'UR', 'EN']",True,IN
+2799,ef67193f3b26aa92e1514757b7e40c4d,1,0.0,0.09,PH,35,Philippines,['EN'],True,PH
+2800,ef713745feaf9ae1a2a8b3753b6875ea,11,0.0,1.12,CO,25,Colombia,"['EN', 'ES', 'PT', 'IT']",False,CO
+2805,efcca1b9c71df5e1b2d0d0f7547b5829,10,0.0,0.92,UA,72,Ukraine,"['EN', 'RU', 'UK']",False,UA
+2806,efd08936f667287ecf52257fc3fc4c39,3,0.0,0.28,DO,24,Dominican Republic,"['AR', 'EN', 'IT']",False,PK
+2808,efdc36cf3f442d844225a51edfd50d54,32,0.0,3.18,EG,25,Egypt,"['AR', 'EN', 'IT', 'KK', 'NL', 'RU']",False,EG
+2809,efe1b213c02668dac89b67901722950f,1,0.0,0.1,KE,24,Kenya,"['SW', 'EN']",True,KE
+2810,efeaa3e370ef2889db2ad59c4ffde4b2,1,0.0,0.09,IN,20,India,['EN'],True,IN
+2811,f00a62d3176977c5df484a43ce0e7b1d,1,0.0,0.1,NG,20,Nigeria,"['EN', 'YO']",True,NG
+2813,f00b961cc358797c912af9d8f33450e6,4,0.0,0.38,EG,21,Egypt,"['RU', 'IT', 'AR', 'DE', 'FR', 'EN']",False,EG
+2815,f0544608d33b1d21fa8b83c274b7edfc,29,0.0,3.28,EG,23,Egypt,"['EN', 'AR']",False,EG
+2816,f08c2ff97d5658c5d4ff70a6d8f024aa,1,0.0,0.1,MK,68,North Macedonia,['EN'],False,MK
+2818,f0df14e2400a577610a2c207c94f8d47,1,0.0,0.1,IN,19,India,['EN'],True,IN
+2819,f0e0c650a6da97b3021f696486b6b9a8,1,0.0,0.09,EG,21,Egypt,"['FR', 'AR', 'EN', 'DE', 'RU']",False,EG
+2821,f12ff1b94bd5165c075d12c765653f4a,2,0.0,0.18,KE,30,Kenya,['EN'],True,KE
+2822,f14cb63371dc385c3344c4791503f8c7,1,0.0,0.09,ET,25,Ethiopia,"['AM', 'EN']",False,ET
+2823,f1534789df7ca74dd87b8a979d705576,8,0.0,0.74,KE,29,Kenya,"['EN', 'ES', 'SW']",True,KE
+2824,f15648cec45460f9da756dffbf657004,1,0.0,0.09,IN,20,India,"['EN', 'MR', 'HI']",True,IN
+2825,f16660019c4736c7f113f52794f6cab3,1,0.0,0.1,NG,20,Nigeria,['EN'],True,NG
+2830,f1fb33d63b3fa1ab4cb17f65121ac858,4,0.0,0.34,ET,33,Ethiopia,"['AM', 'EN']",False,ET
+2831,f210a9c8fdee703450d30ed551b47802,4,0.15,0.28,NG,31,Nigeria,"['EN', 'YO']",True,NG
+2832,f27608560bd72ef774798b550ebd709a,4,0.0,0.4,PK,19,Pakistan,"['AR', 'DE', 'EN', 'FR', 'KK', 'PT']",True,PK
+2834,f29a679c043a8f24e05c1309ee11d56b,1,0.0,0.12,EG,24,Egypt,"['TR', 'EN', 'IT', 'AR', 'RU', 'JA']",False,EG
+2836,f2aa1e305d82261034620f657819f760,1,0.0,0.1,ZA,19,South Africa,['EN'],True,ZA
+2839,f2cb8ad6863b826437a2a17a91c4c802,13,0.0,1.56,NG,27,Nigeria,"['EN', 'IG']",True,NG
+2842,f31e11551d9fb2226bc834c493934920,3,0.0,0.3,PH,22,Philippines,"['EN', 'FR']",True,PH
+2843,f328fb8de8e1eefa04f4cfa30aa94736,4,0.0,0.38,PH,26,Philippines,"['TL', 'EN']",True,PH
+2846,f3b3bef17aaad1b9ad8e18623edcec9f,1,0.0,0.1,NG,26,Nigeria,['EN'],True,NG
+2847,f3b7eb35e4cc492f5f830e41a2a98d5b,1,0.0,0.09,BZ,35,Belize,"['EN', 'ES']",True,BZ
+2852,f451b6d1d03081492f121d437710efbf,3,0.0,0.28,RU,22,Russia,"['EN', 'KK', 'DE', 'FR', 'AR', 'RU']",False,PK
+2855,f4669e56d338d3bbb34c69587cbcaee5,4,0.0,0.43,PK,54,Pakistan,"['JA', 'EN', 'ES']",True,PK
+2858,f4a126a8d59c6f9e79390890fedaf8fc,27,0.0,3.02,HT,24,Haiti,"['DE', 'EN', 'RU', 'PT', 'FR', 'ES']",False,HT
+2859,f4c4fbf77a516922d0ba54f7f1883177,1,0.0,0.1,KE,30,Kenya,['EN'],True,KE
+2861,f4eb6a7b00df2dafb19dd0d3920b708e,1,0.0,0.09,PK,24,Pakistan,"['JA', 'DE', 'EN', 'PT', 'AR', 'ES']",True,PK
+2862,f53e12838b6709b96bd16c1a78040104,1,0.0,0.09,LK,20,Sri Lanka,['EN'],True,LK
+2863,f57e0fc015359406513453aebdc3f296,4,0.0,0.38,NG,36,Nigeria,"['EN', 'YO']",True,NG
+2864,f593755544c466b2dff3f2763ecf4081,1,0.0,0.09,TR,36,Turkey,['EN'],False,TR
+2866,f5b3f4a5bec5f007a2a675a09b4c0cf9,1,0.0,0.1,IN,21,India,"['HI', 'EN']",True,IN
+2868,f5fe9423b74bbaafa8a74c6552d327e1,1,0.0,0.09,NG,39,Nigeria,['EN'],True,NG
+2869,f620507bd019763bab851cb2b284b51a,1,0.0,0.09,US,34,United States,"['EN', 'DE', 'FR', 'ES', 'PT', 'AR']",True,SG
+2870,f6566de601c542bcb604191a2a441068,11,0.0,0.09,PK,24,Pakistan,"['PT', 'ES', 'EN', 'AR', 'RU', 'IT']",True,PK
+2871,f6746695ec21265bd651b5fc13fd43d6,1,0.0,0.09,IN,26,India,"['EN', 'HI']",True,IN
+2872,f67cff0369fbf7265df3560f4cacd579,12,0.0,1.16,TT,26,Trinidad and Tobago,['EN'],True,TT
+2874,f6a740136cd7ef193c147183a419099a,4,0.0,0.4,PK,31,Pakistan,"['LA', 'UR', 'FR', 'EN']",True,PK
+2875,f6ab0ad48da0de7fd9d5fb0bbcca32af,4,0.0,0.43,PK,37,Pakistan,"['AR', 'DE', 'EN', 'ES', 'IT', 'RU']",True,PK
+2876,f6aec4d66dca9573d3bd3026a5881a50,1,0.0,0.09,PK,66,Pakistan,"['AR', 'DE', 'EN', 'ES', 'KK', 'RU']",True,PK
+2879,f6c722bf14c06878aaa3c00d6b1b0a95,1,0.0,0.1,US,32,United States,['EN'],True,US
+2880,f6e0a4189a2fc8d479de65ba3511d2ed,4,0.0,0.39,FR,18,France,"['EN', 'FR']",False,BJ
+2884,f7176cefb48eef665ff762f59151997a,4,0.0,0.38,IN,41,India,"['EN', 'HI', 'MR']",True,IN
+2885,f72d70e426fd2c88d28aea35488809a0,1,0.0,0.09,KE,29,Kenya,"['SW', 'EN', 'KI']",True,KE
+2886,f72e7522d796e31a3b86c337d70074a2,1,0.0,0.1,GH,25,Ghana,['EN'],True,US
+2890,f78829401be089337db10ec330d57c73,2,0.0,0.22,NL,38,Netherlands,['EN'],False,NL
+2891,f789128bab37232cd72abefcde4fa099,1,0.0,0.1,IN,26,India,"['HI', 'EN']",True,IN
+2892,f7a4074af93ad79b965b781d7cc520ce,31,0.0,3.5,EG,33,Egypt,"['AR', 'EN', 'RU']",False,EG
+2893,f7b47818093e5746777aa275f6f42da2,4,0.0,0.38,PK,27,Pakistan,"['AR', 'EN', 'FR', 'IT', 'KK', 'TR']",True,PK
+2894,f7bf50fa3c5614b296514f2c074baca9,4,0.0,0.38,EG,26,Egypt,"['EN', 'DE', 'FR', 'RU', 'AR']",False,EG
+2895,f7d349f46059be02ce913d6df49ec118,10,0.0,0.92,KE,25,Kenya,"['EN', 'RU']",True,KE
+2897,f7fc5999aeebf21adea127edb81712e8,4,0.0,0.38,KE,24,Kenya,"['EN', 'SW']",True,KE
+2901,f84ee70b54a865116b94c41ff40749f8,1,0.0,0.09,ZA,29,South Africa,['EN'],True,ZA
+2903,f870996b08333cc87ea3fbb821926cb4,1,0.0,0.1,US,52,United States,['EN'],True,US
+2904,f870dc16fa76373d9b0cda239dc5c71c,4,0.0,0.46,TR,31,Turkey,"['AR', 'EN', 'TR']",False,TR
+2905,f874c46f7285e05740a562139005a7af,1,0.0,0.1,CO,18,Colombia,"['EN', 'ES']",False,CO
+2906,f8c46b0e8162237fd9a75604af181ed3,1,0.0,0.1,AR,19,Argentina,"['EN', 'ES']",False,AR
+2907,f8c510a5df23a47d5abd0d1ec7855ed3,1,0.0,0.09,ZA,18,South Africa,['EN'],True,ZA
+2909,f8d8e035b9a590d70c08c7596a0a4480,3,0.0,0.29,KE,29,Kenya,"['EN', 'SW']",True,KE
+2910,f8df785e3a385c742f734fd0827d0484,4,0.0,0.39,EG,21,Egypt,"['AR', 'EN', 'KK', 'PL', 'RU', 'TR']",False,EG
+2911,f8ee05efae6f3d2b037a64f70665e992,4,0.0,0.38,NG,33,Nigeria,"['FR', 'EN', 'DE']",True,NG
+2914,f8fc8ce6ac8af8ad06b87ac02b77127f,11,0.0,1.18,IN,27,India,['EN'],True,IN
+2916,f91d95a62d1c07da5f4ddae20e7e6b14,16,0.0,1.64,ID,27,Indonesia,"['EN', 'ID', 'MS']",False,ID
+2918,f92b578d0ba3be56557207e63ec74ea1,3,0.0,0.36,NG,49,Nigeria,['EN'],True,NG
+2919,f92b78987e45fcac0eb8428032c6d86e,1,0.0,0.09,US,44,United States,['EN'],True,US
+2920,f93508bc9bd29f23a937989387728aee,1,0.0,0.09,PH,19,Philippines,"['TL', 'EN']",True,PH
+2921,f93729c78809a1bb9f17ed820c260a66,16,0.0,1.72,ID,24,Indonesia,"['EN', 'ID']",False,ID
+2922,f954d7396ff702f94ae369d231064d5c,19,0.0,2.06,EG,20,Egypt,"['AR', 'EN']",False,EG
+2925,f97b18fe8e16ee5dfd76561007ca18be,1,0.0,0.1,KE,28,Kenya,"['SW', 'EN']",True,DE
+2929,f9a7f3218ed29e71f5aae0d0d1aec77f,17,0.0,1.76,IN,31,India,"['AR', 'EN', 'HI', 'ML', 'UR']",True,IN
+2932,fa2529f0ca4ecc18b9c1ac6e3c360b65,1,0.0,0.1,VE,27,Venezuela,"['PT', 'EN', 'ES']",False,VE
+2933,fa3b53998ff8afe5e76bae79351a3905,4,0.0,0.38,SN,31,Senegal,"['EN', 'ES', 'FR', 'WO']",False,SN
+2935,fa6f41e5a6641769086a2962317074bf,1,0.0,0.1,RU,19,Russia,"['EN', 'RU']",False,RU
+2938,fa8b5fa99f80e9bd67901b4e9d4515da,15,0.0,1.58,MA,24,Morocco,"['AR', 'DE', 'EN', 'ES', 'FR']",False,MA
+2939,fa9ed74459f3fe17eeb302706b917350,1,0.0,0.09,IN,31,India,"['EN', 'HI', 'PA']",True,IN
+2940,faaf03dcb0745402cf2057fef7c733e3,4,0.0,0.38,PK,23,Pakistan,"['AR', 'EN', 'PT']",True,PK
+2941,fac670d8eb817fe2c4e31c9398314828,1,0.0,0.1,NG,18,Nigeria,['EN'],True,NG
+2943,faf4298c769add91a5151d1b4504f2fe,5,0.0,0.48,PK,22,Pakistan,"['DE', 'EN', 'PT', 'KK', 'RU', 'AR']",True,PK
+2944,fb1701d34399d8f4b0480018cb958353,1,0.0,0.09,EG,57,Egypt,"['AR', 'EN']",False,EG
+2945,fb1fef2ab111beeb61c8e66d72d6bcf1,1,0.0,0.09,NG,27,Nigeria,['EN'],True,NG
+2946,fb235b6a54478334dd41c7db67c6b3a0,1,0.0,0.1,KE,23,Kenya,"['EN', 'SW', 'FR']",True,KE
+2950,fb57c07bbac616b0d904d92d7e521a9c,1,0.0,0.09,PH,18,Philippines,['EN'],True,PH
+2951,fb6749e7a648acc726ea73685e50529a,2,0.0,0.18,PK,27,Pakistan,"['EN', 'PS', 'UR']",True,NL
+2952,fb8817b435f651312ba07d695f113c1e,1,0.0,0.09,PH,23,Philippines,"['EN', 'TL']",True,PH
+2953,fb9b4f2cd00ab8b00b449bc5a6ca64b3,1,0.0,0.09,ZM,22,Zambia,['EN'],True,ZM
+2954,fbac7ef78279ec0b64e5cab3f12ada86,6,0.0,0.58,PH,38,Philippines,"['EN', 'TL']",True,PH
+2956,fbb6e623e58de8555c23293bb899de9c,1,0.0,0.09,PA,24,Panama,"['EN', 'ES']",False,PA
+2957,fbc0911026470bfdd91f5fd12be9b329,1,0.0,0.09,IN,18,India,"['EN', 'BN']",True,IN
+2959,fbcb1260aa8f7ab36a3e5a17ccf004ba,4,0.0,0.39,PH,37,Philippines,"['EN', 'ES', 'TL']",True,PH
+2960,fbe031af39a8e0d8b308618711253d0e,1,0.0,0.09,PK,18,Pakistan,['EN'],True,PK
+2962,fbe96a94cabb544ba363609d7a529aee,1,0.0,0.1,PH,26,Philippines,['EN'],True,PH
+2971,fcb4eb35e7dca82ba9cc41eff6a101c1,4,0.0,0.39,BR,18,Brazil,"['EN', 'PT', 'ES']",False,BR
+2972,fd0a33193f2f609323226f68fc20e812,1,0.0,0.09,PK,48,Pakistan,['EN'],True,PK
+2973,fd10730658a5368e845e6f7690ff3707,8,0.0,0.74,NG,33,Nigeria,"['EN', 'KK', 'TR']",True,NG
+2974,fd2b95970b13b7179db87d58eaa17211,1,0.0,0.09,KE,41,Kenya,['EN'],True,KE
+2977,fd78a626f8933481096c7a3f358a230b,1,0.0,0.1,TZ,23,Tanzania,['EN'],True,TZ
+2979,fdc2e15acb663bfb097cc51c8ed0d1de,1,0.0,0.1,DE,19,Germany,['EN'],False,KE
+2980,fdc7b9916b7a34823d831d777110aa55,4,0.0,0.48,NG,63,Nigeria,['EN'],True,US
+2982,fddc310e0c2a2d036d76c6c36f17c352,1,0.0,0.09,BD,25,Bangladesh,['EN'],True,BD
+2986,fe28919714caaf3aae1de006257a9f51,10,0.0,1.06,HR,30,Croatia,"['BS', 'EN', 'HR']",False,HR
+2988,fe44b4e7e7f2d3cbf69b825794919a79,6,0.0,0.56,PK,35,Pakistan,"['AR', 'DE', 'EN', 'JA', 'PL', 'PT']",True,PK
+2989,fe55164519c7dbeb17e11ec6a2b48644,1,0.0,0.09,IN,18,India,['EN'],True,IN
+2992,fe7307c3a5a0c53e69376ac7ceff408e,4,0.0,0.48,NG,35,Nigeria,"['RU', 'EN', 'ES', 'FR', 'SV']",True,NG
+2993,fe7596e6b5a18b5ede5c038597e2afba,4,0.0,0.38,EG,28,Egypt,"['RU', 'KK', 'EN', 'AR', 'FR', 'IT']",False,EG
+2995,feb8af260cc559b5b099f439c310d83f,1,0.0,0.09,TR,42,Turkey,"['TR', 'EN']",False,TR
+2996,feba0c59cc4c020cf7594cc381632a9a,2,0.0,0.22,FR,32,France,"['EN', 'FR', 'AR']",False,FR
+2998,fec20b0333631b2d27b7da7e200a13d3,1,0.0,0.1,IN,38,India,"['TA', 'EN']",True,IN
+2999,fedfc6dbe8b8e0445e79875159569950,8,0.0,0.74,NG,39,Nigeria,"['YO', 'EN', 'IG', 'HA']",True,NG
+3001,ff147eb1aee598450772de444fbbeb6a,1,0.0,0.1,AU,23,Australia,"['EN', 'HI', 'NE']",True,AU
+3002,ff1d371523b781ff29070eeb8911e21d,1,0.0,0.1,TR,22,Turkey,"['TR', 'EN']",False,TR
+3004,ff535f41bc675bce20d5efec3fe63fce,1,0.0,0.09,TW,26,Taiwan,"['ZH', 'EN', 'ZH-HANS']",False,TW
+3005,ff6712b49f644f2b9defc264655c7f78,1,0.0,0.09,PK,60,Pakistan,"['EN', 'RU', 'ES', 'AR', 'TR', 'PT']",True,PK
+3006,ff705c5ba2538e54a30b05cff9240bd6,1,0.0,0.09,IN,29,India,['EN'],True,IN
+3010,ffcd476eb019227ef761ebf63c77caa2,1,0.0,0.09,PH,22,Philippines,"['EN', 'TL']",True,PH
+3011,ffcfac66f9972d1b208393e9a04a4d97,1,0.0,0.09,KE,22,Kenya,"['EN', 'SW']",True,KE
