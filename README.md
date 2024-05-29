@@ -4,6 +4,6 @@
 
 #### Thesis Supervisor: Voznesenskaya Tamara
 
-#### Thesis Reviewer: Karpov Maxim
+#### Thesis Reviewer: Karpov Maksim
 
 * The recordings and preprocessed datasets (in tar archive) are available by the link - https://drive.google.com/drive/folders/18FZpHd14zYvSsFGBx6ExF0--t-QnjySI?usp=share_link
