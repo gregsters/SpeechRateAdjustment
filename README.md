@@ -2,7 +2,7 @@
 
 #### Prepared by the student of Group 201, Year 4 (year of study) Chebotarev Grigorii Vladimirovich
 
-#### Thesis Supervisor: Voznesenskaya Tamara
+#### Thesis Supervisor: Voznesenskaya Tamara & Knyazev Dmitrii S
 
 #### Thesis Reviewer: Karpov Maksim
 
